@@ -21,30 +21,27 @@ nav: true
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
 {% endcapture %} {% include card.md header="10 simple rules for better figures" text=text %}
 
-{% include video-embed.html include.vimeoid"563918770" caption="10 simple rules video" %}
 
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
-{% capture text %}
-- Split columns or rows of data up into more granular parts
-- Combine multiple datasets into one
-- Combine values from two or more variables (concatenation)
-- Add new variables (columns) or observations (rows) to a dataset
-- Reshape data from rows and columns to visualise data in a different arrangement
-- Organise data{% endcapture %} {% include card.md header="Extend & transform data" text=text %}
+{% include button.html text="Watch the 10 simple rules video for more" link="https://vimeo.com/563918770" color="info" %}
+
 
 {% capture text %}
-- Sort by variables and values
-- Agregrate: reorganise to get a summary of the data
-- Filter: extract a subset by value
-- Facet: summarise values to provide a big picture of your data or to identify outliers{% endcapture %} {% include card.md header="Explore data prior to analysis" text=text %}
+Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
+- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
+- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
+- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
+- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
+- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
+- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
+- [PLoS ONE](https://journals.plos.org/plosone/s/figures)
+{% endcapture %} {% include card.md header="Publisher requirements" text=text %}
 
 {% capture text %}
-- Document all steps taken to process the data
-- Create scripts to automate and repeat the processes on other datasets{% endcapture %} {% include card.md header="Document & repeat steps" text=text %}
+Explore From Data to Viz interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need. {% endcapture %} {% include card.md header="Choose the right visualisation for your data" text=text %}
 
-Explore the two figures below to see examples of messy and clean tabular data.
 
 **Messy data example**
 {% include figure.html img="MessyData.JPG" alt="Messy Data" caption="Messy Data" width="100%" %}
