@@ -43,12 +43,6 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 Explore From Data to Viz interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need. {% endcapture %} {% include card.md header="Choose the right visualisation for your data" text=text %}
 
 
-**Messy data example**
-{% include figure.html img="MessyData.JPG" alt="Messy Data" caption="Messy Data" width="100%" %}
-
-**Clean data example**
-{% include figure.html img="TidyData.JPG" alt="Clean Data" caption="Clean Data" width="100%" %}
-
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/0-setup.html"><-- BACK</a> |
