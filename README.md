@@ -1,20 +1,21 @@
-# Introduction to Data Wrangling with OpenRefine
-Self-paced [online workshop](https://griffithunilibrary.github.io/intro-data-wrangle/) developed by [Griffith University Library](https://www.griffith.edu.au/library).
+# Data visualisation basics
+Self-paced [online workshop](https://griffithunilibrary.github.io/data-vis-basics/) developed by [Griffith University Library](https://www.griffith.edu.au/library).
 
-OpenRefine is an open source tool to explore, clean, organise, combine and transform data. OpenRefine is particularly powerful when working with large datasets.
+Visualising data can help us understand complex information quickly.  Transforming data into a visual format can:
 
-Learn basic data cleaning techniques in this self-paced online workshop such as:
+    reveal patterns and relationships
+    identify trends 
+    communicate insights with impact.
 
-- exploring tabular data through facets and filters
-- implementing ‘tidy data’ principles
-- cleaning, organising and preparing data for analysis
-- extracting and using a script to automate wrangling on similar data
-    
-Download the software and dataset, do activities and watch videos to guide you through the lessons. Give yourself around 2 1/2 hours to complete the workshop.
+The following online demonstrations and exercises will explore methods and tools to create publication quality visualisations of structured data from spreadsheets and text from publications or documents.
+
+This online workshop is aimed at researchers and HDR candidates and requires no coding.  
+
+Download the software and datasets, complete the activities and watch the videos to guide you through the lessons.
+
+Allow approximately 2 hours to complete all the activities. Note your questions and any issues for discussion at the upcoming Q&A session.
 
 All materials in these lessons are licenced CC BY.
-
-Content adapted from [Data Carpentry & Library Carpentry lessons](https://carpentries.org/).
 
 [Workshop-template-b](https://github.com/evanwill/workshop-template-b) by [evanwill](https://github.com/evanwill) is built using [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/). The site is styled using Bootstrap with FontAwesome icons.
 
