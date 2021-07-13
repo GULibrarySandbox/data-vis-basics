@@ -5,7 +5,7 @@ layout: default
 
 ## Data visualisation basics
 
-{% include figure.html img="18-Griffith-Brand-1202-1280x1280.jpeg" alt="intro image here" caption="" width="75%" %}
+{% include figure.html img="GriffithDataVis.jpg" alt="intro image here" caption="" width="75%" %}
 
 Visualising data can help us understand complex information quickly.  Transforming data into a visual format can:
 
