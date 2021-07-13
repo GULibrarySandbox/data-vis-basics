@@ -28,6 +28,7 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 {% include button.md text="Watch the 10 simple rules video for more" link="https://vimeo.com/563918770" color="info" %}
 
 
+
 {% capture text %}
 Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
 - [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
