@@ -25,7 +25,7 @@ nav: true
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
-{% include button.html text="Watch the 10 simple rules video for more" link="https://vimeo.com/563918770" color="info" %}
+{% include button.md text="Watch the 10 simple rules video for more" link="https://vimeo.com/563918770" color="info" %}
 
 
 {% capture text %}
@@ -36,11 +36,12 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 - [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
 - [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
 - [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
-- [PLoS ONE](https://journals.plos.org/plosone/s/figures)
-{% endcapture %} {% include card.md header="Publisher requirements" text=text %}
+- [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %}
+{% include card.md header="Publisher requirements" text=text %}
 
 {% capture text %}
-Explore From Data to Viz interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need. {% endcapture %} {% include card.md header="Choose the right visualisation for your data" text=text %}
+Explore From Data to Viz interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.{% endcapture %} 
+{% include card.md header="Choose the right visualisation for your data" text=text %}
 
 
 
