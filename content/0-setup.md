@@ -8,42 +8,11 @@ nav: true
 
 ## Download & install software
 
-{% capture text %}
-- Check that you have Chrome, Chromium, Opera or MS Edge browser installed and set as your default browser. OpenRefine runs in your default browser. It will also run in Firefox, however some performance issues have been noted. It will not run correctly in Internet Explorer.
-{% endcapture %}
-{% include card.md header="Browser Requirements" text=text %}
-
-{% capture text %}
-- OpenRefine requires Java to be installed.  Check if your computer has Java and if not, select the *Windows kit with embedded Java* when downloading the software.
-- Download the latest software version from [http://openrefine.org](http://openrefine.org). 
-- Unzip the downloaded file into a directory by right-clicking and selecting `Extract ...`.   Name that directory something like OpenRefine.
-- Go to your newly created OpenRefine directory.
-- Move the folder to `c:\program files` (you may need administrator privileges to do this)
-- Launch OpenRefine by clicking the `openrefine.exe` file (this will launch a command prompt window, but you can ignore that and wait for the browser to launch)
-- If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at [http://127.0.0.1:3333/](http://127.0.0.1:3333/) or `http://localhost:3333` to launch the program.
- {% endcapture %}
-{% include card.md header="Windows" text=text %}
-  
-{% capture text %}
-- Download latest software version from [http://openrefine.org](http://openrefine.org)
-- Drag icon into `Applications folder`
-- Doubleclick to launch OpenRefine
-- If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at [http://127.0.0.1:3333/](http://127.0.0.1:3333/) or `http://localhost:3333` to launch the program.
-  
- **Mac Troubleshooting**
-- If OpenRefine doesn’t open due to security settings go to:
-  - `System Preferences> security & privacy >` see message re: OpenRefine
-  - Select Open anyway{% endcapture %}
-{% include card.md header="Mac" text=text %}
-
-{% capture text %}
-- Download the latest software version from [http://openrefine.org](http://openrefine.org). 
-- Unzip the downloaded file into a directory. Name that directory something like OpenRefine.
-- Go to your newly created OpenRefine directory.
-- Launch OpenRefine
--Type `./refine` into the terminal within the OpenRefine directory
-- If you are using a different browser, or OpenRefine does not automatically open for you, point your browser at [http://127.0.0.1:3333/](http://127.0.0.1:3333/) or `http://localhost:3333` to launch the program.{% endcapture %}
-{% include card.md header="Linux" text=text %}
+- MS Excel
+- Adobe Photoshop: available to all Griffith staff via download [here](https://intranet.secure.griffith.edu.au/computing/software#cat) scroll down to Vendor discounts and access and select Adobe product access (Staff only)
+- GNU Image Manipulation Program  (GIMP): open source (free) alternative to Adobe Photoshop for editing images [https://www.gimp.org/](https://www.gimp.org/)
+- Voyant tools [https://voyant-tools.org/](https://voyant-tools.org/)  (use online)
+- RAWGraphs   [https://rawgraphs.io/](https://rawgraphs.io/) (use online)
 
 -----
 
