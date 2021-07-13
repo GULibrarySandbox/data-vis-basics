@@ -15,10 +15,8 @@ keywords: "data visualisation, Voyant tools, Rawgraphs.io, MS Excel, publication
 featured-image: "/images/GriffithDataVis.jpg"
 
 # author settings for cc-by, appears in the footer
-author: Sharron Stapleton
+author: Griffith University Library 
 pub_year: 2021
-github_username: stapletonsl
-# Need to add acknowledgement to Evan Wills
 
 # add the full url for the github repository
 repo: "https://github.com/GriffithUniLibrary/data-vis-basics/"
