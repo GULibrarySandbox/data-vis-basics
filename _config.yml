@@ -15,7 +15,8 @@ keywords: "data visualisation, Voyant tools, Rawgraphs.io, MS Excel, publication
 featured-image: "/images/GriffithDataVis.jpg"
 
 # author settings for cc-by, appears in the footer
-author: Griffith University Library 
+author: Griffith University Library
+github_username: GriffithUniLibrary
 pub_year: 2021
 
 # add the full url for the github repository
