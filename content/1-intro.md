@@ -21,7 +21,7 @@ nav: true
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
 {% endcapture %} {% include card.md header="10 simple rules for better figures" text=text %}
 
-{% include video-embed.html "https://vimeo.com/563918770" caption="Example video" %}
+{% include video-embed.html include.vimeoid"563918770" caption="10 simple rules video" %}
 
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
