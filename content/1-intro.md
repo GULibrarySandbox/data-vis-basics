@@ -2,7 +2,7 @@
 title: Intro
 nav: true
 ---
-# Background
+# Ten simple rules for better figures
 
 -----
 
@@ -10,24 +10,14 @@ nav: true
 
 [OpenRefine](http://openrefine.org) is a [Java](https://www.java.com/en/)-based program that runs on your computer (not online).
 
-It runs inside your Web browser, but no internet connection is needed to use it, unless you want to bring in Web-based data for cleaning. Once web-based data has been read into OpenRefine, no further internet connection is needed.
-
-#### Features of OpenRefine
-  
-- Open source collaboratively developed software (OpenRefine source code is housed on GitHub)
-- A growing community of users worldwide, from novice to expert, ready to help
-- Works with large datasets, i.e. those greater than 100,000 rows
-- Can adjust memory allocation to accommodate larger datasets 
-
-#### Tasks you can use OpenRefine for
+Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
+PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
 {% capture text %}
-- Identify where data is missing
-- Fix inconsistencies such as date formats, name case format and order
-- Find and correct errors inlcuding misspellings, typos, whitespace
-- Find and remove duplicate observations
-- Identify and fix illegal values (data that does not fall within the accepted range for the variable)
-- Map the meaning of the dataset to its structure, see ['Tidy data'](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) by [Hadley Wickham](http://hadley.nz/){% endcapture %} {% include card.md header="Clean & standardise data" text=text %}
+1. **Know your audience**: a figure should be tailored to your audience and will likely be presented differently to groups including peers, students or the general public.
+2. **Identify your message** before developing the figure. A figure is a quick way to introduce facts, or a result too complex to explain only with words.
+3. **Adapt the figure to the support medium**. The reader of a journal article has time & the ability to zoom on a figure vs a conference attendee has limited time & the presentation is at a distance.
+{% endcapture %} {% include card.md header="10 simple rules for better figures" text=text %}
 
 {% capture text %}
 - Split columns or rows of data up into more granular parts
