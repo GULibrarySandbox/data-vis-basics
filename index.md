@@ -3,20 +3,23 @@ title: Home
 layout: default
 ---
 
-## Introduction to Data Wrangling with OpenRefine
+## Data visualisation basics
 
 {% include figure.html img="GC_Campus_LM-3181.jpg" alt="intro image here" caption="" width="75%" %}
 
-[OpenRefine](https://openrefine.org/)  is an open source tool to explore, clean, organise, combine and transform data. OpenRefine is particularly powerful when working with large datasets. 
+Visualising data can help us understand complex information quickly.  Transforming data into a visual format can:
 
-Learn basic data cleaning techniques in this self-paced online workshop such as:
+- reveal patterns and relationships
+- identify trends 
+- communicate insights with impact.
 
-- Exploring tabular data through facets and filters
-- Implementing ‘tidy data' principles
-- Cleaning, organising and preparing data for analysis
-- Extracting and using a script to automate wrangling on similar data
+The following online demonstrations and exercises will explore methods and tools to create publication quality visualisations of structured data from spreadsheets and text from publications or documents.
 
-Download the software and dataset, do activities and watch videos to guide you through the lessons. Give yourself around 2 1/2 hours to complete the workshop.
+This online workshop is aimed at researchers and HDR candidates and requires no coding.  
+
+Download the software and datasets, complete the activities and watch the videos to guide you through the lessons.
+
+Allow approximately 2 hours to complete all the activities. Note your questions and any issues for discussion at the upcoming Q&A session.
 
 
 {% include toc.html %}
