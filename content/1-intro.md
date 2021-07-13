@@ -8,9 +8,6 @@ nav: true
 
 {% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}
 
-Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
-PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
-
 {% capture text %}
 1. **Know your audience**: a figure should be tailored to your audience and will likely be presented differently to groups including peers, students or the general public.
 2. **Identify your message** before developing the figure. A figure is a quick way to introduce facts, or a result too complex to explain only with words.
@@ -23,6 +20,9 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 9. **Message beats beauty**: find standards in your research domain, scan literature for good visualization methods to use.
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
 {% endcapture %} {% include card.md header="10 simple rules for better figures" text=text %}
+
+Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
+PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
 {% capture text %}
 - Split columns or rows of data up into more granular parts
