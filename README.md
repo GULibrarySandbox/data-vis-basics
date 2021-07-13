@@ -3,9 +3,9 @@ Self-paced [online workshop](https://griffithunilibrary.github.io/data-vis-basic
 
 Visualising data can help us understand complex information quickly.  Transforming data into a visual format can:
 
-    reveal patterns and relationships
-    identify trends 
-    communicate insights with impact.
+- reveal patterns and relationships
+- identify trends 
+- communicate insights with impact.
 
 The following online demonstrations and exercises will explore methods and tools to create publication quality visualisations of structured data from spreadsheets and text from publications or documents.
 
