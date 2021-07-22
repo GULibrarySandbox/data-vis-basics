@@ -1,21 +1,30 @@
 ---
-title: Facets
+title: Voyant tools
 nav: true
----
-# Facets & Clustering 
+--- 
 
 --------
+voyant-tools.org
 
-### Facets
-Faceting is a useful feature of OpenRefine and can help you:
-- Get an overview of the data in a project
-- Get counts of data in specific columns
-- Help you identify missing, misspelled or inconsistent data.
+Voyant is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert  mulitple URLs or copy and paste text into the search box. 
 
-A common use case for your data might be where you want to know how many times a particular value appears in a column in your data.
+Voyant Tools is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.   It is a scholarly project that is designed to facilitate reading and   interpretive practices for digital humanities students and scholars as well as for the general public.
 
-A 'Facet' groups all the like values that appear in a column, and then allows you to filter the data by these values 
-and edit the values for a number of records in one go.
+Do not use personal, confidential or sensitive data in Voyant Tools.
+
+Features and tools include:
+
+Cirrus: a word cloud showing the most frequent terms
+Reader: an efficient corpus reader that fetches segments of text as you scroll
+Trends: a distribution graph showing terms across the corpus (or terms within a document)
+Summary: a tool that provides a simple, textual overview of the current corpus
+Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+more 
+Citing Voyant Tools
+
+Cite the tool's developers when publishing a visualisation created using Voyant Tools:
+
+Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
 
 
 {% capture text %}
