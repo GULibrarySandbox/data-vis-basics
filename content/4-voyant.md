@@ -31,10 +31,6 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 
 Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
 
-/%}
-
-
-
 {% To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 Watch the following videos: 
 /%}
