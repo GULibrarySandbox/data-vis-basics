@@ -50,6 +50,6 @@ There is aâ€¯[Google Group](https://groups.google.com/forum/#!forum/openrefine)â
 Help is available from eResearch and Library specialists at Griffith University. Get in touch with us [here](https://intranet.secure.griffith.edu.au/library/forms/help) for an online consultation.
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/1-intro.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/1-rules.html">NEXT --></a>
 </p> 
