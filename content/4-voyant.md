@@ -26,38 +26,27 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 - Trends: a distribution graph showing terms across the corpus (or terms within a document)
 - Summary: a tool that provides a simple, textual overview of the current corpus
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
-more 
+ 
 
 ## Citing Voyant Tools
 
 Cite the tool's developers when publishing a visualisation created using Voyant Tools:
 
-Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
-
-{% To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
-Watch the following videos: 
-/%}
-
-
+`Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org`
 
 To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
-Watch the following videos:
-
-
-{% include video-embed.html youtubeid="moJgWrD6dwg" caption="Example video" %}
+Watch the following videos: 
 
 ## How to use voyant tools
----
+
+<iframe width="560" height="315" src="https://player.vimeo.com/video/563468503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
 
-{% include vimeoPlayer.html id=page.vimeoId %}
+## How to use voyant tools
 
-
-{%
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
   video: https://vimeo.com/563468503/c2e3a52115
-
 
 
 - title: Voyant how does it work
