@@ -68,12 +68,6 @@ Watch the following videos:
 
 ----
 
---------
-
-{% include button.md text="Watch this video to learn these functions" link="https://vimeo.com/412536655/cfbb96bb38" color="info" %}
-
------
-
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html">NEXT --></a>
