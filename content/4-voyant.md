@@ -1,4 +1,8 @@
-title: Voyant tools
+
+---
+title: Voyant
+nav: true
+---
 
 {% capture text %}
 --------
