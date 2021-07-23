@@ -31,6 +31,10 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 
 Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
 
+/%}
+
+
+
 {% To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 Watch the following videos: 
 /%}
@@ -38,7 +42,7 @@ Watch the following videos:
 ## How to use voyant tools
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
-  video: https://player.vimeo.com/video/563468503
+  video: https://vimeo.com/563468503/c2e3a52115
 
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
