@@ -1,8 +1,6 @@
----
 title: Voyant tools
-nav: true
---- 
 
+{% capture text %}
 --------
 voyant-tools.org
 
@@ -26,25 +24,15 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 
 Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
 
-
-{% capture text %}
-The first facet to explore is  `Text facet`. It groups all the identical text values in a column and lists each value and the number of records in which that value appears. Facet information always appears in the left-hand panel in the OpenRefine interface.
-
-Here we will use faceting to look at the values represented in the  `Crash_Month` column.
-
-- Scroll over to the  `Crash_Month` column.
-- Click the down arrow and choose  `Facet > Text facet`.
-
-In the left panel, you will now see a box containing every unique value in the `Crash_Month` column,
-along with a number representing how many times that value occurs in the column.  At the top of the box you can sort the results by name and count. A great feature for exploring a large dataset.
-
-- Try sorting this facet by name and by count. How are they sorted? Name is alphabetical and count is largest first.
-- Which months have the highest and lowest traffic related accidents? May is the highest, January the lowest.
-- Close facet by clicking the  `x`  in top corner of the Facet panel.{% endcapture %} {% include card.md header="Activity – Looking at data through Facets" text=text %}
-
-
-{% capture alert %}*Note:* Always close facets when you are finished with them, so as not to affect future facets or results.
 {% endcapture %}
+
+
+
+{% capture text %}To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
+Watch the following videos: 
+{% endcapture %}
+
+
 {% include alert.md text=alert color="warning" %}
 
 You can also amend data with Facets.
