@@ -6,10 +6,8 @@ nav: true
 # Voyant Tools
 
 -----
-{% capture text %}
 
---------
-voyant-tools.org
+## voyant-tools.org
 
 Voyant is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert  mulitple URLs or copy and paste text into the search box. 
 
@@ -19,11 +17,11 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 
 ## Features and tools include:
 
-Cirrus: a word cloud showing the most frequent terms
-Reader: an efficient corpus reader that fetches segments of text as you scroll
-Trends: a distribution graph showing terms across the corpus (or terms within a document)
-Summary: a tool that provides a simple, textual overview of the current corpus
-Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+- Cirrus: a word cloud showing the most frequent terms
+- Reader: an efficient corpus reader that fetches segments of text as you scroll
+- Trends: a distribution graph showing terms across the corpus (or terms within a document)
+- Summary: a tool that provides a simple, textual overview of the current corpus
+- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
 more 
 
 ## Citing Voyant Tools
