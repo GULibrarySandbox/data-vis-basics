@@ -50,25 +50,13 @@ Watch the following videos:
 
 ## stop test 
 
-{% include alert.md text=alert color="warning" %}
-
-
-
-
-
-
-{% capture text %}
-- Use faceting to look at the  `Crash_Day_of_Week`  Column.
-- What are the results? Do you see different representations of the same value?
-- Hover over  `MON SUN & SAT`  and choose  `Edit cells`  to alter the abbreviated values to full words.
-- Do you now have seven values for the days of the week? 
-- Close facet{% endcapture %} {% include card.md header="Activity – fixing errors with Facets" text=text %}
-
 {% include button.md text="Watch this video to work through the activities" link="https://vimeo.com/412540178/a0a65e0c0f" color="info" %}
 
-----
+
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html">NEXT --></a>
 </p>
+  
+  
