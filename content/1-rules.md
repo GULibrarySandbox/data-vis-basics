@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Rules
 nav: true
 ---
 # Ten simple rules for better figures
