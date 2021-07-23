@@ -1,9 +1,11 @@
-
 ---
 title: Voyant
 nav: true
 ---
 
+# Voyant Tools
+
+-----
 {% capture text %}
 --------
 voyant-tools.org
