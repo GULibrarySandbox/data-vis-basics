@@ -35,7 +35,7 @@ Watch the following videos:
 
 ## How to use voyant tools
 
-<iframe width="560" height="315" src="https://vimeo.com/563468503/c2e3a52115" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/563468503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="voyant_URL_upload_tailed.mp4"></iframe>
 
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
