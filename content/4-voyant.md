@@ -4,7 +4,7 @@ nav: true
 ---
 
 ---
-vimedoID:c2e3a52115
+vimedoID:563468503
 
 ---
 
@@ -41,7 +41,7 @@ Watch the following videos:
 ## How to use voyant tools
 
 
-{% include vimeoPlayer.html id=page.563468503/c2e3a52115 %}
+{% include vimeoPlayer.html id=page.563468503 %}
 
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
