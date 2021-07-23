@@ -47,7 +47,7 @@ Explore From Data to Viz interactive help to find the most appropriate graph for
 
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/0-setup.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/0-setup.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html">NEXT --></a>
 </p>
 
