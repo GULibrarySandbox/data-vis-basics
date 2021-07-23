@@ -114,7 +114,7 @@ OpenRefine has several clustering algorithms built in. Let's experiment with the
 ### Different clustering algorithms
 
 Detailed information on the different clustering algorithms and combinations is available here: [https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth).
-
+ 
 -----
 
 <p align="center">
