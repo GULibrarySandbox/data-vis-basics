@@ -7,6 +7,7 @@ nav: true
 
 -----
 {% capture text %}
+
 --------
 voyant-tools.org
 
@@ -16,7 +17,7 @@ Voyant Tools is an open-source project and the code is available through GitHub.
 
 Do not use personal, confidential or sensitive data in Voyant Tools.
 
-Features and tools include:
+## Features and tools include:
 
 Cirrus: a word cloud showing the most frequent terms
 Reader: an efficient corpus reader that fetches segments of text as you scroll
@@ -30,14 +31,24 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 
 Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org
 
-{% endcapture %}
+/%}
 
 
 
-{% capture text %}To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
+{% To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 Watch the following videos: 
-{% endcapture %}
+/%}
 
+## How to use voyant tools
+- title: Voyant how does it work
+  description: this video will give you a quick overview on how to use the tool
+  video: https://player.vimeo.com/video/563468503
+
+- title: Voyant how does it work
+  description: this video will give you a quick overview on how to use the tool
+  video: https://player.vimeo.com/video/563467758
+
+## stop test 
 
 {% include alert.md text=alert color="warning" %}
 
@@ -45,6 +56,9 @@ You can also amend data with Facets.
 
 In this next activity you want to limit to a sub-set of this data, with records about *crashes* which resulted in *fatalities* or *hospitalisation*.
 {% capture text %}
+
+
+
 - Scroll to  `Crash_Severity`  Column.
 - Click the down arrow and choose  `Facet > Text facet`. Unique values will be displayed in left hand panel.
 - Click on the choices in the facet, or hover over them,  `edit`  and  `include`  functions appear.
