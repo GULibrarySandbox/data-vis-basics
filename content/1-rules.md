@@ -27,6 +27,8 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 
 {% include button.md text="Watch the 10 simple rules video for more" link="https://vimeo.com/563918770" color="info" %}
 
+<iframe width="560" height="315" src="https://player.vimeo.com/video/563918770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
+
 
 
 {% capture text %}
@@ -41,8 +43,10 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 {% include card.md header="Publisher requirements" text=text %}
 
 {% capture text %}
-Explore From Data to Viz interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.{% endcapture %} 
+Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.{% endcapture %} 
 {% include card.md header="Choose the right visualisation for your data" text=text %}
+
+
 
 
 
