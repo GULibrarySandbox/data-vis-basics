@@ -18,7 +18,6 @@ Undertake the activities below to create PivotTables and PivotCharts.
 - Open in MS Excel software{% endcapture %}
 {% include card.md header="Setup" text=text %}
 
------
 
 ### Data collection and use
 
@@ -88,7 +87,6 @@ If you hadn’t selected in the exact order you wanted or just changed your mind
 11.	Choose `Move to end`.{% endcapture %}
 {% include card.md header="Activity : Data ordering in PivotTables" text=text %}
 
------
 
 ### Combining fields
 
