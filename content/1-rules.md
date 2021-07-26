@@ -58,6 +58,6 @@ Ready to dive into using MS Excel for publication quality figures?  Click Next.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-tables.html">NEXT --></a>
 </p>
 
