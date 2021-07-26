@@ -68,27 +68,57 @@ You can add data in any order, or you can reorder it as you need.  Let’s do th
   - Health
   - Other L&T*
   - RED**
-  - Sciences{% endcapture %}
+  - Sciences
+ 
+#### Reordering
+
+Reordering 
+If you hadn’t selected in the exact order you wanted or just changed your mind, you can still reorder the columns: 
+
+#### Method A: click and drag
+
+8.	In the `Values` box in the `PivotTable Fields` pane, point the mouse to the `Other L&T` label until the four-headed arrow `Move` shape appears.
+9.	Click and drag the field to the last position in the list.
+
+#### Method B: menu selection
+
+10.	In the `Values` box in the `PivotTable Fields` pane, point the mouse to the `RED` label and click on the selection list arrowhead on the right.
+11.	Choose `Move to end`.{% endcapture %}
 {% include card.md header="Activity : Data ordering in PivotTables" text=text %}
 
 -----
 
-### Data preview
+### Combining fields
 
-OpenRefine gives you a preview to show you how it has interpreted the file you have uploaded or imported. If your data was tab-delimited rather than comma-delimited, the preview might look strange. 
-- Be sure the correct separator is displayed in the box shown. 
-- If you have made any changes, click `Update Preview` (bottom left). 
-- If the wrong file is displaying, click `<<Start Over` (upper left).
+In this data, both `Other L&T` and `RED` are categories, rather than Academic Groups. They don’t need to be shown as two separate fields. 
 
-There are options to indicate whether the dataset has column headers included and whether OpenRefine should skip a number of rows before reading the data. 
-- Choose `UTF8` as the method of encoding as this should convert any 'smart' formatting into plain text.
-- Make sure `Trim leading & trailing whitespace from strings` is checked. This will automatically remove any whitespace from the beginning or end of data strings or cells, making the data computer readible. Words with spaces at the beginning or end are particularly hard for we humans to tell from strings, but the blank characters will make a difference to the computer.
-- Ensure the first row is used to create the column headings by checking the box `Parse next 1 line(s) as column headers`
-- Make sure the `Parse cell text into numbers, dates,` ... box is not checked, so OpenRefine doesn't try to automatically detect numbers. Parsing in this context refers to the way the software will interpret the format of the data.
-- Give the project a meaningful name such as `TrafficAccidentsCleanV1`
-- If all looks fine, click `Create Project`.
+{% capture text %}
+1.	Click in the `Sum of RED` heading (the last column in the PivotTable).
+2.	On the `PivotTable Tools` tab on the ribbon, click on `Analyze` (should already be selected).
+3.	Click on the `Fields, Items & Sets` button in the `Calculations` group.
+4.	Click on `Calculated field`…
+5.	Type a name for the field – e.g. `Other`.
+6.	In the `Formula` field, leave the equals `(=)`, then select `Other L&T` and click `Insert` Field, type
+`<space>+<space>`, then select `RED` and click `Insert Field`.
+7.	Click `OK`.
+8.	You can now remove `Other L&T` and `RED` from the Values box by `unchecking the boxes` for those fields.{% endcapture %}
+{% include card.md header="Activity : Combining fields in PivotTables" text=text %}
 
-{% include figure.html img="20201209_OR_Preview_Screen.png" alt="Create Project" caption="Create a project in OpenRefine" width="75%" %}
+### Renaming fields
+
+You can rename fields in a PivotTable using any name except the original.  This looks more professional than each label being prefixed with “sum of” and also creates a more readable legend if you are also intending to create a chart. 
+
+{% capture text %}
+1.	In the `Values` box in the `PivotTable Fields` pane, point the mouse to the `Sum of AEL` label and click on the selection list arrowhead.
+2.	Click on `Value Field Settings`…
+   - NOTE:  You cannot use any name that is already used in the data table (i.e. “AEL”), but you can add a space to the end of the name which makes it different for Excel’s criteria, yet it looks the same to the reader.
+3.	In the `Custom Name:` field, type `AEL<space>`.
+4.	Click `OK`.
+5.	Do the same for the other field values.{% endcapture %}
+{% include card.md header="Activity : Renaming fields" text=text %}
+
+
+
 
 {% include button.md text="Watch the steps above on this video" link="https://vimeo.com/412189056/0d9031def0" color="info" %}
 
