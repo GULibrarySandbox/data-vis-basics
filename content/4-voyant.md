@@ -49,7 +49,11 @@ Watch the following videos:
 
 ## Activity: upload and export data
 
-
+<div class="panel panel-info">
+**Activity: upload and export data**
+{: .panel-heading}
+<div class="panel-body">
+ 
 Step one: upload data
 
 Watch the Video, this will show you how to upload text and to Voyant
