@@ -2,7 +2,7 @@
 title: Numbers
 nav: true
 ---
-# Examining Numbers in OpenRefine
+# References and more
 
 When a table is imported into OpenRefine, all data is formatted as text. We saw earlier how we can sort column values as numbers, but this does not change the data type in a column from text to numbers. Rather, this interprets the values as numbers for the purposes of sorting but keeps the underlying data type as is.
 
