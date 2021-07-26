@@ -120,7 +120,7 @@ there are three reference options available, copy the style you need.
 
 {% capture text %}
 
-## Activies - Export and Cite your data
+## Activities - Export and Cite your data
 The key feature of Voyant is to be able to quickly create visual data, and then the capacity to choose your own visualisation and export the image for further use. 
 
 In this set of activitis we will look at the different types of resources to upload and how to change the visualisations. 
