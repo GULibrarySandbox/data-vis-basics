@@ -1,9 +1,9 @@
 ---
-title: MS Excel
+title: Excel
 nav: true
 ---
 
-# Data visualisation using MS Excel
+# Data visualisation using Microsoft Excel
 
 -----
 ## Overview
