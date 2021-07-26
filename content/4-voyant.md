@@ -51,9 +51,11 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 Watch the following videos: 
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/563468503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/563467758?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
+<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563468503' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563467758' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 
 {% capture text %}
 ## Activity: upload and export data
