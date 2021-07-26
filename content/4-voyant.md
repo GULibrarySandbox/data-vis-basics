@@ -48,11 +48,12 @@ Watch the following videos:
 
 
 ## Activity: upload and export data
-<iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
+
 
 Step one: upload data
 
 Watch the Video, this will show you how to upload text and to Voyant
+<iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
 To analyse text:
 
@@ -75,7 +76,7 @@ select file or files to anlayse
 click open
 this will automatically open your selected files in Voyant.
 
-## analyse the Visualisations
+## Analyse the Visualisations
 
 The standard visualisations will show basic Cirrus clouds and document terms count.  
 
