@@ -25,7 +25,7 @@ nav: true
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
-<iframe width="560" height="315" src="https://player.vimeo.com/video/563918770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="Ten simple rules for better figures"></iframe>
+<iframe width="700" height="480" src="https://player.vimeo.com/video/563918770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="Ten simple rules for better figures"></iframe>
 
 
 
@@ -45,8 +45,8 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 {% include card.md header="Choose the right visualisation for your data" text=text %}
 
 
-{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="50%" %} 
-{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="50%" %}
+{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
+{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
 
 
 <p align="center">
