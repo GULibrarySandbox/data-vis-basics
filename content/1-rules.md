@@ -6,9 +6,6 @@ nav: true
 
 -----
 
-{% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}
-
-{% capture text %}
 1. **Know your audience**: a figure should be tailored to your audience and will likely be presented differently to groups including peers, students or the general public.
 2. **Identify your message** before developing the figure. A figure is a quick way to introduce facts, or a result too complex to explain only with words.
 3. **Adapt the figure to the support medium**: the reader of a journal article has time & the ability to zoom on a figure vs a conference attendee has limited time & the presentation is at a distance.
@@ -19,17 +16,18 @@ nav: true
 8. **Avoid “Chart junk”**: unnecessary visual elements found in a figure that do not improve the message, such as gridlines, too many colours or labels.
 9. **Message beats beauty**: find standards in your research domain, scan literature for good visualization methods to use.
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
-{% endcapture %} {% include card.md header="10 simple rules for better figures" text=text %}
 
 
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
+-----
 
 <iframe width="640" height="360" src="https://player.vimeo.com/video/563918770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="Ten simple rules for better figures"></iframe>
 
+-----
 
+###Publisher requirements
 
-{% capture text %}
 Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
 - [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
 - [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
@@ -37,8 +35,8 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 - [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
 - [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
 - [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
-- [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %}
-{% include card.md header="Publisher requirements" text=text %}
+- [PLoS ONE](https://journals.plos.org/plosone/s/figures)
+
 
 {% capture text %}
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.{% endcapture %} 
