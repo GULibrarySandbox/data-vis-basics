@@ -46,8 +46,8 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 
 Then check out the images below to identify which tool can create the chart type you need.
 
-{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
-{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
+{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="150%" %} 
+{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="150%" %}
 
 -----
 
