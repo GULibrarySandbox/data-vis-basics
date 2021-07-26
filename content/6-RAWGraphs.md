@@ -1,9 +1,9 @@
 ---
-title: GREL
+title: RAWGraphs
 nav: true
 ---
 
-# Transforming data using GREL 
+# RAWGraphs.io
 
 (General Refine Expression Language)
 
