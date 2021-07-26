@@ -25,6 +25,7 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 
 -----
 
+
 ### Publisher requirements
 
 Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
@@ -44,10 +45,12 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 
 {% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 
+
 Then check out the images below to identify which tool can create the chart type you need.
 
-{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="150%" %} 
-{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="150%" %}
+
+{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
+{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
 
 -----
 
