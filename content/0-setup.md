@@ -4,8 +4,6 @@ nav: true
 ---
 # Setup
 
------
-
 {% capture text %}
 - MS Excel
 - Adobe Photoshop: available to all Griffith staff via download [here](https://intranet.secure.griffith.edu.au/computing/software#cat) scroll down to Vendor discounts and access and select Adobe product access (Staff only)
@@ -27,7 +25,7 @@ Alternately, when you launch OpenRefine in the [*Create*](https://griffithunilib
 
 -----
 
-# About the data
+### About the data
 
 The dataset used in this workshop is adapted from [Crash data from Queensland roads](https://www.data.qld.gov.au/dataset/crash-data-from-queensland-roads), © 2019 The State of Queensland, licensed under a Creative Commons Attribution 4.0 International licence, [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/).  It was downloaded from the Queensland Government’s [open data portal](https://www.data.qld.gov.au/).
 
@@ -36,12 +34,6 @@ The original dataset presents 17 years of traffic accidents, their location, typ
 The  data used in these lessons is a smaller, four-year subset and has had changes made for training purposes. 
 
 ## Get help
-
-##### Online
-
-You can find out more at the [OpenRefine](http://openrefine.org) website.  Check out the [documentation](http://openrefine.org/documentation.html) and great introductory videos. These videos and others on OpenRefine can also be found on YouTube - use the search term 'OpenRefine'.
-
-There is a [Google Group](https://groups.google.com/forum/#!forum/openrefine) that can answer a lot of beginner questions and problems.
 
 ##### At Griffith University
 
