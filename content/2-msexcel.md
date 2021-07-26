@@ -41,13 +41,12 @@ Let’s find out how many students from each academic group attended per trimest
 7.	The PivotTable placeholder is inserted, and the `PivotTable Fields` pane opens on the right.
 8.	Click the checkbox next to the `Trimester label` and note that it is automatically added to the `Rows` box in the PivotTable Fields pane.
 9.	Click and drag every Academic Group to the `Values` box.
-  
-  AEL
-  Sciences
-  Business
-  Health
-  Other L&T*
-  RED**
+  - AEL
+  - Sciences
+  - Business
+  - Health
+  - Other L&T*
+  - RED**
 
 Filtering
 - In the PivotTable, click on the `arrowhead` in the `Row Labels` cell to explore the filtering options.{% endcapture %}
@@ -64,13 +63,12 @@ You can add data in any order, or you can reorder it as you need.  Let’s do th
 5.	Click the radio button for `Existing Worksheet`, click into the `Location` box then click on cell `K9` to insert the PivotTable underneath its heading.
 6.	When the `PivotTable Fields` pane opens on the right, click and drag the `Skill Group` label to the Rows box.
 7.	Now click and drag every `Academic Group` to the `Values` box, this time selecting them in ALPHABETICAL ORDER.
- 
- AEL
- Business
- Health
- Other L&T*
- RED**
- Sciences{% endcapture %}
+  - AEL
+  - Business
+  - Health
+  - Other L&T*
+  - RED**
+  - Sciences{% endcapture %}
 {% include card.md header="Activity : Data ordering in PivotTables" text=text %}
 
 -----
