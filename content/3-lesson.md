@@ -1,8 +1,8 @@
 ---
-title: Layout
+title: Charts
 nav: true
 ---
-# The Layout of OpenRefine
+# Data visualisation with Microsoft Excel part two: Charts
 
 -----
 
@@ -52,6 +52,6 @@ When you click this, you will see a list of the existing projects and can click 
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-tables.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/4-lesson.html">NEXT --></a>
 </p>
