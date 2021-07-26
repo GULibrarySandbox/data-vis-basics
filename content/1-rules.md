@@ -19,7 +19,7 @@ nav: true
 
 <div class='embed-container'><iframe width="960" height="540" src='https://player.vimeo.com/video/563918770' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-<br><br>
+<br>
 
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
@@ -46,7 +46,7 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 
 {% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 
-<br><br>
+<br>
 
 Then check out the images below to identify which tool can create the chart type you need.
 
