@@ -5,7 +5,9 @@ nav: true
 
 # Data visualisation using Microsoft Excel
 
------
+
+{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="75%" %}
+
 ## Overview
 
 Undertake the activities below to create PivotTables and PivotCharts.
@@ -17,7 +19,7 @@ Undertake the activities below to create PivotTables and PivotCharts.
 
 
 {% capture alert %}Note: Keep the terminal window hosting Java open in the background.{% endcapture %} {% include alert.md text=alert color="warning" %}
-{% include figure.html img="ORJava.JPG" alt="Terminal Java" caption="Keep the terminal window open when using OpenRefine" width="75%" %}
+
 
 -----
 
