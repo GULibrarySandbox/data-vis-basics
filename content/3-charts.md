@@ -8,7 +8,16 @@ nav: true
 
 -----
 
-### Display 
+You don’t need a PivotTable to create a chart – charts can be created from any raw data – but, as per the previous exercises, your writing will generally deal with one aspect of the data at a time, so the figures created for inclusion in each section should represent that single discussion. 
+
+{% text capture %} 
+1.	Select cells `K10:P12`.
+2.	Click the `Insert` tab on the ribbon.
+3.	Click `Column or Bar Chart`.  Choose `2-D column`.
+4.	The chart is referred to as a `PivotChart` because it is based on a PivotTable.{% endcapture %} 
+{% include card.md header="Activity : Creating a chart" text=text %}
+
+{% include image.md img="2021_Excel-data-visualisation_Student-workbook.jpg" alt="" caption="Library workshops!" width="75%" %}
 
 OpenRefine displays data in a tabular format, similar to how you might view data in a spreadsheet or database. 
 - Each row will usually represent a 'record' or 'observation' in the data
