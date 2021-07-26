@@ -90,13 +90,10 @@ this will automatically open your selected files in Voyant.
 ## Analyse the Visualisations
 
 The standard visualisations will show basic Cirrus clouds and document terms count.  
-
 The interactive reader in the centre of the screen shows the original source materials with individual terms in different colours.
-
 To explore individual terms, click on a term in the reader and see counts and usage of the term in the Contexts box.  
-
 The summary box displays the number of documents being examined, the total word count, unique words, vocab density, average words per sentence and a list of most frequent words in the corpus.
-
+{% include figure.html img="voyant_screen.jpg" alt="voyant_analysis" caption="analysis" width="100%" %
 
 ## Change the Visulations
 
