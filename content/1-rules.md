@@ -45,7 +45,8 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 {% include card.md header="Choose the right visualisation for your data" text=text %}
 
 
-{% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}
+{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="50%" %} 
+{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="50%" %}
 
 
 <p align="center">
