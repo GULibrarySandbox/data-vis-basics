@@ -17,17 +17,31 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 4.	The chart is referred to as a `PivotChart` because it is based on a PivotTable.{% endcapture %} 
 {% include card.md header="Activity : Creating a chart" text=text %}
 
-{% include image.md img="2021_Excel-data-visualisation_Student-workbook.jpg" alt="" caption="Library workshops!" width="75%" %}
+{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
-OpenRefine displays data in a tabular format, similar to how you might view data in a spreadsheet or database. 
-- Each row will usually represent a 'record' or 'observation' in the data
-- Each column represents a type of information or 'variable'
-- Individual bits of data or 'values' live in 'cells' at the intersection of a row and a column
+## Rules for publication-quality visulatisations
 
-- A limited number of rows of data are displayed to save on memory, however the program is working on ALL rows.
-- Adjust the number of rows displayed by selecting 5, 10, 25 or 50 at the top left of the table of data.
+As you have seen, Excel produces an aesthetically pleasing chart that is formatted according to the Theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
 
-### Working with data in OpenRefine
+- No title required (will be captioned)
+- Remove the Excel field buttons
+- Remove the gap between the columns in a column chart
+- No Colour – Black/White/Grey
+- Legend top right
+- Enhance the horizontal axis bar settings
+- Match the vertical axis bar settings to the horizontal axis bar and add tick marks
+- No background gridlines
+- Include error bars (if applicable)
+- Add an asterisk directly above the significant error bar (if applicable)
+- Add axis titles
+- Use large clear fonts for all text areas
+- No border
+
+### Chart tools
+
+The following sections describe how to prepare your chart for publication. 
+
+#### Tool: PivotChart Tools tab
 
 - Navigate through records using *previous/next/first/last* navigation options at the top right of the table of data
 - Use the drop-down menus at the top of each column to work with data
