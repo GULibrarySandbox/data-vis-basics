@@ -10,6 +10,9 @@ vimedoID:c2e3a52115
 {% endcapture %}
 {% include card.md header="Publisher requirements" text=text %}
 
+
+{% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}  
+
 # Voyant Tools
 
 -----
@@ -29,6 +32,8 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 - Trends: a distribution graph showing terms across the corpus (or terms within a document)
 - Summary: a tool that provides a simple, textual overview of the current corpus
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+
+{% include figure.html img="voyant_tools_list.jpg" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
  
 {% capture text %}
 
