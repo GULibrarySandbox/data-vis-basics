@@ -125,6 +125,6 @@ Follow each activity in this video.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/1-rules.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-charts.html">NEXT --></a>
 </p>
 
