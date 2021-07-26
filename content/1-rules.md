@@ -18,11 +18,12 @@ nav: true
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
 
 
-Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
-PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
------
 
 <iframe width="640" height="360" src="https://player.vimeo.com/video/563918770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="Ten simple rules for better figures"></iframe>
+
+
+Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
+PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
 -----
 
