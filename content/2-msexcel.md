@@ -5,7 +5,7 @@ nav: true
 
 # Data visualisation using Microsoft Excel
 
-{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" align="right" width="100%" %}
+{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="100%" %}
 
 ## Overview
 
@@ -22,17 +22,39 @@ Undertake the activities below to create PivotTables and PivotCharts.
 
 -----
 
-### Create a Project
+### Data collection and use
 
-Projects can be created in a variety of ways, e.g., by uploading data from your computer or by importing it from a web address.
+The activity worksheet contains data about workshop attendances for 2019 and is broken down by Skill Group (column A), Trimester (column B) and across Academic Groups and Special Interest Groups (columns C to H).
+
+Data is usually collected as a whole dataset, but generally analysed and used in “chunks”, particularly when writing up your findings. 
+
+Let’s say Section 1 of a document compares and discusses attendance fluctuation in each academic group attendance across trimesters, while Section 2 discusses what type of session content (i.e. skill group) was in demand across the various academic groups.  Each section of the document should contain graphs that represent the data for the specific topic only. 
+
+Even though this is a small dataset, it is quite difficult to analyse visually - imagine if this was a large dataset!
+
+###Data extraction
+Let’s find out how many students from each academic group attended per trimester. 
 
 {% capture text %}
-- Choose `Create Project`
-- Select `Get data from this Computer`.
-- Select `Choose Files` and browse to select the file `QLDtrafficAccidentsOpenDataVer1.csv` you saved to your `Downloads` folder.
-- Either click `Open` or double-click on the filename to import it into OpenRefine.
-- Click `Next`.{% endcapture %}
-{% include card.md header="Create a project by uploading data from your computer" text=text %}
+1.	In the worksheet, click into cell `K1`.  Type `Attendance by Trimester`.
+2.	Select cells `A2:H10`.  There’s no need to include any calculated totals in the selection as data can be calculated separately in the PivotTable.  Similarly, Excel will look for column headings (labels) without the need to select them.
+3.	Click the `Insert` tab on the ribbon, then click the `PivotTable` button in the `Tables` group.
+4.	In the `Create PivotTable` dialog box the PivotTable range is already selected.
+5.	Click the radio button for `Existing Worksheet`, then click into the `Location box`.
+6.	Click on cell `K2` to insert the PivotTable underneath its heading.
+7.	The PivotTable placeholder is inserted, and the `PivotTable Fields` pane opens on the right.
+8.	Click the checkbox next to the `Trimester label` and note that it is automatically added to the `Rows` box in the PivotTable Fields pane.
+9.	Click and drag every Academic Group to the `Values` box.
+AEL
+Sciences
+Business
+Health
+Other L&T*
+RED**
+
+Filtering
+-In the resultant PivotTable, click on the `arrowhead` in the `Row Labels` cell to explore the filtering options.{% endcapture %}
+{% include card.md header="Activity: Data extraction with PivotTables" text=text %}
 
 Or 
 
