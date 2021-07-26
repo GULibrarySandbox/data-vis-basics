@@ -1,9 +1,9 @@
 ---
-title: Filter
+title: Export
 nav: true
 ---
 
-# Filter and Sort
+# Export and convert chart to publication quality image
 
 ------
 
