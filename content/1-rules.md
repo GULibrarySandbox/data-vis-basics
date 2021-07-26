@@ -17,7 +17,7 @@ nav: true
 9. **Message beats beauty**: find standards in your research domain, scan literature for good visualization methods to use.
 10. **Get the right tool**: there is generally a dedicated tool that will do what you're trying to achieve; we will explore some of these.
 
-<div class='embed-container'><iframe width="960" height="540" src='https://player.vimeo.com/video/563918770' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563918770' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br>
 
