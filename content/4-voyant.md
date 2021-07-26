@@ -67,26 +67,33 @@ Step one: upload data
 Watch the Video, this will show you how to use Voyant tools, export your visualisation and cite your work
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
-To analyse text:
 
-copy the text from the document you wish to analyse
+
+please take on the following activities to help you get familiar with the voyant tool
+
+activity one - uploading different text types
+text analysis - as per video 2
+copy text from a document you wish to analyse
 paste the text into the 'Add Texts' window
 click on reveal.
-To analyse URLs:
 
-copy the URL or multiple URLs you wish to analyse
-paste the URL into the 'Add Texts' window to add multiple URLs press enter for a new line to add in as many as required. 
+To analyse URLs:
+copy a URL or the multiple URLs you wish to analyse. 
+
+Paste the URL/s into the 'Add Texts' window. To add multiple URLs press enter for a new line. you can add in as many as required. 
 click on reveal.
 
 
 Activity  - Upload files from your computer
-
 To upload files:
-
 click on the upload button,  your files window will open
-select file or files to anlayse 
-click open
+Select file or files to anlayse 
+Click open
 this will automatically open your selected files in Voyant.
+note what happens if you chose mulitple file types? 
+
+upon completion you will be familiar with the different means to access Voyant analysis
+
 {% endcapture %}
 {% include card.md header="activities" text=text %}
 
