@@ -7,6 +7,18 @@ nav: true
 vimedoID:c2e3a52115
 ---
 
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+</div>
+
+
+
 # Voyant Tools
 
 -----
