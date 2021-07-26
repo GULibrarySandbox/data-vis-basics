@@ -51,9 +51,11 @@ Cite the tool's developers when publishing a visualisation created using Voyant 
 To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 Watch the following videos: 
 
-
+this video shows how to upload mulitple URLS to Voyant 
 <div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563468503' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+
+This video shows the upload of basic text into voyant
 <div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563467758' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
