@@ -19,6 +19,7 @@ nav: true
 
 <div class='embed-container'><iframe width="960" height="540" src='https://player.vimeo.com/video/563918770' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+
 Adapted from: Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for Better Figures.
 PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
@@ -35,14 +36,17 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 - [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
 - [PLoS ONE](https://journals.plos.org/plosone/s/figures)
 
+-----
 
-{% capture text %}
-Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.{% endcapture %} 
-{% include card.md header="Choose the right visualisation for your data" text=text %}
+### Choose the right visualisation type for your data
+
+Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  Then check out the images below to identify which tool can create the chart type you need.
 
 
 {% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
 {% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
+
+-----
 
 
 <p align="center">
