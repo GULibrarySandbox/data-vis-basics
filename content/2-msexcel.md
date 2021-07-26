@@ -117,8 +117,9 @@ You can rename fields in a PivotTable using any name except the original.  This 
 5.	Do the same for the other field values.{% endcapture %}
 {% include card.md header="Activity : Renaming fields" text=text %}
 
+Watch the steps in these activities in this video. 
 
-
+{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} {% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
 
 {% include button.md text="Watch the steps above on this video" link="https://vimeo.com/412189056/0d9031def0" color="info" %}
 
