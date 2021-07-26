@@ -43,11 +43,9 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 ### Choose the right visualisation type for your data
 
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
-
-{% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
-
 <br>
-
+{% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
+<br>
 Then check out the images below to identify which tool can create the chart type you need.
 
 
