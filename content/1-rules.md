@@ -26,7 +26,7 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 
 -----
 
-###Publisher requirements
+### Publisher requirements
 
 Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
 - [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
