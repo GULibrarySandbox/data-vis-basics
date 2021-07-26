@@ -7,7 +7,7 @@ nav: true
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="100%" %}
 
-## Overview
+### Overview
 
 Undertake the activities below to create PivotTables and PivotCharts.
 
@@ -32,7 +32,7 @@ Let’s say Section 1 of a document compares and discusses attendance fluctuatio
 
 Even though this is a small dataset, it is quite difficult to analyse visually - imagine if this was a large dataset!
 
-###Data extraction
+#### Data extraction
 Let’s find out how many students from each academic group attended per trimester. 
 
 {% capture text %}
@@ -53,8 +53,8 @@ Other L&T*
 RED**
 
 Filtering
--In the resultant PivotTable, click on the `arrowhead` in the `Row Labels` cell to explore the filtering options.{% endcapture %}
-{% include card.md header="Activity: Data extraction with PivotTables" text=text %}
+- In the PivotTable, click on the `arrowhead` in the `Row Labels` cell to explore the filtering options.{% endcapture %}
+{% include card.md header="Activity : Data extraction with PivotTables" text=text %}
 
 Or 
 
