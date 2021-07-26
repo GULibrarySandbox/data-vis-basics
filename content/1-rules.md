@@ -27,19 +27,6 @@ PLOS Computational Biology 10(9): e1003833.[https://doi.org/10.1371/journal.pcbi
 -----
 
 
-### Publisher requirements
-
-Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
-- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
-- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
-- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
-- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
-- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
-- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
-- [PLoS ONE](https://journals.plos.org/plosone/s/figures)
-
------
-
 ### Choose the right visualisation type for your data
 
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
@@ -54,6 +41,20 @@ Then check out the images below to identify which tool can create the chart type
 
 -----
 
+### Publisher requirements
+
+Publisher requirements differ for figures, tables, scanned images, photos and more. 
+
+Read the fine print from these popular journal publishers:
+- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
+- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
+- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
+- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
+- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
+- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
+- [PLoS ONE](https://journals.plos.org/plosone/s/figures)
+
+-----
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/"><-- BACK</a> |
