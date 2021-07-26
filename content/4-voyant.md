@@ -3,6 +3,10 @@ title: Voyant
 nav: true
 ---
 
+---
+vimedoID:c2e3a52115
+---
+
 # Voyant Tools
 
 -----
@@ -37,9 +41,13 @@ Watch the following videos:
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563468503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
+
+## How to use voyant tools
+
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
   video: https://vimeo.com/563468503/c2e3a52115
+
 
 - title: Voyant how does it work
   description: this video will give you a quick overview on how to use the tool
