@@ -1,9 +1,9 @@
 ---
-title: Excel
+title: Tables
 nav: true
 ---
 
-# Data visualisation using Microsoft Excel
+# Data visualisation using Microsoft Excel Part One: Tables
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="100%" %}
 
