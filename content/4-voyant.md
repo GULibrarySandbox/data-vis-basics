@@ -95,6 +95,8 @@ To explore individual terms, click on a term in the reader and see counts and us
 The summary box displays the number of documents being examined, the total word count, unique words, vocab density, average words per sentence and a list of most frequent words in the corpus.
 {% include figure.html img="voyant_screen.jpg" alt="voyant_analysis" caption="analysis" width="100%" %}
 
+
+{% capture text %}
 ## Change the Visulations
 
 Hover the mouse over the top of the section you wish to change  
@@ -103,6 +105,8 @@ click on the window button
 scroll down the menus to choose the visualisation you need, there are two parts to this, a tools menu and visualisation type
 click your desired option to select your visualisation
 
+{% endcapture %}
+{% include card.md header="Activity - Change the visualisations" text=text %}
 
 ## Export your findings
 Step 5. Export
