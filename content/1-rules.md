@@ -42,7 +42,7 @@ Publisher requirements differ for figures, tables, scanned images, photos and mo
 
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
 
-{% include button.html text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
+{% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 
 Then check out the images below to identify which tool can create the chart type you need.
 
