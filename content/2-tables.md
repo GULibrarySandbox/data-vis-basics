@@ -3,7 +3,9 @@ title: Tables
 nav: true
 ---
 
-# Data visualisation using Microsoft Excel Part One: Tables
+# Data visualisation using Microsoft Excel
+
+## Part one: Tables
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="100%" %}
 
@@ -125,6 +127,6 @@ Follow each activity in this video.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/1-rules.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-charts.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/3-charts.html">NEXT --></a>
 </p>
 
