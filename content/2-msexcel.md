@@ -119,18 +119,12 @@ You can rename fields in a PivotTable using any name except the original.  This 
 
 Watch the steps in these activities in this video. 
 
-{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} {% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
-
-{% include button.md text="Watch the steps above on this video" link="https://vimeo.com/412189056/0d9031def0" color="info" %}
-
-
-
-{% capture alert %}Note: Keep the terminal window hosting Java open in the background.{% endcapture %} {% include alert.md text=alert color="warning" %} 
+<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/428348749' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/1-intro.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/1-rules.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html">NEXT --></a>
 </p>
 
