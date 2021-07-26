@@ -1,5 +1,5 @@
 ---
-title: Numbers
+title: More
 nav: true
 ---
 # References and more
