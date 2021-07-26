@@ -5,7 +5,7 @@ nav: true
 
 # Data visualisation using Microsoft Excel
 
-{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" align="center" width="100%" %}
+{% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" align="right" width="100%" %}
 
 ## Overview
 
