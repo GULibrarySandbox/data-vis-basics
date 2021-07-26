@@ -39,15 +39,111 @@ Watch the following videos:
 
 ## How to use voyant tools
 
+To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
+Watch the following videos: 
+
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563468503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563467758?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
 
+## Activity: upload and export data
+<iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
+
+Step one: upload data
+
+Watch the Video, this will show you how to upload text and to Voyant
+
+To analyse text:
+
+copy the text from the document you wish to analyse
+paste the text into the 'Add Texts' window
+click on reveal.
+To analyse URLs:
+
+copy the URL or multiple URLs you wish to analyse
+paste the URL into the 'Add Texts' window to add multiple URLs press enter for a new line to add in as many as required. 
+click on reveal.
+
+
+Activity  - Upload files from your computer
+
+To upload files:
+
+click on the upload button,  your files window will open
+select file or files to anlayse 
+click open
+this will automatically open your selected files in Voyant.
+
+## analyse the Visualisations
+
+The standard visualisations will show basic Cirrus clouds and document terms count.  
+
+The interactive reader in the centre of the screen shows the original source materials with individual terms in different colours.
+
+To explore individual terms, click on a term in the reader and see counts and usage of the term in the Contexts box.  
+
+The summary box displays the number of documents being examined, the total word count, unique words, vocab density, average words per sentence and a list of most frequent words in the corpus.
+
+
+## Change the Visulations
+
+Hover the mouse over the top of the section you wish to change  
+
+click on the window button
+scroll down the menus to choose the visualisation you need, there are two parts to this, a tools menu and visualisation type
+click your desired option to select your visualisation
+
+
+## Export your findings
+Step 5. Export
+to export Voyant visualisations, hover the mouse along the top bar of the section you wish to export, you will see three icons in the image appear 
+select the first icon, the square with the arrow, this will open a pop up window
+the first option will give you the options to export HTML code, a bibliographic reference and a notebook;  the second option will give you a visualisation
+select what you need and click export. 
+
+## Cite your findings
+to cite Voyant visualisations, hover the mouse along the top bar of the section you wish to export, you will see three icons appear 
+select the first icon , it is a little square with an arrow , this will open a pop up menu
+the first option here will give you the options for HTML code, a bibliographic reference and a notebook
+click the bibliographic reference button then click export
+there are three reference options available, copy the style you need. 
+
+## Activies - Export and Cite your data
+The key feature of Voyant is to be able to quickly create visual data, and then the capacity to choose your own visualisation and export the image for further use. 
+
+In this set of activitis we will look at the different types of resources to upload and how to change the visualisations. 
+
+Part 1 - Step 1 
+
+Upload a variety of documents to Voyant
+
+In the lesson we uploaded URLs, PDFS and text to the tool, now try adding both text and a URL to the 'Add Texts' box
+does the tool read both elements? 
+Step 2
+
+Upload saved PDFs -  using the upload tab, upload multiple PDF documents 
+notice how the reader separates the individual articles in the reader by colour
+in document, click on a term, notice how the trends map and contexts box change
+find your key themes in the text and to track how these terms are used in the text and the contexts. 
+
+Part  2
+
+with your data set, change the visualisation; using the corpus tools menu change the visualisation to 'Steam graph'
+now export this using the export visualisation function, export the graph as an SNG, copy the visualisation and paste the image into a word doc
+finally, again using the export function, export the bibliographic reference. 
+
+## Voyant in practice- Articles citing Voyant Tools
+Scholarly articles about Voyant Tools include
+
+Stephanie Posthumus & Stéfan Sinclair(2014) Reading environment(s): digital humanities meets eco-criticism, Green Letters,18:3,254-273,DOI: 10.1080/14688417.2014.966737  (access via Griffith Library here)
+Rambsy, K. (2016). Text-Mining Short Fiction by Zora Neale Hurston and Richard Wright using Voyant Tools. CLA Journal, 59(3), 251-258. Retrieved June 16, 2020, from www.jstor.org/stable/44325917 (access via Griffith Library here)
+
+
 
 ## button embedd
 
-{% include button.md text="Watch this video to work through the activities" link="https://vimeo.com/412540178/a0a65e0c0f" color="info" %}
+{% include button.md text="back to main" link="https://griffithunilibrary.github.io/data-vis-basics/" color="info" %}
 
 
 
