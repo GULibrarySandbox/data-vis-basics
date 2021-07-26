@@ -56,7 +56,7 @@ Then check out the images below to identify which tool can create the chart type
 
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/data-vis-basics"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html">NEXT --></a>
 </p>
 
