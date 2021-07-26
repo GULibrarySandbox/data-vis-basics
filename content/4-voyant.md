@@ -6,18 +6,16 @@ nav: true
 ---
 vimedoID:c2e3a52115
 ---
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
-
+{% capture text %}
+Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
+- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
+- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
+- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
+- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
+- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
+- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
+- [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %}
+{% include card.md header="Publisher requirements" text=text %}
 
 # Voyant Tools
 
@@ -58,19 +56,9 @@ Watch the following videos:
 
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563467758?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
-
+{% capture text %}
 ## Activity: upload and export data
 
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
- 
 Step one: upload data
 
 Watch the Video, this will show you how to upload text and to Voyant
@@ -96,6 +84,9 @@ click on the upload button,  your files window will open
 select file or files to anlayse 
 click open
 this will automatically open your selected files in Voyant.
+{% endcapture %}
+{% include card.md header="activities" text=text %}
+
 
 ## Analyse the Visualisations
 
