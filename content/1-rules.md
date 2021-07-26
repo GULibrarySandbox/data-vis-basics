@@ -46,7 +46,7 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 
 {% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 
------
+<br><br>
 
 Then check out the images below to identify which tool can create the chart type you need.
 
