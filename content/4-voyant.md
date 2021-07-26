@@ -163,14 +163,14 @@ finally, again using the export function, export the bibliographic reference.
 {% include card.md header="Export and Cite your data" text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
-Scholarly articles about Voyant Tools include
+To see how reserachers are using Voyant in their studies take a look at the following articles;
 
 Stephanie Posthumus & Stéfan Sinclair(2014) Reading environment(s): digital humanities meets eco-criticism, Green Letters,18:3,254-273,DOI: 10.1080/14688417.2014.966737  (access via Griffith Library here)
 Rambsy, K. (2016). Text-Mining Short Fiction by Zora Neale Hurston and Richard Wright using Voyant Tools. CLA Journal, 59(3), 251-258. Retrieved June 16, 2020, from www.jstor.org/stable/44325917 (access via Griffith Library here)
 
 
 
-## button embedd
+
 
 {% include button.md text="back to main" link="https://griffithunilibrary.github.io/data-vis-basics/" color="info" %}
 
