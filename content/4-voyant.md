@@ -7,14 +7,7 @@ nav: true
 vimedoID:c2e3a52115
 ---
 {% capture text %}
-Publisher requirements differ for figures, tables, scanned images, photos and more.  Read the fine print from these popular journal publishers:
-- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
-- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
-- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
-- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
-- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
-- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
-- [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %}
+{% endcapture %}
 {% include card.md header="Publisher requirements" text=text %}
 
 # Voyant Tools
@@ -122,6 +115,8 @@ the first option here will give you the options for HTML code, a bibliographic r
 click the bibliographic reference button then click export
 there are three reference options available, copy the style you need. 
 
+{% capture text %}
+
 ## Activies - Export and Cite your data
 The key feature of Voyant is to be able to quickly create visual data, and then the capacity to choose your own visualisation and export the image for further use. 
 
@@ -145,6 +140,9 @@ Part  2
 with your data set, change the visualisation; using the corpus tools menu change the visualisation to 'Steam graph'
 now export this using the export visualisation function, export the graph as an SNG, copy the visualisation and paste the image into a word doc
 finally, again using the export function, export the bibliographic reference. 
+
+{% endcapture %}
+{% include card.md header="Export and Cite your data" text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
 Scholarly articles about Voyant Tools include
