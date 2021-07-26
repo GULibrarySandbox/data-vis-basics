@@ -2,7 +2,9 @@
 title: Charts
 nav: true
 ---
-# Data visualisation with Microsoft Excel part two: Charts
+# Data visualisation using Microsoft Excel 
+
+## Part two: Charts
 
 -----
 
