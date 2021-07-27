@@ -50,7 +50,7 @@ The following sections describe how to prepare your chart for publication.
 
 When the chart is selected, the `PivotChart Tools` contextual tab is added to the ribbon. There are three groups of commands on this contextual tab: `Analyze` – `Design` – `Format`.
 
-#### Rule 1 – Start with a clean chart
+##### Rule 1 – Start with a clean chart
 
 {% capture text %}
 Hide the PivotChart fields
@@ -59,7 +59,7 @@ Hide the PivotChart fields
 2. Click on `Field Buttons`, then click on `Hide All`.{% endcapture %} 
 {% include card.md header="Activity : PivotChart Tools tab – Field buttons" text=text %}
 
-#### Rule 2 – Remove the gap between the columns in a column chart
+##### Rule 2 – Remove the gap between the columns in a column chart
 
 {% capture text %}
 Chart Style
@@ -73,7 +73,7 @@ Chart Style
 
 All the chart components can be edited by either double-clicking on the element within the chart or by right-clicking on it.
 
-#### Rule 3 - No colour – use white/grey/black
+##### Rule 3 - No colour – use white/grey/black
 
 While some publications are printed in full colour this can be a very expensive practice and the alternative of printing colour in black and white may not give satisfactory results when converted to shades of grey by an unknown conversion process. It is better to control this process yourself.
 
