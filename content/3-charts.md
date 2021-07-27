@@ -5,7 +5,7 @@ nav: true
 
 # Data visualisation using Microsoft Excel
 
-## Part two: Charts
+Part two: Charts
 
 -----
 
