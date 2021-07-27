@@ -60,26 +60,39 @@ Hide the PivotChart fields
 {% capture text %}
 Chart Style
 
-1. Click on the Design tab on the PivotChart Tools contextual tab.
-2. Mouse over the Chart Styles gallery to view available styles, clicking on the More button to expand the gallery.
-3. Select Style 11.% {% endcapture %} 
+1. Click on the `Design` tab on the `PivotChart Tools` contextual tab.
+2. Mouse over the `Chart Styles gallery` to view available styles, clicking on the `More` button to expand the gallery.
+3. Select `Style 11`. {% endcapture %} 
 {% include card.md header="Activity : PivotChart Tools tab – Chart style" text=text %}
+
+#### Tool: Double-click or right-click
+
+All the chart components can be edited by either double-clicking on the element within the chart or by right-clicking on it.
+
+#### Rule 3 - No colour – use white/grey/black
+
+While some publications are printed in full colour this can be a very expensive practice and the alternative of printing colour in black and white may not give satisfactory results when converted to shades of grey by an unknown conversion process. It is better to control this process yourself.
+
+{% capture text %}
+1. Click on the PivotChart, then double-click on the legend entry for AEL to open the Format Legend Entry pane.
+2. Click on Fill.
+3. Choose Solid Fill.
+4. Choose White as the Fill colour. (Note: When the fill colour is white, there should be a black border).
+5. Click on Border.
+6. Choose Solid Line.
+7. Choose Black as the colour.
+8. Close the pane.
+9. Now double-click on the legend entry for Business to open the Format Legend Entry pane.
+10. Click on Fill.
+11. Choose Solid Fill.
+12. Choose a medium-grey colour (e.g. White, Background 1, Darker 25%) as the Fill colour. (Note: When the fill colour is anything other than white, there should be no border).
+13. Click on Border.{% endcapture %} 
+{% include card.md header="Activity : Double-click or right-click elements - Colours" text=text %}
 
 
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 
-### Undo / Redo
 
-OpenRefine provides Undo and Redo operations to make changes to your data work, going back to your very first action. Find out how this works in the [GREL](https://griffithunilibrary.github.io/intro-data-wrangle/content/6-lesson.html) activities. 
-
-### Saving projects
-
-Projects are saved automatically as you work on them,  so there is no need to save copies as you go along. 
-
-### Opening existing projects
-
-To open an existing project in OpenRefine, click  `Open Project`  from the main OpenRefine screen (in the left-hand menu). 
-When you click this, you will see a list of the existing projects and can click on a project's name to open it.
 
 {% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
 
