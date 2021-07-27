@@ -3,11 +3,7 @@ title: Charts
 nav: true
 ---
 
-# Data visualisation using Microsoft Excel
-
-## Part two: Charts
-
------
+# Data visualisation using Microsoft Excel Part two: Charts
 
 You don’t need a PivotTable to create a chart – charts can be created from any raw data – but, as per the previous exercises, your writing will generally deal with one aspect of the data at a time, so the figures created for inclusion in each section should represent that single discussion. 
 
