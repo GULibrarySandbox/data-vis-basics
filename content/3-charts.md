@@ -20,6 +20,8 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
+-----
+
 ## Rules for publication-quality visualisations
 
 As you have seen, Excel produces an aesthetically pleasing chart that is formatted according to the Theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
