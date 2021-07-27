@@ -72,6 +72,8 @@ Chart Style
 3. Select `Style 11`. {% endcapture %} 
 {% include card.md header="Activity : PivotChart Tools tab – Chart style" text=text %}
 
+-----
+
 #### Tool: Double-click or right-click
 
 All the chart components can be edited by either double-clicking on the element within the chart or by right-clicking on it.
@@ -99,6 +101,8 @@ While some publications are printed in full colour this can be a very expensive 
 16. Change the fill colour for `Health` and `Sciences`, incrementing the colours in shades of grey (no border is required for grey shades).
 17. Change the fill colour for `Other` to `black` (no border).{% endcapture %} 
 {% include card.md header="Activity : Double-click or right-click elements - Colours" text=text %}
+
+-----
 
 #### Tool: Chart Elements
 
@@ -147,8 +151,6 @@ Major Gridlines (vertical)
 11. Close the pane.{% endcapture %} 
 {% include card.md header="Activity : Chart Elements tool – Vertical axis" text=text %}
 
-{% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
-
 ##### Rule 7 - No background grid
 {% capture text %}
 Background Gridlines
@@ -169,7 +171,7 @@ If error bars are used, they must be described in the Figure caption in the docu
 5. Close the pane.{% endcapture %} 
 {% include card.md header="Activity : Chart Elements tool – Error bars" text=text %}
 
-
+{% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 {% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
 
 -----
