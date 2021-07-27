@@ -11,7 +11,7 @@ nav: true
 
 You don’t need a PivotTable to create a chart – charts can be created from any raw data – but, as per the previous exercises, your writing will generally deal with one aspect of the data at a time, so the figures created for inclusion in each section should represent that single discussion. 
 
-{% text capture %} 
+{% text capture %}
 1.	Select cells `K10:P12`.
 2.	Click the `Insert` tab on the ribbon.
 3.	Click `Column or Bar Chart`.  Choose `2-D column`.
