@@ -81,20 +81,26 @@ All the chart components can be edited by either double-clicking on the element 
 While some publications are printed in full colour this can be a very expensive practice and the alternative of printing colour in black and white may not give satisfactory results when converted to shades of grey by an unknown conversion process. It is better to control this process yourself.
 
 {% capture text %}
-1. Click on the PivotChart, then double-click on the legend entry for AEL to open the Format Legend Entry pane.
-2. Click on Fill.
-3. Choose Solid Fill.
-4. Choose White as the Fill colour. (Note: When the fill colour is white, there should be a black border).
-5. Click on Border.
-6. Choose Solid Line.
-7. Choose Black as the colour.
+1. Click on the `PivotChart`, then double-click on the legend entry for `AEL` to open the `Format Legend Entry` pane.
+2. Click on `Fill`.
+3. Choose `Solid Fill`.
+4. Choose `White` as the `Fill colour`. (Note: When the fill colour is white, there should be a black border).
+5. Click on `Border`.
+6. Choose `Solid Line`.
+7. Choose `Black` as the colour.
 8. Close the pane.
-9. Now double-click on the legend entry for Business to open the Format Legend Entry pane.
-10. Click on Fill.
-11. Choose Solid Fill.
-12. Choose a medium-grey colour (e.g. White, Background 1, Darker 25%) as the Fill colour. (Note: When the fill colour is anything other than white, there should be no border).
-13. Click on Border.{% endcapture %} 
+9. Now double-click on the legend entry for `Business` to open the `Format Legend Entry` pane.
+10. Click on `Fill`.
+11. Choose `Solid Fill`.
+12. Choose a medium-grey colour (e.g. `White, Background 1, Darker 25%`) as the `Fill colour`. (Note: When the fill colour is anything other than white, there should be no border).
+13. Click on `Border`.
+14. Choose `No Line`.
+15. Close the pane.
+16. Change the fill colour for `Health` and `Sciences`, incrementing the colours in shades of grey (no border is required for grey shades).
+17. Change the fill colour for `Other` to `black` (no border).{% endcapture %} 
 {% include card.md header="Activity : Double-click or right-click elements - Colours" text=text %}
+
+
 
 
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
