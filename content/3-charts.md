@@ -40,6 +40,8 @@ As you have seen, Excel produces an aesthetically pleasing chart that is formatt
 - Use large clear fonts for all text areas
 - No border
 
+-----
+
 ### Chart tools
 
 The following sections describe how to prepare your chart for publication. 
