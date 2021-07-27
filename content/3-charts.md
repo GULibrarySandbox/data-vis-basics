@@ -20,7 +20,7 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
-## Rules for publication-quality visulatisations
+## Rules for publication-quality visualisations
 
 As you have seen, Excel produces an aesthetically pleasing chart that is formatted according to the Theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
 
@@ -44,19 +44,27 @@ The following sections describe how to prepare your chart for publication.
 
 #### Tool: PivotChart Tools tab
 
-- Navigate through records using *previous/next/first/last* navigation options at the top right of the table of data
-- Use the drop-down menus at the top of each column to work with data
-- Selecting an option in a particular column (e.g., to make a change to the data), affects all the cells in that column 
-- Perform changes one column at a time, even when making changes across several columns 
+When the chart is selected, the `PivotChart Tools` contextual tab is added to the ribbon. There are three groups of commands on this contextual tab: `Analyze` – `Design` – `Format`.
 
+#### Rule 1 – Start with a clean chart
 
-###  Rows and Records
+{% capture text %}
+Hide the PivotChart fields
 
-OpenRefine has two modes of viewing data: 'Rows' and 'Records'. 
-- Rows mode: each row represents a single record in the data set
-- Records mode, OpenRefine can link together multiple rows as belonging to the same record 
+1. Click on the `Analyze` group on the `PivotChart Tools` contextual tab if not already selected.
+2. Click on `Field Buttons`, then click on `Hide All`.{% endcapture %} 
+{% include card.md header="Activity : PivotChart Tools tab – Field buttons" text=text %}
 
-This is useful when working with `xml` files, MARC records, as well as `csv` files. We will see an example of this later.
+#### Rule 2 – Remove the gap between the columns in a column chart
+
+{% capture text %}
+Chart Style
+
+1. Click on the Design tab on the PivotChart Tools contextual tab.
+2. Mouse over the Chart Styles gallery to view available styles, clicking on the More button to expand the gallery.
+3. Select Style 11.% {% endcapture %} 
+{% include card.md header="Activity : PivotChart Tools tab – Chart style" text=text %}
+
 
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 
