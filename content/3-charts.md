@@ -46,9 +46,11 @@ As you have seen, Excel produces an aesthetically pleasing chart that is formatt
 
 The following sections describe how to prepare your chart for publication. 
 
+
 #### Tool: PivotChart Tools tab
 
 When the chart is selected, the `PivotChart Tools` contextual tab is added to the ribbon. There are three groups of commands on this contextual tab: `Analyze` – `Design` – `Format`.
+
 
 ##### Rule 1 – Start with a clean chart
 
@@ -58,6 +60,7 @@ Hide the PivotChart fields
 1. Click on the `Analyze` group on the `PivotChart Tools` contextual tab if not already selected.
 2. Click on `Field Buttons`, then click on `Hide All`.{% endcapture %} 
 {% include card.md header="Activity : PivotChart Tools tab – Field buttons" text=text %}
+
 
 ##### Rule 2 – Remove the gap between the columns in a column chart
 
