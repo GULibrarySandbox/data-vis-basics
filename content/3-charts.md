@@ -100,11 +100,74 @@ While some publications are printed in full colour this can be a very expensive 
 17. Change the fill colour for `Other` to `black` (no border).{% endcapture %} 
 {% include card.md header="Activity : Double-click or right-click elements - Colours" text=text %}
 
+#### Tool: Chart Elements
 
+Many formatting commands are featured in the `Chart Elements` menu which is shown as a green “plus” sign beside the chart itself.
 
+##### Rule 4 - Legend to be displayed at the top-right of the chart
+
+{% capture text %}
+Legend
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Point the mouse to `Legend`, then click on the `More` arrowhead.
+4. Click on `More options…` to open the `Format Legend` pane.
+5. Click the radio button for `Top Right`.
+6. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool - Legend" text=text %}
+
+##### Rule 5 - Enhance the horizontal axis bar settings
+
+{% capture text %}
+Major Gridlines (horizontal)
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Point the mouse to `Gridlines`, then click on the `More` arrowhead.
+4. Click on `More options…`.
+5. Click the selection list arrow beside `Major Gridline Options`.
+6. Click on `Horizontal (Category) axis`.
+7. Under `Line`, choose `Solid line`, then choose `Colour` = `black` and `size` (e.g. `2pt`).
+8. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool – Horizontal axis" text=text %}
+
+##### Rule 6 - Enhance the vertical axis bar to match the horizontal
+
+{% capture text %}
+Major Gridlines (vertical)
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Point the mouse to `Gridlines`, then click on the `More` arrowhead.
+4. Click on `More options…`.
+5. Click the selection list arrow beside `Major Gridline Options`.
+6. Click on `Vertical (Category) axis`.
+7. Under `Line`, choose `Solid line`, then choose `Colour` = `black` and `size` (e.g. `2pt`).
+8. Click on the `Axis Options` button (the green button that looks like a bar chart)
+9. Click on `Tick Marks` to open the settings.
+10. For `Major type`, choose `Outside`.
+11. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool – Vertical axis" text=text %}
 
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 
+##### Rule 7 - No background grid
+{% capture text %}
+Background Gridlines
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Uncheck the box for `Gridlines`.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool – Gridlines" text=text %}
+
+##### Rule 8 - Add error bars
+
+Error bars are mostly used for scientific data and may not apply to all.
+If error bars are used, they must be described in the Figure caption in the document.
+{% capture text %}
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Point the mouse to `Error Bars`, then click on the `More` arrowhead.
+4. Click on `Standard Deviation`.
+5. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool – Error bars" text=text %}
 
 
 {% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
