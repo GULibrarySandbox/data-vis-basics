@@ -42,7 +42,7 @@ As you have seen, Excel produces an aesthetically pleasing chart that is formatt
 
 -----
 
-### Chart tools
+## Chart tools
 
 The following sections describe how to prepare your chart for publication. 
 
@@ -53,7 +53,6 @@ When the chart is selected, the `PivotChart Tools` contextual tab is added to th
 
 
 ##### Rule 1 – Start with a clean chart
-
 {% capture text %}
 Hide the PivotChart fields
 
@@ -63,7 +62,6 @@ Hide the PivotChart fields
 
 
 ##### Rule 2 – Remove the gap between the columns in a column chart
-
 {% capture text %}
 Chart Style
 
@@ -109,7 +107,6 @@ While some publications are printed in full colour this can be a very expensive 
 Many formatting commands are featured in the `Chart Elements` menu which is shown as a green “plus” sign beside the chart itself.
 
 ##### Rule 4 - Legend to be displayed at the top-right of the chart
-
 {% capture text %}
 Legend
 1. Click on the PivotChart.
@@ -121,7 +118,6 @@ Legend
 {% include card.md header="Activity : Chart Elements tool - Legend" text=text %}
 
 ##### Rule 5 - Enhance the horizontal axis bar settings
-
 {% capture text %}
 Major Gridlines (horizontal)
 1. Click on the PivotChart.
@@ -135,7 +131,6 @@ Major Gridlines (horizontal)
 {% include card.md header="Activity : Chart Elements tool – Horizontal axis" text=text %}
 
 ##### Rule 6 - Enhance the vertical axis bar to match the horizontal
-
 {% capture text %}
 Major Gridlines (vertical)
 1. Click on the PivotChart.
@@ -171,6 +166,60 @@ If error bars are used, they must be described in the Figure caption in the docu
 5. Close the pane.{% endcapture %} 
 {% include card.md header="Activity : Chart Elements tool – Error bars" text=text %}
 
+
+##### Rule 9 - Add axis titles
+{% capture text %}
+1. Click on the PivotChart.
+2. Click on `Chart Elements` (the green plus sign).
+3. Check the box for `Axis Titles`.
+4. Double-click into the vertical axis title and type `Attendance`.
+5. Double-click into the horizontal axis title and type `Skill Group`.{% endcapture %} 
+{% include card.md header="Activity : Chart Elements tool – Axis titles" text=text %}
+
+##### Rule 10 - Use a large clear font
+
+Use a font that complements your document, e.g. Times New Roman to match the body of the document or Arial to match headings in your document.
+{% capture text %}
+1. Select the text in the `vertical axis title`, then click on the `Home` tab on the ribbon.
+2. Click the `Font Settings` option button.
+3. Uncheck the `All Caps` option.
+4. Choose a suitable `font` and `font size` for the text (e.g. to match your document – `Times New Roman, 14`).
+5. Do the same for the `horizontal axis title`.
+6. Adjust other text areas such as the `vertical axis values`, the `horizontal axis values` and the `legend`.{% endcapture %} 
+{% include card.md header="Activity : PivotChart text elements" text=text %}
+
+##### Rule 11 - Adjusting PivotChart values
+{% capture text %}
+1. In the PivotChart, click on the `Vertical (value) axis`, then right-click on it.
+2. Click on `Format Axis…`
+3. In the `Format Axis` pane, under `Bounds`, set the minimum to `0` (zero) and the maximum values to just above the highest value in the data range (for this exercise, `240`).
+4. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Adjusting PivotChart values" text=text %}
+
+##### Rule 12 - No border
+
+Charts should have no border in the publication, so remove this as a last step.
+{% capture text %}
+1. Double-click on the PivotChart.
+2. In the Format Chart Area pane, under Border, check the radio button for No line.
+3. Close the pane.{% endcapture %} 
+{% include card.md header="Activity : Remove the PivotChart border" text=text %}
+
+#### Resize the chart
+
+Excel’s graphical user interface (GUI) allows for resizing of the chart without distorting the content. The chart will not retain this quality once exported from Excel, so resize the image to a suitable size that:
+  (a) won’t need too much resizing in the Word document; and
+  (b) can be applied to every chart created to maintain consistency
+  
+{% capture text %}
+1. Decide on a good size for your chart (e.g. 9cm (h) x 15cm (w)).
+2. Use the resize handles to manually resize the chart. To maintain perspective, hold down the <Shift> key as you drag.
+OR
+3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
+4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
+{% include card.md header="Activity : Resize the chart" text=text %}
+    
+  
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 {% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
 
