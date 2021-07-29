@@ -35,14 +35,11 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 
 {% include figure.html img="voyant_tools_list.jpg" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
  
-{% capture text %}
 
-
-Cite the tool's developers when publishing a visualisation created using Voyant Tools:
-
+{% capture alert %}Note: Cite the tool's developers when publishing a visualisation created using Voyant Tools:
 `Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org`
 {% endcapture %}
-{% include card.md header="Citing Voyant tools" text=text %}
+{% include alert.md text=alert color="warning" %}
 
 
 
