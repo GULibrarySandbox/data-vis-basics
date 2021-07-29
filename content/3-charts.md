@@ -229,10 +229,9 @@ OR
 5. Click `OK` in the `JPEG Options` dialog box.
 6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
  
-
   
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
-{% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
+
 
 -----
 
