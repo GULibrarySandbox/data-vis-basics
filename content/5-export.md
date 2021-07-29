@@ -7,16 +7,56 @@ nav: true
 
 ------
 
-### Filtering
+### Image formats
 
-There are many records in this dataset and you can filter them to work on a subset. Let's explore filtering by a word within the text values of a column.
+Some publishers require that you submit images from a select range of formats only. For example, instructions from Wiley include:
+- Use the following standard image formats: `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
+
+In this group, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
+
+### Image resolution
+
+In addition, manuscripts or journals require images with high resolution, nominally `300 ppi` (pixels per inch).
+
+Using Cut and Paste from Excel to Word results in a poor-quality image (72-96 ppi), often with bad pixellation particularly when resizing the image.
+
+There are some things you can do to improve the quality of images in your document.
+
+### Creating suitable images
+
+The best way to create a quality graphic is to use a graphic editor. 
+
+All staff have access to `Photoshop` – a component of the `Adobe Creative Cloud` suite of programs. 
+
+Find it under `Installable Applications` on your Griffith computer or laptop.
 
 {% capture text %}
-- Click the down arrow next to  `Suburb_PostCode > Text filter`.  A filter box will appear in the left margin
-- Type *'heights'* and press return. There are 208 matching rows of the original 27528 rows (and these rows are selected for the subsequent steps).
-- Limit the results to one of the suburbs with *'Heights'* in the name. There are a couple of possibilities.
-- Do  `Facet > Text facet`  on the  `Suburb_PostCode`  column after filtering. This will show 20 suburbs with names that match your filter.
-- To restrict to only one of these suburbs, select one to include.{% endcapture %} {% include card.md header="Activity - filter to work on a subset of data" text=text %}
+1. Click the `Start` button on your computer.
+2. If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`. (You may like to explore some of the other available applications later.)
+OR
+3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` web page:
+
+[https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes](
+https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
+
+4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop" text=text %}
+
+##### Other Image editors
+
+If you are a student and don’t have access to PhotoShop, there are some popular, free alternatives you can use including:
+- [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/): open source (free) image editor
+
+{% capture text %}
+1. Generate your chart in Excel.
+2. Right-click on the chart, then click on `Save As Picture`.
+3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
+4. Browse to the location to save to, then click `Save`.
+5. Click `OK` in the `JPEG Options` dialog box.
+
+NOTE: If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
+
+6. Close Excel and refer to the handout 2021_Excel-data-visualisation_Increase-Resolution.docx for instructions on how to enhance the image using alternative software.{% endcapture %} {% include card.md header="Activity  - Save the chart as an image" text=text %}
+
 
 Faceting and filtering look very similar. A good distinction is that faceting gives you an overview, description and count of all of the data that is currently selected, while filtering allows you to select a subset of your data by a string - of text in this case - for analysis or cleaning.
 
