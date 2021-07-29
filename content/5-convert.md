@@ -3,7 +3,7 @@ title: Export
 nav: true
 ---
 
-# Export and convert chart to publication quality image
+# Convert chart to publication quality image
 
 ------
 
@@ -55,6 +55,8 @@ https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support
 {% capture alert %}Note: If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
 {% endcapture %}{% include alert.md text=alert color="warning" %}
 
+Below are activities to convert your chart using different software.  Choose and install software from the list above and follow the relevant software instructions below.
+
 {% capture text %}
 1.	Generate your chart in Excel.
 2.	Select the chart and copy it to the clipboard (Copy or <Ctrl>+<C>).
@@ -66,7 +68,7 @@ https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support
 8.	Click “File”, then “Save As…” to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
 
 
-
+{% capture text %}
  
 
 
