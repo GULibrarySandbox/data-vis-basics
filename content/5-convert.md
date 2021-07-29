@@ -44,14 +44,6 @@ OR
 https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
 4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
 
-{% capture text %}
-1. Generate your chart in Excel.
-2. Right-click on the chart, then click on `Save As Picture`.
-3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
-4. Browse to the location to save to, then click `Save`.
-5. Click `OK` in the `JPEG Options` dialog box.
-6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
-
 {% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
@@ -68,8 +60,6 @@ Below are activities to convert your chart using different software.  Choose and
 7.	Click “Edit”, then “Paste” (or press <Ctrl>+<V>) to paste the chart onto the canvas.
 8.	Click “File”, then “Save As…” to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
-
-
 
 -----
 
