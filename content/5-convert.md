@@ -66,7 +66,22 @@ Below are activities to convert your chart using different software.  Choose and
 3.  The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use “Image, Scale Image” again to change the dimensions of the image once the resolution has been set.
 4.  Now click on the `File` option on the menu bar, then click `Export` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
 {% include figure.html img="GIMP.png" alt="GIMP software" caption="Create image using GIMP" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
-  
+
+{% capture text %}
+1.	Once downloaded and installed, open PhotoPad Image Editor.
+2.	Click on `Open` on the `Home` tab, then browse to locate the image to be resized.
+3.	With the image open, click on `Resolution` on the `Home` tab.
+4.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
+5.	Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
+6.	Now click on the `save` button on the `Home` tab, then click `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
+
+{% capture text %}
+1.	Go to the application folder on Mac and open “Preview”. When it is opened, click on the “File” option on the menu bar and then click on “Open…”.  Browse to locate the image to be resized.
+2.	Once the image opens, click on the “Tools” option on the menu bar. From the Tools menu, click on “Adjust Size”.
+3.	3.	The “Image Dimensions” dialog box is opened.
+4.	Change the resolution to that specified by the journal’s style guide – usually 300 pixels/inch.
+5.	Click OK.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
+
 -----
 
 <p align="center">
