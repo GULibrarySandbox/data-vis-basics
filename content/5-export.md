@@ -14,6 +14,8 @@ Some publishers require that you submit images from a select range of formats on
 
 In this group, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
 
+-----
+
 ### Image resolution
 
 In addition, manuscripts or journals require images with high resolution, nominally `300 ppi` (pixels per inch).
@@ -22,29 +24,27 @@ Using Cut and Paste from Excel to Word results in a poor-quality image (72-96 pp
 
 There are some things you can do to improve the quality of images in your document.
 
+-----
+
 ### Creating suitable images
 
-The best way to create a quality graphic is to use a graphic editor. 
+The best way to create a quality graphic is to use a graphic editor. Below is a list of popular editors.
 
-All staff have access to `Photoshop` – a component of the `Adobe Creative Cloud` suite of programs. 
-
-Find it under `Installable Applications` on your Griffith computer or laptop.
+- `Photoshop` : (*staff only*) a component of the `Adobe Creative Cloud` suite of programs. Find it under `Installable Applications` on your Griffith computer. 
+- `[GNU Image Manipulation Program (GIMP)](https://www.gimp.org/)` : open source (free) (GNU/Linux, OS X, Windows and other operating systems).
+- `[PhotoPad](https://www.nchsoftware.com/photoeditor/)` : free for non commercial users (Windows)
+- `Preview` (Mac OS) 
 
 {% capture text %}
 1. Click the `Start` button on your computer.
 2. If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`. (You may like to explore some of the other available applications later.)
 OR
 3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` web page:
-
-[https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes](
+  - [https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes](
 https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
+4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
 
-4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop" text=text %}
-
-##### Other Image editors
-
-If you are a student and don’t have access to PhotoShop, there are some popular, free alternatives you can use including:
-- [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/): open source (free) image editor
+##### 
 
 {% capture text %}
 1. Generate your chart in Excel.
