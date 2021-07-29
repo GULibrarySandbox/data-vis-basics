@@ -52,19 +52,19 @@ Below are activities to convert your chart using different software.  Choose and
 
 {% capture text %}
 1.	Generate your chart in Excel.
-2.	Select the chart and copy it to the clipboard (Copy or <Ctrl>+<C>).
+2.	Select the chart and copy it to the clipboard (Copy or `<Ctrl>+<C>`).
 3.	Open PhotoShop CC.
-4.	In the Welcome screen, click on “Create New…”.  (If PhotoShop is already open, click on “File” then “New”.)
-5.	In the “New Document” dialog box, you’ll see that the option Clipboard is already selected.  (If it’s not, then you don’t have anything on the Clipboard – you’ll need to copy your chart again.)
-6.	On the right-hand side, change the resolution to 300 pixels/inch then click the “Create” button.  A canvas has been created that is the correct size for your chart.
-7.	Click “Edit”, then “Paste” (or press <Ctrl>+<V>) to paste the chart onto the canvas.
-8.	Click “File”, then “Save As…” to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
+4.	In the Welcome screen, click on `Create New…`.  (If PhotoShop is already open, click on `File` then `New`.)
+5.	In the `New Document` dialog box, you’ll see that the option `Clipboard` is already selected.  (If it’s not, then you don’t have anything on the Clipboard – you’ll need to copy your chart again.)
+6.	On the right-hand side, change the resolution to `300 pixels/inch` then click the `Create` button.  A canvas has been created that is the correct size for your chart.
+7.	Click `Edit`, then `Paste` (or press `<Ctrl>+<V>`) to paste the chart onto the canvas.
+8.	Click `File`, then `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
-1.	Once downloaded and installed, open GIMP and click on “File” on the toolbar, then click on “Open” and browse to locate the image to be resized.
-2.	With the image open, click on “Image” on the toolbar, then click on “Scale Image” to open the “Scale Image” dialog box.
-3.  The “Image Dimensions” dialog box is opened.  Change both the X and Y resolutions to that specified by the journal’s style guide – usually 300 pixels/inch.  You can also use “Image, Scale Image” again to change the dimensions of the image once the resolution has been set.
-4.  Now click on the “File” option on the menu bar, then click “Export” to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
+1.	Once downloaded and installed, open GIMP and click on `File` on the toolbar, then click on `Open` and browse to locate the image to be resized.
+2.	With the image open, click on `Image` on the toolbar, then click on `Scale Image` to open the `Scale Image` dialog box.
+3.  The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use “Image, Scale Image” again to change the dimensions of the image once the resolution has been set.
+4.  Now click on the `File` option on the menu bar, then click `Export` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
 {% include figure.html img="GIMP.png" alt="GIMP software" caption="Create image using GIMP" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
   
 -----
