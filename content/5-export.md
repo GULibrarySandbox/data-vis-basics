@@ -50,10 +50,10 @@ https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support
 3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
 4. Browse to the location to save to, then click `Save`.
 5. Click `OK` in the `JPEG Options` dialog box.
-
-NOTE: If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
-
 6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
+
+{% capture alert %}Note: If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
+{% endcapture %}{% include alert.md text=alert color="warning" %}
 
 {% capture text %}
 1.	Generate your chart in Excel.
