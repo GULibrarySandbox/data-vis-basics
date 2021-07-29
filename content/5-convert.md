@@ -1,5 +1,5 @@
 ---
-title: Export
+title: Convert
 nav: true
 ---
 
@@ -52,8 +52,9 @@ https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support
 5. Click `OK` in the `JPEG Options` dialog box.
 6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
 
-{% capture alert %}Note: If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
-{% endcapture %}{% include alert.md text=alert color="warning" %}
+{% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
+{% endcapture %}
+{% include alert.md text=alert color="warning" %}
 
 Below are activities to convert your chart using different software.  Choose and install software from the list above and follow the relevant software instructions below.
 
@@ -66,13 +67,9 @@ Below are activities to convert your chart using different software.  Choose and
 6.	On the right-hand side, change the resolution to 300 pixels/inch then click the “Create” button.  A canvas has been created that is the correct size for your chart.
 7.	Click “Edit”, then “Paste” (or press <Ctrl>+<V>) to paste the chart onto the canvas.
 8.	Click “File”, then “Save As…” to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
-
-
-{% capture text %}
  
 
 
-  
 
 -----
 
