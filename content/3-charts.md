@@ -218,7 +218,18 @@ OR
 3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
 {% include card.md header="Activity : Resize the chart" text=text %}
-    
+  
+##### Save chart as an image
+  
+{% capture text %}
+1. Generate your chart in Excel.
+2. Right-click on the chart, then click on `Save As Picture`.
+3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
+4. Browse to the location to save to, then click `Save`.
+5. Click `OK` in the `JPEG Options` dialog box.
+6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
+ 
+
   
 {% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
 {% include button.md text="Watch this video to see OpenRefine's layout" link="https://vimeo.com/412542634/f5b1ced9b9" color="info" %}
