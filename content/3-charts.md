@@ -23,9 +23,6 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 Follow the activity to create a PivotChart in this video.
 
 <iframe src="https://player.vimeo.com/video/428348675" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
------
-
 ## Rules for publication-quality visualisations 
 
 Excel produces an aesthetically pleasing chart that is formatted according to the theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
@@ -172,11 +169,11 @@ Charts should have no border in the publication, so remove this as a last step.
 2. In the Format Chart Area pane, under Border, check the radio button for No line.
 3. Close the pane.{% endcapture %} 
 {% include card.md header="Rule 12 - No border" text=text %}
-  
+
+Watch this video on formatting charts.
+<iframe src="https://player.vimeo.com/video/428348623" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 {% capture text %}
-Excel’s graphical user interface (GUI) allows for resizing of the chart without distorting the content. The chart will not retain this quality once exported from Excel, so resize the image to a suitable size that:
-- won’t need too much resizing in the Word document; and
-- can be applied to every chart created to maintain consistency
+Excel’s graphical user interface (GUI) allows for resizing of the chart without distorting the content. The chart will not retain this quality once exported from Excel, so resize the image to a suitable size that it won’t need too much resizing in a Word document and can be applied to every chart created to maintain consistency.
 
 1. Decide on a good size for your chart (e.g. 9cm (h) x 15cm (w)).
 2. Use the resize handles to manually resize the chart. To maintain perspective, hold down the <Shift> key as you drag.
@@ -184,12 +181,8 @@ OR
 3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
 {% include card.md header="Resize the chart" text=text %}
-
-Watch this video on formatting charts.
-<iframe src="https://player.vimeo.com/video/428348623" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   
 {% capture text %}
-1. Generate your chart in Excel.
 2. Right-click on the chart, then click on `Save As Picture`.
 3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
 4. Browse to the location to save to, then click `Save`.
