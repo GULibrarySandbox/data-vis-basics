@@ -22,9 +22,6 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 
 Follow the activity to create a PivotChart in this video.
 
-<iframe src="https://player.vimeo.com/video/428348749" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
 -----
 
 ## Rules for publication-quality visualisations
