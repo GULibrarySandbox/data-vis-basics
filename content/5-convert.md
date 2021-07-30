@@ -30,6 +30,8 @@ There are some things you can do to improve the quality of images in your docume
 
 The best way to create a quality graphic is to use a graphic editor. Below is a list of popular editors.
 
+Download and install one of these tools to suit your computer's operating system, then follow an activity below to convert your chart or figure to an image of the correct resolution and file type.
+
 - *Photoshop* : (*staff only*) part of Adobe Creative Cloud suite of programs 
 - *GNU Image Manipulation Program (GIMP)* [https://www.gimp.org/](https://www.gimp.org/) : open source (free) (GNU/Linux, OS X, Windows and other operating systems)
 - *PhotoPad* [https://www.nchsoftware.com/photoeditor/](https://www.nchsoftware.com/photoeditor/) : free for non commercial users (Windows)
@@ -47,7 +49,7 @@ Below are activities to convert your chart using different software.  Choose and
 {% capture text %}
 1.	Generate your chart in Excel.
 2.	Select the chart and copy it to the clipboard (Copy or `<Ctrl>+<C>`).
-3.	Open PhotoShop CC.
+3.	Open *PhotoShop CC*.
 4.	In the Welcome screen, click on `Create New…`.  (If PhotoShop is already open, click on `File` then `New`.)
 5.	In the `New Document` dialog box, you’ll see that the option `Clipboard` is already selected.  (If it’s not, then you don’t have anything on the Clipboard – you’ll need to copy your chart again.)
 6.	On the right-hand side, change the resolution to `300 pixels/inch` then click the `Create` button.  A canvas has been created that is the correct size for your chart.
@@ -55,14 +57,14 @@ Below are activities to convert your chart using different software.  Choose and
 8.	Click `File` > `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
-1.	Once downloaded and installed, open GIMP and click on `File` > `Open` and browse to locate the image to be resized.
+1.	Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
 2.	With the image open, click on `Image` > `Scale Image` to open the `Scale Image` dialog box.
 3. The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use `Image, Scale Image` again to change the dimensions of the image once the resolution has been set.
 4. Click on the `File` > `Export` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
 {% include figure.html img="GIMP2.png" alt="GIMP software" caption="Create image using GIMP" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
 
 {% capture text %}
-- Once downloaded and installed, open PhotoPad Image Editor.
+- Open *PhotoPad* Image Editor.
 - Click on `Open` on the `Home` tab, then browse to locate the image to be resized.
 - With the image open, click on `Resolution` on the `Home` tab.
 {% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}
