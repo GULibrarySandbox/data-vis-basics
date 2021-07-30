@@ -30,10 +30,10 @@ There are some things you can do to improve the quality of images in your docume
 
 The best way to create a quality graphic is to use a graphic editor. Below is a list of popular editors.
 
-- `Photoshop` : (*staff only*) a component of the `Adobe Creative Cloud` suite of programs. Find it under `Installable Applications` on your Griffith computer. 
-- `GNU Image Manipulation Program (GIMP)` [https://www.gimp.org/](https://www.gimp.org/) : open source (free) (GNU/Linux, OS X, Windows and other operating systems).
-- `PhotoPad` [https://www.nchsoftware.com/photoeditor/](https://www.nchsoftware.com/photoeditor/) : free for non commercial users (Windows)
-- `Preview` (Mac OS) 
+- *Photoshop* : (*staff only*) part of Adobe Creative Cloud suite of programs 
+- *GNU Image Manipulation Program (GIMP)* [https://www.gimp.org/](https://www.gimp.org/) : open source (free) (GNU/Linux, OS X, Windows and other operating systems)
+- *PhotoPad* [https://www.nchsoftware.com/photoeditor/](https://www.nchsoftware.com/photoeditor/) : free for non commercial users (Windows)
+- *Preview* (Mac OS) 
 
 {% capture text %}
 1. Click the `Start` button on your computer.
