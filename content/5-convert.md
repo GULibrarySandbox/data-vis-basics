@@ -37,16 +37,10 @@ The best way to create a quality graphic is to use a graphic editor. Below is a 
 
 {% capture text %}
 1. Click the `Start` button on your computer.
-2. If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`. (You may like to explore some of the other available applications later.)
+2. If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`.
 OR
-3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` web page:
-  - [https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes](
-https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
+3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` [web page](https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
 4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
-
-{% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
-{% endcapture %}
-{% include alert.md text=alert color="warning" %}
 
 Below are activities to convert your chart using different software.  Choose and install software from the list above and follow the relevant software instructions below.
 
@@ -82,6 +76,9 @@ Below are activities to convert your chart using different software.  Choose and
 4.	Change the resolution to that specified by the journal’s style guide – usually 300 pixels/inch.
 5.	Click OK.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
 
+{% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
+{% endcapture %}
+{% include alert.md text=alert color="warning" %}
 -----
 
 <p align="center">
