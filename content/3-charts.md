@@ -20,6 +20,10 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
+Follow the activity to create a PivotChart in this video.
+
+<iframe width="854" height="480" src='https://player.vimeo.com/video/428348675' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>![image](https://user-images.githubusercontent.com/51395844/127607164-8d849c88-691b-4101-bacc-6b508708b990.png)
+
 -----
 
 ## Rules for publication-quality visualisations
