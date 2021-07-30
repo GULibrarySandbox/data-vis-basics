@@ -230,10 +230,6 @@ OR
 4. Browse to the location to save to, then click `Save`.
 5. Click `OK` in the `JPEG Options` dialog box.
 6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
- 
-  
-{% include figure.html img="ORLayout.png" alt="OpenRefine layout" caption="OpenRefine layout" width="75%" %}
-
 
 -----
 
