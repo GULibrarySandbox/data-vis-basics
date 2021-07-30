@@ -21,6 +21,7 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
 Follow the activity to create a PivotChart in this video.
+
 <iframe src="https://player.vimeo.com/video/428348675" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 -----
 
@@ -220,8 +221,9 @@ OR
 3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
 {% include card.md header="Activity : Resize the chart" text=text %}
-  
-*Format video here*
+
+Watch this video on formatting charts.
+<iframe src="https://player.vimeo.com/video/428348623" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   
 ##### Save chart as an image
   
