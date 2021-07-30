@@ -74,12 +74,14 @@ OR
 {% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
 
 {% capture text %}
-1.	Go to the application folder on Mac and open `Preview`. Then click `File` on the menu bar and `Open…`.  
-2.	Browse to locate the image to be resized.
-3.	Open the image, click on `Tools` in the menu bar, select`Adjust Size`.
-4. The `Image Dimensions` dialog box is opened.
-5.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
-6.	Click `OK`.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
+- Go to the application folder on Mac and open `Preview`. Then click `File` on the menu bar and `Open…`.  
+{% include figure.html img="MacPreview1.png" alt="MAC Preview software" caption="Create image using Preview for MAC" width="70%" %}
+- Browse to locate the image to be resized.
+- Open the image, click on `Tools` in the menu bar, select`Adjust Size`.
+- The `Image Dimensions` dialog box is opened.
+- Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
+{% include figure.html img="MacPreview2.png" alt="MAC Preview software" caption="Change image resolution using Preview for MAC" width="70%" %}
+- Click `OK`.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
 
 {% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
 {% endcapture %}
