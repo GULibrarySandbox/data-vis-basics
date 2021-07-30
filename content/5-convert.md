@@ -68,7 +68,7 @@ Below are activities to convert your chart using different software.  Choose and
 {% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}
 - Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
 - Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
-{% include figure.html img="PhotoPad2.png" alt="PhotoPad software" caption="Change resolution in PhotoPad" width="100%" %}
+{% include figure.html img="PhotoPad2.png" alt="PhotoPad software" caption="Change resolution in PhotoPad" width="50%" %}
 - Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
 {% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
 
