@@ -16,41 +16,21 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 2.	Click the `Insert` tab on the ribbon.
 3.	Click `Column or Bar Chart`.  Choose `2-D column`.
 4.	The chart is referred to as a `PivotChart` because it is based on a PivotTable.{% endcapture %} 
-{% include card.md header="Activity : Creating a chart" text=text %}
+{% include card.md header="Create a chart" text=text %}
 
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="PivotChart" caption="PivotChart" width="100%" %}
 
 Follow the activity to create a PivotChart in this video.
 
 <iframe src="https://player.vimeo.com/video/428348675" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-## Rules for publication-quality visualisations
+
+-----
+
+## Rules for publication-quality visualisations 
 
 Excel produces an aesthetically pleasing chart that is formatted according to the theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
 
-- No title required (will be captioned)
-- Remove the Excel field buttons
-- Remove the gap between the columns in a column chart
-- No Colour – Black/White/Grey
-- Legend top right
-- Enhance the horizontal axis bar settings
-- Match the vertical axis bar settings to the horizontal axis bar and add tick marks
-- No background gridlines
-- Include error bars (if applicable)
-- Add an asterisk directly above the significant error bar (if applicable)
-- Add axis titles
-- Use large clear fonts for all text areas
-- No border
-<p>
-  
-</p>
------
-
-## Chart tools
-
-The following sections describe how to prepare your chart for publication. 
-
-
-#### Tool: PivotChart Tools tab
+The following sections describe how to prepare your chart for publication, using 12 rules.
 
 When the chart is selected, the `PivotChart Tools` contextual tab is added to the ribbon. 
 
@@ -73,14 +53,10 @@ Chart Style
 - Select `Style 11`.{% endcapture %} 
 {% include card.md header="Rule 2 – Remove the gap between the columns in a column chart" text=text %}
 
------
-
-#### Tool: Double-click or right-click
-
-All the chart components can be edited by either double-clicking on the element within the chart or by right-clicking on it.
-
 {% capture text %}
 While some publications are printed in full colour this can be a very expensive practice and the alternative of printing colour in black and white may not give satisfactory results when converted to shades of grey by an unknown conversion process. It is better to control this process yourself.
+
+All the chart components can be edited by either double-clicking on the element within the chart or by right-clicking on it.
 
 1. Click on the `PivotChart`, then double-click on the legend entry for `AEL` to open the `Format Legend Entry` pane.
 2. Click on `Fill`.
@@ -101,13 +77,10 @@ While some publications are printed in full colour this can be a very expensive 
 17. Change the fill colour for `Other` to `black` (no border).{% endcapture %} 
 {% include card.md header="Rule 3 - No colour – use white/greys/black" text=text %}
 
------
-
-#### Tool: Chart Elements
+{% capture text %}
 
 Many formatting commands are featured in the `Chart Elements` menu which is shown as a green “plus” sign beside the chart itself. Let's make some changes to these.
 
-{% capture text %}
 Legend
 
 1. Click on the PivotChart.
