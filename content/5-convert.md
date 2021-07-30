@@ -80,7 +80,7 @@ OR
 - Open the image, click on `Tools` in the menu bar, select`Adjust Size`.
 - The `Image Dimensions` dialog box is opened.
 - Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
-{% include figure.html img="MacPreview2.jpg" alt="MAC Preview software" caption="Change image resolution using Preview for MAC" width="70%" %}
+{% include figure.html img="MacPreview2.jpg" alt="MAC Preview software" caption="Change image resolution using Preview for MAC" width="100%" %}
 - Click `OK`.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
 
 {% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
