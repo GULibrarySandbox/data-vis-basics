@@ -23,8 +23,6 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 Follow the activity to create a PivotChart in this video.
 
 <iframe src="https://player.vimeo.com/video/428348675" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
------
-
 ## Rules for publication-quality visualisations
 
 Excel produces an aesthetically pleasing chart that is formatted according to the theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
@@ -42,7 +40,9 @@ Excel produces an aesthetically pleasing chart that is formatted according to th
 - Add axis titles
 - Use large clear fonts for all text areas
 - No border
-
+<p>
+  
+</p>
 -----
 
 ## Chart tools
@@ -54,14 +54,14 @@ The following sections describe how to prepare your chart for publication.
 
 When the chart is selected, the `PivotChart Tools` contextual tab is added to the ribbon. There are three groups of commands on this contextual tab: `Analyze` – `Design` – `Format`.
 
-
-##### Rule 1 – Start with a clean chart
 {% capture text %}
+Activity: PivotChart Tools tab – Field buttons
+
 Hide the PivotChart fields
 
-1. Click on the `Analyze` group on the `PivotChart Tools` contextual tab if not already selected.
-2. Click on `Field Buttons`, then click on `Hide All`.{% endcapture %} 
-{% include card.md header="Activity : PivotChart Tools tab – Field buttons" text=text %}
+- Click on the `Analyze` group on the `PivotChart Tools` contextual tab if not already selected.
+- Click on `Field Buttons`, then click on `Hide All`.{% endcapture %} 
+{% include card.md header="Rule 1 : Start with a clean chart" text=text %}
 
 
 ##### Rule 2 – Remove the gap between the columns in a column chart
