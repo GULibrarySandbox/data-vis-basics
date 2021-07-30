@@ -51,14 +51,14 @@ Below are activities to convert your chart using different software.  Choose and
 4.	In the Welcome screen, click on `Create New…`.  (If PhotoShop is already open, click on `File` then `New`.)
 5.	In the `New Document` dialog box, you’ll see that the option `Clipboard` is already selected.  (If it’s not, then you don’t have anything on the Clipboard – you’ll need to copy your chart again.)
 6.	On the right-hand side, change the resolution to `300 pixels/inch` then click the `Create` button.  A canvas has been created that is the correct size for your chart.
-7.	Click `Edit`, then `Paste` (or press `<Ctrl>+<V>`) to paste the chart onto the canvas.
-8.	Click `File`, then `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
+7.	Click `Edit` > `Paste` (or press `<Ctrl>+<V>`) to paste the chart onto the canvas.
+8.	Click `File` > `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
-1.	Once downloaded and installed, open GIMP and click on `File` on the toolbar, then click on `Open` and browse to locate the image to be resized.
-2.	With the image open, click on `Image` on the toolbar, then click on `Scale Image` to open the `Scale Image` dialog box.
-3.  The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use “Image, Scale Image” again to change the dimensions of the image once the resolution has been set.
-4.  Now click on the `File` option on the menu bar, then click `Export` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
+1.	Once downloaded and installed, open GIMP and click on `File` > `Open` and browse to locate the image to be resized.
+2.	With the image open, click on `Image` > `Scale Image` to open the `Scale Image` dialog box.
+3. The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use `Image, Scale Image` again to change the dimensions of the image once the resolution has been set.
+4. Click on the `File` > `Export` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
 {% include figure.html img="GIMP.png" alt="GIMP software" caption="Create image using GIMP" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
 
 {% capture text %}
@@ -67,18 +67,22 @@ Below are activities to convert your chart using different software.  Choose and
 3.	With the image open, click on `Resolution` on the `Home` tab.
 4.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
 5.	Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
-6.	Now click on the `save` button on the `Home` tab, then click `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
+6.	Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
+7.	{% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
 
 {% capture text %}
-1.	Go to the application folder on Mac and open “Preview”. When it is opened, click on the “File” option on the menu bar and then click on “Open…”.  Browse to locate the image to be resized.
-2.	Once the image opens, click on the “Tools” option on the menu bar. From the Tools menu, click on “Adjust Size”.
-3.	3.	The “Image Dimensions” dialog box is opened.
-4.	Change the resolution to that specified by the journal’s style guide – usually 300 pixels/inch.
-5.	Click OK.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
+1.	Go to the application folder on Mac and open `Preview`. Then click `File` on the menu bar and `Open…`.  
+2.	Browse to locate the image to be resized.
+3.	Open the image, click on `Tools` in the menu bar, select`Adjust Size`.
+4. The `Image Dimensions` dialog box is opened.
+5.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
+6.	Click `OK`.{% endcapture %} {% include card.md header="Activity - Create image using Preview (Mac OS)" text=text %}
 
 {% capture alert %}*Note:* If you have the option to submit `*.PNG` files, this is a better format than JPEG as the file size is smaller.
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
+
+
 -----
 
 <p align="center">
