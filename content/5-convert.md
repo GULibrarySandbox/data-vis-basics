@@ -50,10 +50,10 @@ OR
 -	Open *PhotoShop CC*.
 -	In the Welcome screen, click on `Create New…`, or select `File` > `New`.  A `New Document` dialog box will open.
 - In the `Preset Details` on the right-hand side, change the resolution to `300 pixels/inch` and click `Create`.  A canvas has been created that is the correct size for your chart.
-{% include figure.html img="PhotoShop1.png" alt="PhotoShop software" caption="Create image using PhotoShop" width="70%" %}
+{% include figure.html img="Photoshop1.png" alt="PhotoShop software" caption="Create image using PhotoShop" width="70%" %}
 -	Click `Edit` > `Paste` (or press `<Ctrl>+<V>`) to paste your chart onto the canvas, or drag and drop the file onto the canvas.
 - Click `File` > `Export…` > `Quick Export as PNG` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
-{% include figure.html img="PhotoShop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
+{% include figure.html img="Photoshop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
 1.	Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
