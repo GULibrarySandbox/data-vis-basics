@@ -99,13 +99,13 @@ While some publications are printed in full colour this can be a very expensive 
 15. Close the pane.
 16. Change the fill colour for `Health` and `Sciences`, incrementing the colours in shades of grey (no border is required for grey shades).
 17. Change the fill colour for `Other` to `black` (no border).{% endcapture %} 
-{% include card.md header="Rule 3 - No colour – use white/grey/blacks" text=text %}
+{% include card.md header="Rule 3 - No colour – use white/greys/black" text=text %}
 
 -----
 
 #### Tool: Chart Elements
 
-Many formatting commands are featured in the `Chart Elements` menu which is shown as a green “plus” sign beside the chart itself.
+Many formatting commands are featured in the `Chart Elements` menu which is shown as a green “plus” sign beside the chart itself. Let's make some changes to these.
 
 {% capture text %}
 Legend
@@ -199,25 +199,21 @@ Charts should have no border in the publication, so remove this as a last step.
 2. In the Format Chart Area pane, under Border, check the radio button for No line.
 3. Close the pane.{% endcapture %} 
 {% include card.md header="Rule 12 - No border" text=text %}
-
-#### Resize the chart
-
-Excel’s graphical user interface (GUI) allows for resizing of the chart without distorting the content. The chart will not retain this quality once exported from Excel, so resize the image to a suitable size that:
-  (a) won’t need too much resizing in the Word document; and
-  (b) can be applied to every chart created to maintain consistency
   
 {% capture text %}
+Excel’s graphical user interface (GUI) allows for resizing of the chart without distorting the content. The chart will not retain this quality once exported from Excel, so resize the image to a suitable size that:
+- won’t need too much resizing in the Word document; and
+- can be applied to every chart created to maintain consistency
+
 1. Decide on a good size for your chart (e.g. 9cm (h) x 15cm (w)).
 2. Use the resize handles to manually resize the chart. To maintain perspective, hold down the <Shift> key as you drag.
 OR
 3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
-{% include card.md header="Activity : Resize the chart" text=text %}
+{% include card.md header="Resize the chart" text=text %}
 
 Watch this video on formatting charts.
 <iframe src="https://player.vimeo.com/video/428348623" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  
-#### Save chart as an image
   
 {% capture text %}
 1. Generate your chart in Excel.
@@ -225,7 +221,7 @@ Watch this video on formatting charts.
 3. In the `Save as type`: selection list, choose `JPEG` (`*.JPG,*.JPEG,*.JPE`) (or file type nominated in the journal’s style guide).
 4. Browse to the location to save to, then click `Save`.
 5. Click `OK` in the `JPEG Options` dialog box.
-6. Close Excel.{% endcapture %} {% include card.md header="Activity - Save the chart as an image" text=text %}
+6. Close Excel.{% endcapture %} {% include card.md header="Save the chart as an image" text=text %}
 
 -----
 
