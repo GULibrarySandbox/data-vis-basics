@@ -192,6 +192,6 @@ OR
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-tables.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/4-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/2-tables.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/5-convert.html">NEXT --></a>
 </p>
