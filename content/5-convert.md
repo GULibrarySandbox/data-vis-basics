@@ -45,14 +45,15 @@ OR
 4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
 
 {% capture text %}
-1.	Generate your chart in Excel.
-2.	Select the chart and copy it to the clipboard (Copy or `<Ctrl>+<C>`).
-3.	Open *PhotoShop CC*.
-4.	In the Welcome screen, click on `Create New…`.  (If PhotoShop is already open, click on `File` then `New`.)
-5.	In the `New Document` dialog box, you’ll see that the option `Clipboard` is already selected.  (If it’s not, then you don’t have anything on the Clipboard – you’ll need to copy your chart again.)
-6.	On the right-hand side, change the resolution to `300 pixels/inch` then click the `Create` button.  A canvas has been created that is the correct size for your chart.
-7.	Click `Edit` > `Paste` (or press `<Ctrl>+<V>`) to paste the chart onto the canvas.
-8.	Click `File` > `Save As…` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
+-	Generate your chart in Excel.
+-	Select the chart and copy it to the clipboard (Copy or `<Ctrl>+<C>`).
+-	Open *PhotoShop CC*.
+-	In the Welcome screen, click on `Create New…`, or select `File` > `New`.  A `New Document` dialog box will open.
+- In the `Preset Details` on the right-hand side, change the resolution to `300 pixels/inch` and click `Create`.  A canvas has been created that is the correct size for your chart.
+{% include figure.html img="PhotoShop1.png" alt="PhotoShop software" caption="Create image using PhotoShop" width="70%" %}
+-	Click `Edit` > `Paste` (or press `<Ctrl>+<V>`) to paste your chart onto the canvas, or drag and drop the file onto the canvas.
+- Click `File` > `Export…` > `Quick Export as PNG` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
+{% include figure.html img="PhotoShop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
 1.	Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
