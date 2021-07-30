@@ -44,8 +44,6 @@ OR
 3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` [web page](https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
 4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
 
-Below are activities to convert your chart using different software.  Choose and install software from the list above and follow the relevant software instructions below.
-
 {% capture text %}
 1.	Generate your chart in Excel.
 2.	Select the chart and copy it to the clipboard (Copy or `<Ctrl>+<C>`).
