@@ -65,10 +65,12 @@ Below are activities to convert your chart using different software.  Choose and
 1.	Once downloaded and installed, open PhotoPad Image Editor.
 2.	Click on `Open` on the `Home` tab, then browse to locate the image to be resized.
 3.	With the image open, click on `Resolution` on the `Home` tab.
-4.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
-5.	Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
-6.	Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
-{% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
+4.	{% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}
+5.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
+6.	Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
+7.	{% include figure.html img="PhotoPad2.png" alt="PhotoPad software" caption="Change resolution in PhotoPad" width="100%" %}
+8.	Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
+{% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
 
 {% capture text %}
 1.	Go to the application folder on Mac and open `Preview`. Then click `File` on the menu bar and `Open…`.  
