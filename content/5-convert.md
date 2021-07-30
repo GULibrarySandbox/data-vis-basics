@@ -26,7 +26,7 @@ There are some things you can do to improve the quality of images in your docume
 
 -----
 
-### Creating suitable images
+### Image editing software
 
 The best way to create a quality graphic is to use a graphic editor. Below is a list of popular editors.
 
