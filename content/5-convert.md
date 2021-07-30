@@ -62,14 +62,14 @@ Below are activities to convert your chart using different software.  Choose and
 {% include figure.html img="GIMP.png" alt="GIMP software" caption="Create image using GIMP" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
 
 {% capture text %}
-1.	Once downloaded and installed, open PhotoPad Image Editor.
-2.	Click on `Open` on the `Home` tab, then browse to locate the image to be resized.
-3.	With the image open, click on `Resolution` on the `Home` tab.
-4.	{% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}
-5.	Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
-6.	Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
-7.	{% include figure.html img="PhotoPad2.png" alt="PhotoPad software" caption="Change resolution in PhotoPad" width="100%" %}
-8.	Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
+- Once downloaded and installed, open PhotoPad Image Editor.
+- Click on `Open` on the `Home` tab, then browse to locate the image to be resized.
+- With the image open, click on `Resolution` on the `Home` tab.
+{% include figure.html img="PhotoPad1.png" alt="PhotoPad software" caption="Create image using PhotoPad" width="100%" %}
+- Change the resolution to that specified by the journal’s style guide – usually `300 pixels/inch`.
+- Click the `Apply` button.  You can also change the dimensions of the image once the resolution has been set.
+{% include figure.html img="PhotoPad2.png" alt="PhotoPad software" caption="Change resolution in PhotoPad" width="100%" %}
+- Select `save` on the `Home` tab, then `Save As…` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
 {% endcapture %} {% include card.md header="Activity - Create image using PhotoPad" text=text %}
 
 {% capture text %}
