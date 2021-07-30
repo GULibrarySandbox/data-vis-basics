@@ -24,7 +24,7 @@ You don’t need a PivotTable to create a chart – charts can be created from a
 
 ## Rules for publication-quality visualisations
 
-As you have seen, Excel produces an aesthetically pleasing chart that is formatted according to the Theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
+Excel produces an aesthetically pleasing chart that is formatted according to the theme of your workbook, but there are specific rules used to create publication-quality visuals which means some editing of your chart.
 
 - No title required (will be captioned)
 - Remove the Excel field buttons
@@ -218,6 +218,8 @@ OR
 3. Click on the Format group on the PivotChart Tools contextual tab and adjust the sizing numerically in the Size group.
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
 {% include card.md header="Activity : Resize the chart" text=text %}
+  
+<iframe width="854" height="480" src='https://player.vimeo.com/video/428348623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
   
 ##### Save chart as an image
   
