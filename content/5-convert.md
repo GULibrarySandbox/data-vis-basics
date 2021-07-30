@@ -11,7 +11,9 @@ nav: true
 
 Some publishers require that you submit images from a select range of formats only. 
 
-For example, instructions from Wiley include to use standard image formats: `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
+For example, instructions from Wiley include to use standard image formats: 
+
+`BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
 
 In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
 
@@ -57,10 +59,11 @@ OR
 {% include figure.html img="Photoshop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
  
 {% capture text %}
-1.	Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
-2.	With the image open, click on `Image` > `Scale Image` to open the `Scale Image` dialog box.
-3. The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use `Image, Scale Image` again to change the dimensions of the image once the resolution has been set.
-4. Click on the `File` > `Export` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
+- Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
+- With the image open, click on `Image` > `Scale Image` to open the `Scale Image` dialog box.
+- The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.
+- You can also use `Image, Scale Image` again to change the dimensions of the image once the resolution has been set.
+- Click on the `File` > `Export` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
 {% include figure.html img="GIMP2.png" alt="GIMP software" caption="Create image using GIMP" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
 
 {% capture text %}
