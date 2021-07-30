@@ -59,7 +59,7 @@ Below are activities to convert your chart using different software.  Choose and
 2.	With the image open, click on `Image` > `Scale Image` to open the `Scale Image` dialog box.
 3. The `Image Dimensions` dialog box is opened.  Change both the `X` and `Y` resolutions to that specified by the journal’s style guide – usually `300 pixels/inch`.  You can also use `Image, Scale Image` again to change the dimensions of the image once the resolution has been set.
 4. Click on the `File` > `Export` to save your edited image in the `format` specified by the journal’s style guide and in the appropriate location.
-{% include figure.html img="GIMP.png" alt="GIMP software" caption="Create image using GIMP" width="100%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
+{% include figure.html img="GIMP2.png" alt="GIMP software" caption="Create image using GIMP" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using GIMP" text=text %}
 
 {% capture text %}
 - Once downloaded and installed, open PhotoPad Image Editor.
