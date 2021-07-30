@@ -9,10 +9,11 @@ nav: true
 
 ### Image formats
 
-Some publishers require that you submit images from a select range of formats only. For example, instructions from Wiley include:
-- Use the following standard image formats: `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
+Some publishers require that you submit images from a select range of formats only. 
 
-In this group, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
+For example, instructions from Wiley include to use standard image formats: `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
+
+In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
 
 -----
 
@@ -38,8 +39,8 @@ Download and install one of these tools to suit your computer's operating system
 - *Preview* (Mac OS) 
 
 {% capture text %}
-1. Click the `Start` button on your computer.
-2. If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`.
+- Click the `Start` button on your computer.
+- If you see the `Adobe Creative Cloud` shortcut, click on it to install `Photoshop CC`.
 OR
 3. If you don’t see Adobe Creative Cloud in your Start menu, go to Griffith’s `Adobe Product Access` [web page](https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/general-information/adobe-licensing-changes)
 4. Follow the instructions to download and install the software.{% endcapture %} {% include card.md header="Activity - Accessing Photoshop (staff)" text=text %}
