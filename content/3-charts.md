@@ -224,7 +224,7 @@ OR
 4. Take note of the physical dimensions so you can apply the same dimensions to other charts.{% endcapture %} 
 {% include card.md header="Activity : Resize the chart" text=text %}
   
-<iframe width="854" height="480" src='https://player.vimeo.com/video/428348623' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+*Format video here*
   
 ##### Save chart as an image
   
