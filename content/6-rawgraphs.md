@@ -156,12 +156,12 @@ Play further with the variables to explore the dataset.
 - Drag and drop `Def_sex` (sex of defendant) and `Offence` and explore in `Step 4` to
 - visualise sex differences in the types and proportions of offences.
 - Scroll back to `Step 3: Mapping`
-- Exchange the variables for `Trial Judge` as `Step 1` and `Trial Place` as `Step 2`, to explore which judges worked across different locations in Queensland.
+- Exchange the variables for `Trial Judge` as `Step 1` and `Trial Place` as `Step 2`, to explore which judges worked across different locations in Queensland.{% endcapture %} {% include card.md header="Extra" text=text %}
 
 Lesson adapted from:
 
 "How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
-alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/)
+alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/) 
 
 -----
 
