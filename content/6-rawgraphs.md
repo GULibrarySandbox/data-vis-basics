@@ -117,17 +117,16 @@ When publishing, the data should accompany the article to verify the visualisati
 
 {% capture text %}
 Customise the visualisation using the up/down arrows to make changes to:
+
 `Artboard`:
 - `Width`:  1000
 - `All margins`: 30
-
 `Chart`:
 - `Nodes width`: 5
 - `Padding`: 25
 - `Links opacity`: .5
 - `Sort nodes by`: size (descending)
 - `Flows alignment`: Center
-
 `Colours`:
 - Click on `colour schemes` to choose one of three default options
 or 
@@ -135,7 +134,6 @@ or
 or 
 - paste a  `#Hex code` for a colour of your choice such as #fb082f
 - Explore results
-
 `Labels`:
  - Select `Yes` to show values. It looks a bit busy, let’s `turn them off`. You can include more details on the data in a publication text and appendix.
 
