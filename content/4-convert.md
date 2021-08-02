@@ -113,6 +113,6 @@ Watch a demonstration of this on the video below:
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/3-charts.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-voyant.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics//content/5-voyant.html">NEXT --></a>
 </p>
 
