@@ -20,7 +20,7 @@ Features and chart options include:
 - Contour plots and more...
 
 {% include figure.html img="RawGraphsTypes.png" alt="RawGraphs chart types" caption="RawGraphs chart types" width="100%" %}
-Source: https://app.rawgraphs.io/ 
+Source: [https://app.rawgraphs.io/](https://app.rawgraphs.io/)
 
 RAWGraphs is an online tool so don’t use personal, confidential or sensitive data.  However, should you need to visualise sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
 
@@ -121,12 +121,14 @@ Customise the visualisation using the up/down arrows to make changes to:
 `Artboard`:
 - `Width`:  1000
 - `All margins`: 30
+
 `Chart`:
 - `Nodes width`: 5
 - `Padding`: 25
 - `Links opacity`: .5
 - `Sort nodes by`: size (descending)
 - `Flows alignment`: Center
+
 `Colours`:
 - Click on `colour schemes` to choose one of three default options
 or 
@@ -134,6 +136,7 @@ or
 or 
 - paste a  `#Hex code` for a colour of your choice such as #fb082f
 - Explore results
+- 
 `Labels`:
  - Select `Yes` to show values. It looks a bit busy, let’s `turn them off`. You can include more details on the data in a publication text and appendix.
 
@@ -155,6 +158,8 @@ Play further with the variables to explore the dataset.
 - visualise sex differences in the types and proportions of offences.
 - Scroll back to `Step 3: Mapping`
 - Exchange the variables for `Trial Judge` as `Step 1` and `Trial Place` as `Step 2`, to explore which judges worked across different locations in Queensland.{% endcapture %} {% include card.md header="Extra" text=text %}
+
+{% include figure.html img="2021_Offences_Fig_V1.jpg" alt="RAWGraphs Alluvial Chart of a Prosecution Project dataset" caption="RAWGraphs Alluvial Chart of a Prosecution Project dataset" width="100%" %}
 
 Lesson adapted from:
 
