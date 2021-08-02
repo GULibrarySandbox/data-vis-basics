@@ -71,7 +71,9 @@ OR
 {% include figure.html img="Photoshop1.png" alt="PhotoShop software" caption="Create image using PhotoShop" width="70%" %}
 -	Click `Edit` > `Paste` (or press `<Ctrl>+<V>`) to paste your chart onto the canvas, or drag and drop the file onto the canvas.
 - Click `File` > `Export…` > `Quick Export as PNG` to save your edited image in the format specified by the journal’s style guide and in the appropriate location.
-{% include figure.html img="Photoshop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md header="Activity - Create image using PhotoShop CC" text=text %}
+{% include figure.html img="Photoshop2.png" alt="PhotoShop software" caption="Export image using PhotoShop" width="70%" %}{% endcapture %} {% include card.md 
+header="Activity - Create image using PhotoShop CC" text=text %}
+Watch a demonstration of this on the video below:
 <iframe src="https://player.vimeo.com/video/428348827" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 {% capture text %}
 - Open *GIMP* and click on `File` > `Open` and browse to locate the image to be resized.
