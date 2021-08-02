@@ -166,6 +166,69 @@ Lesson adapted from:
 "How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
 alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/) 
 
+### Activity 2: time series data visualisation
+
+**About the data**
+
+The sample dataset in this tutorial features Brisbane’s daily maximum temperatures in 2019, and is from the Australian Bureau of Meteorology’s (BOM) Climate Data series: [http://www.bom.gov.au/climate/data/](http://www.bom.gov.au/climate/data/).
+
+You can choose a range of years from BOM data, in this instance one full year has been used. BOM has excellent visualisation tools for use on its website including here which shows the range of daily maximum temperatures quite clearly.
+
+In this activity you will visualise the most prevalent maximum daily temperatures across 2019, using the `Contour plot` in RAWGraphs.
+
+{% capture text %}
+- Go to Griffith’s Research Data Storage Service link [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/OFbexAoD0u1dIFH) 
+- Download the sample dataset `2019_BOM_Brisbane_MaxTempData_V2.csv`
+- `Save` file
+- Go to [https://rawgraphs.io/](https://rawgraphs.io/) and click `use it now`
+- Select `Upload` > `Browse` > go to `Downloads` folder > click on dataset `2019_BOM_Brisbane_MaxTempData_V2.csv`> `Open`
+- Preview the data to ensure 365 rows have been parsed.{% endcapture %} {% include card.md header="Step 1: upload the data" text=text %}
+
+{% capture text %}
+A Contour plot shows the estimated density of point clouds, which is especially useful to avoid overplotting in large datasets.
+- Click on `Contour plot` box
+- Scroll down to `Step 3`
+{% endcapture %} {% include card.md header="Step 2: choose a Contour plot" text=text %}
+
+{% capture text %}
+The variables are listed in the green boxes.  Let’s create a chart to show if there are particular dates with a large proportion of maximum temperatures throughout the year 2019.
+- Drag and drop `Date` variable to `X Axis` box
+- Drag and drop `Max Temp` to `Y Axis` box
+{% endcapture %} {% include card.md header="Step 3: Map the variables to the chart" text=text %}
+
+{% capture text %}
+Make changes to:
+
+Artboard:
+- `Width`:  940 px (pixels)
+- `Height`: 483 px
+
+Chart:
+- `Show dots`: Yes
+
+Colours: to change to greyscale
+- `Color scale`: Sequential
+- `Start colour`: click on `# Hex value` and paste `#E4E7EC` into the Hex Box 
+or
+- Click inside the `palette box` for an appropriate light grey shade, then click out of box
+- `End colour`: click on `# Hex value` and paste `#181919` into the Hex Box
+or
+- Click inside the `palette box` for an appropriate dark grey shade, then click out of box
+
+Labels:
+- No need to show labels, but you can play with this to see the difference.
+
+It is now quite easy to see the maximum temperatures which were most prevalent at different times of the year, with some darker clusters in mid-January to early February, and from mid-April to early May.  You can turn off the data points and just see the clusters, however it then doesn’t show the individual temperatures.
+{% endcapture %} {% include card.md header="Step 4: Customise the chart" text=text %}
+
+{% capture text %}
+- Name the chart according to a file name convention required by the publisher or your data management protocols.
+- Change the file type according to publisher requirements, `.jpg` will provide the highest quality file from this tool.
+- Select download
+
+To make further changes to the chart, use a image editor tool such as those demonstrated in [Create a publication quality image](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html) activities. 
+{% endcapture %} {% include card.md header="Step 5. Export" text=text %}
+
 -----
 
 <p align="center">
