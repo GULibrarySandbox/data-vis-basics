@@ -15,7 +15,9 @@ For example, instructions from Wiley include to use standard image formats:
 
 `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
 
-In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as Raster images are more flexible and resizable without loss. Make sure to refer to the journal’s style guide for preferred formats.
+In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Vector` format wherever possible as Vector images are more flexible and resizable without loss. 
+
+Make sure to refer to the journal’s style guide for preferred formats.
 
 -----
 
