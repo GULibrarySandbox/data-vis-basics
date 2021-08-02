@@ -238,6 +238,24 @@ To make further changes to the chart, use a image editor tool such as those demo
 
 -----
 
+### Articles citing RAWGraphs
+
+RAWGraphs has over 180 papers citing it in [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%E2%80%9Crawgraphs%E2%80%9D&btnG=) including:
+- Halkos, G., Managi, S., & Tsilika, K. (2018). Spatiotemporal distribution of inclusive wealth data: An illustrated guide. [https://mpra.ub.uni-muenchen.de/85711/](https://mpra.ub.uni-muenchen.de/85711/)
+- Lauerburg, R. A. M., Diekmann, R., Blanz, B., Gee, K., Held, H.,  Kannen, A., ... & Stelzenmüller, V. (2020). Socio-ecological  vulnerability to tipping points: A review of empirical approaches and  their use for marine management. Science of The Total Environment, 705, 135838.  Access via Griffith Library [here](https://www-sciencedirect-com.libraryproxy.griffith.edu.au/science/article/pii/S0048969719358334#f0020)
+- Sprugnoli, R., Tonelli, S. (2019). Novel Event Detection and Classification for Historical Texts. Computational Linguistics, 45(2), 229–265. doi: [https://doi.org/10.1162/coli_a_00347](https://doi.org/10.1162/coli_a_00347)
+- Zajchowski, C. A. B., Brownlee, M. T. J., & Rose, J. (2019). Air quality and the visitor experience in parks and protected areas, Tourism Geographies, 21(4), 613-634. DOI:[10.1080/14616688.2018.1522546](https://doi.org/10.1162/coli_a_00347)
+
+-----
+
+### RAWGraphs Help
+
+RAWGraphs has great online tutorials and videos for all chart types.  For online support and help go to:
+- RAWGraphs's online tutorials: [https://rawgraphs.io/learning](https://rawgraphs.io/learning)
+- RAWGraph's documentation wiki: [https://github.com/rawgraphs/raw/wiki](https://github.com/rawgraphs/raw/wiki)
+
+-----
+
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/7-more.html">NEXT --></a>
