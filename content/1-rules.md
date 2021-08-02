@@ -41,21 +41,6 @@ Then check out the images below to identify which tool can create the chart type
 {% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
 {% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
 
-
-{% capture text %}
-Publisher requirements differ for figures, tables, scanned images, photos and more. 
-
-Read the fine print from ONE of these popular journal publishers:
-- [Wiley](https://authorservices.wiley.com/asset/photos/electronic_artwork_guidelines.pdf)
-- [Springer](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/preparation/1276#c1260)
-- [Elsevier](https://www-elsevier-com.libraryproxy.griffith.edu.au/authors/author-schemas/artwork-and-media-instructions/)
-- [Taylor & Francis](http://journals.taylorandfrancis.com/tfo/UEMP/UEMP-IFA-Figure-Guidelines.pdf)
-- [SAGE](https://au.sagepub.com/en-gb/oce/manuscript-submission-guidelines)
-- [Cambridge University Press](https://www.cambridge.org/core/services/authors/journals/journals-artwork-guide)
-- [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %} 
-{% include card.md header="Activity: Publisher requirements" text=text %}
-
-
 Ready to dive into using MS Excel for publication quality figures?  Click Next. 
 
 -----
