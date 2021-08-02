@@ -59,7 +59,7 @@ Some variables have been aggregated to create categorical data, several variable
 
 The resulting sample dataset has 976 observations and eight variables including an ID,defendant's sex, offence, place of trial, trial judge’s name, verdict, trial year and sentence given.
 
-**Watch this video demonstrating the steps in Activity 1**
+Watch this video demonstrating the steps in Activity 1, or scroll down to see the instructions for each step.
 
 Topics covered:
 - Step 1: upload the dataset to RAWGraphs.io (00:07)
@@ -71,9 +71,7 @@ Topics covered:
 - Step 4: customise the chart (03:38)
 - Step 5: export the chart image file (05:09)
 - Extra steps (5:30)
-
 <iframe src="https://player.vimeo.com/video/560748075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 {% capture text %}
 - Go to Griffith’s Research Data Storage Service [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/W7laRdfRXgp4504)
 - Download `2021_QLD_Supreme_Court_Trials_1850-1899_Subset4.csv`
@@ -166,6 +164,8 @@ Lesson adapted from:
 "How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
 alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/) 
 
+-----
+
 ### Activity 2: time series data visualisation
 
 **About the data**
@@ -176,6 +176,17 @@ You can choose a range of years from BOM data, in this instance one full year ha
 
 In this activity you will visualise the most prevalent maximum daily temperatures across 2019, using the `Contour plot` in RAWGraphs.
 
+Watch this video demonstrating the steps in Activity 2, or scroll down to follow the instructions below.
+
+Topics covered:
+- Step 1: upload the dataset to RAWGraphs.io (0:07)
+- Preview and check the data (00:35)
+- Step 2: select a Contour Plot (00:46)
+- Step 3: map data to the variables  [00:57]
+- Preview the results [01:28]
+- Step 4: customise the chart [01:34]
+- Step 5: export the chart image file [02:50]
+<iframe src="https://player.vimeo.com/video/561605685" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 {% capture text %}
 - Go to Griffith’s Research Data Storage Service link [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/OFbexAoD0u1dIFH) 
 - Download the sample dataset `2019_BOM_Brisbane_MaxTempData_V2.csv`
