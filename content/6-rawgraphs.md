@@ -19,7 +19,7 @@ Features and chart options include:
 - Circular & Cluster Dendograms
 - Contour plots and more...
 
-{% include figure.html img="RawGraphsTypes.png" alt="RawGraphs chart types" caption="RawGraphs chart types" width="100%" %}![image](https://user-images.githubusercontent.com/51395844/127804546-7c56722d-976b-4911-b5bc-008ce8774792.png)
+{% include figure.html img="RawGraphsTypes.png" alt="RawGraphs chart types" caption="RawGraphs chart types" width="100%" %}
 Source: https://app.rawgraphs.io/ 
 
 RAWGraphs is an online tool so don’t use personal, confidential or sensitive data.  However, should you need to visualise sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
@@ -48,7 +48,7 @@ Practice creating visualistions by doing Activities 1 and 2 below.
 
 ### Activity 1: Create an Alluvial diagram
 
-**About the data
+**About the data**
 
 The sample dataset to work with is from Griffith University's Prosecution Project, cited as:
 
@@ -63,7 +63,7 @@ Some variables have been aggregated to create categorical data, several variable
 
 The resulting sample dataset has 976 observations and eight variables including an ID,defendant's sex, offence, place of trial, trial judge’s name, verdict, trial year and sentence given.
 
-**Watch this video demonstrating the steps in Activity 1.
+**Watch this video demonstrating the steps in Activity 1**
 
 Topics covered:
 - Step 1: upload the dataset to RAWGraphs.io (00:07)
@@ -82,26 +82,9 @@ Topics covered:
 {% endcapture %} {% include card.md header="Step 1: upload the data" text=text %}
 
 {% capture text %}
-Use the strategy above to remove the right-hand bracket (")") from the  `Suburb_PostCode`  column.
-- `value.replace(")", "")`{% endcapture %} {% include card.md header="Activity - remove another character" text=text %}
+{% endcapture %} {% include card.md header="Activity - repeat transformation steps by using History" text=text %}
 
-It is easy to re-use GREL expressions, as OpenRefine provides a history of commands. You can select them and reuse as is or make changes. Let's try this with the remainder of the unnecessary characters in the  `Suburb_PostCode`  column. You want only to have a separator left between our two values in each cell.  The comma is the separator in this variable.
 
-{% capture text %}
-- at  `Suburb_PostCode` column, select  `Edit cells > Transform ...`
-- click the  `History`  tab
-- click on the first  `Reuse`  option
-- click inside the expression box, change character  `")",""` to `", ",","`  (i.e. comma & space character to comma no space character)
-- preview to check correctness
-- click  `OK`.{% endcapture %} {% include card.md header="Activity - repeat transformation steps by using History" text=text %}
-
-{% include button.md text="See the steps taken in this video" link="https://vimeo.com/412605118/b259dd9e3c" color="info" %}
-
------
-
-Let's explore the  `Suburb_PostCode`  column to see which postcodes were the most or least prominent traffic crash locations.
-
-### Splitting cells
 
 Splitting multi-valued cells will enable faceting by text. This is also useful for splitting full names in first and last name columns and more.
 
