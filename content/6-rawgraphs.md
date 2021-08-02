@@ -85,70 +85,83 @@ Topics covered:
 
 {% capture text %}
 Alluvial diagrams represent flows to see correlations between categorical dimensions, visually linking to the number of elements sharing the same categories.
-- Click on Alluvial Chart box
+- Click on `Alluvial Chart` box
 {% endcapture %} {% include card.md header="Step 2: select Alluvial chart" text=text %}
 
 {% capture text %}
+The variables are listed in the green boxes.  Firstly create a chart to identify any patterns between Offences, Verdicts and Sentencing.
+- Scroll down to `Map dimensions`
+- Add two variables to the `Steps dimension`, drag and drop in this order
+  - `Offence`
+  - `Verdict`
+- Size dimension isn't used in this tutorial.
 {% endcapture %} {% include card.md header="Step 3: map the variables to the chart" text=text %}
 
------
+{% capture text %}
+The black vertical lines are called bars or nodes and represent the values within the variables.
 
-### Undo and Redo
+The first step is `Offence`, with seven nodes, one for each type of Offence.  The size of the seven nodes (Offence types in this dataset) is proportional to the number of values within the node or in this case, the number of offences heard by type.
 
-It is common while exploring and cleaning a dataset to discover after you've made a change that you really should have done something else first. OpenRefine provides *Undo* and *Redo* operations to make this easy, no matter how far along you have gone.
+The second step is `Verdict`, and it’s composed of five nodes (or value options), representing the different Verdict types.  Again, the size of each node is proportional to the number of rows in the dataset containing that specific value.
+
+The same logic applies to any additional steps.
+- `Scroll` back up to `Mapping dimensions`
+- Drag and drop `Sentence` into the `Steps dimension` box
+- Scroll down to preview to see thirteen nodes, categorising the types of `Sentence` ordered by the judge.
+
+The flows between nodes in the two steps represent the number of lines in the dataset sharing the same couple of values: for example, the largest flow is from the Larceny node in the Offence step and the Guilty node in the Verdict step, and the largest proportion of this group flows to 12-18 months hard labour node.
+
+We can see easily, by the flow of the nodes and the colours, the proportion of offences, the proportion of verdict types and sentence ranges, in a very simple visual for a dataset of almost 1000 observations.
+
+When publishing, the data should accompany the article to verify the visualisation.{% endcapture %} {% include card.md header="Preview the results" text=text %}
 
 {% capture text %}
-- Click where it says  `Undo / Redo`  on the top left side of the screen. All the changes you have made so far are listed here.
-- Click on the previous step, to remove the split in the cell values of  `Suburb_PostCode`  column.
-- Visually confirm that the columns data has been re-joined.
+Customise the visualisation using the up/down arrows to make changes to:
+`Artboard`:
+- `Width`:  1000
+- `All margins`: 30
 
-Go back a step
-- before moving on to the next lesson,  `Undo`  to the step **before** we first used GREL to remove all the extra characters in  `Suburb_PostCode`.
-- Go back to  `Facet/filter tab`.{% endcapture %} {% include card.md header="Activity - Undo" text=text %}
+`Chart`:
+- `Nodes width`: 5
+- `Padding`: 25
+- `Links opacity`: .5
+- `Sort nodes by`: size (descending)
+- `Flows alignment`: Center
 
------
+`Colours`:
+- Click on `colour schemes` to choose one of three default options
+or 
+- click on each of the `variables' colours` to see palettes, then click within the colour palette box to make changes
+or 
+- paste a  `#Hex code` for a colour of your choice such as #fb082f
+- Explore results
 
-### Join up GREL commands
+`Labels`:
+ - Select `Yes` to show values. It looks a bit busy, let’s `turn them off`. You can include more details on the data in a publication text and appendix.
 
-Let's perform the earlier clean up steps and customised text faceting for  `Suburb_PostCode`  column. We can do this more efficiently by joining up the GREL expressions.
-
-{% capture text %}
-- select  `Suburb_PostCode`  column.  All three cleaning steps can be performed by combining  `value.replace`  expressions.
-- select  `Edit cells > Transform ...`
-- in the Expression box, enter  `value.replace("(", "").replace(")", "").replace(", ", ",")`
-- *Preview* the changes
-- click `OK`{% endcapture %} {% include card.md header="Activity - join up GREL commands" text=text %}
-
------
-
-### Split multi value cells into multiple columns (tidy data)
-
-Let's split  `Suburb_PostCode`  data into two columns one for suburb and another for postcode.
+*Note for MAC Users*: Some options are slightly different. If you want to change a specific thing such as axis line thickness, you have to click on it first as there won’t be an option to select which axis you are working on in the formatting pane.{% endcapture %} {% include card.md header="Step 4: Customise results" text=text %}
 
 {% capture text %}
-- select  `Suburb_PostCode`  column
-- select `Edit Column > Split into several columns` ...
-- keep the Separator as a comma, and split the data into two columns
-- leave the *After Splitting* boxes checked
-- Click  `OK`.
+- Name the chart according to a file name convention required by the publisher or your data management protocols.
+- Change the file type according to publisher requirements, `.jpg` will provide the highest quality file from this tool.
+- Select download
 
-The original column has now been replaced with two columns for different values.
+To make further changes to the chart, use a image editor tool such as those demonstrated in [Create a publication quality image](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html) activities. 
+{% endcapture %} {% include card.md header="Step 5. Export" text=text %}
 
-A column named  `Suburb_PostCode 1`  contains the names of suburbs.
+{% capture text %}
+Play further with the variables to explore the dataset.
+- Scroll back to `Step 3: Mapping`
+- Click `x` on the green boxes in `Steps`
+- Drag and drop `Def_sex` (sex of defendant) and `Offence` and explore in `Step 4` to
+- visualise sex differences in the types and proportions of offences.
+- Scroll back to `Step 3: Mapping`
+- Exchange the variables for `Trial Judge` as `Step 1` and `Trial Place` as `Step 2`, to explore which judges worked across different locations in Queensland.
 
-A column named  `Suburb_PostCode 2`  contains postcodes in green characters.  
+Lesson adapted from:
 
-The change in colour denotes that OpenRefine has changed the underlying *format* of the data from *text* to *number*.
-
-Let's edit the column headings to represent the data more accurately.
-
-- go to  `Suburb_PostCode 1`
-- select  `Edit Column > Rename this column`  and enter  `Suburb`  as the new column name
-- repeat the process for  `Suburb_PostCode 2`  to rename the column to  `Postcode` .{% endcapture %} {% include card.md header="Activity - joining up GREL commands" text=text %}
-
-
-{% include button.md text="Watch this video for instructions" link="https://vimeo.com/412605933/d8be2a9d15" color="info" %}
-
+"How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
+alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/)
 
 -----
 
