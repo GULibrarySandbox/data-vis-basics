@@ -12,8 +12,9 @@ nav: true
 {% include figure.html img="2021_Excel-data-visualisation_Student-workbook.jpg " alt="Data visualisation using Excel" caption="Data visualisation using Excel" width="100%" %}
 
 ### Overview
+PivotTables allow you to easily create data subsets.  You can add data in any order, reorder it as you need, merge data fields and rename data fields for a more professional outcome.
 
-Undertake the activities below to create PivotTables and PivotCharts.
+Undertake the activities below to create PivotTables.
 
 {% capture text %}
 - download activity .xls dataset from Griffith University's Research Data Storage [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/7VHsCVyUsAKsTll)
@@ -23,9 +24,9 @@ Undertake the activities below to create PivotTables and PivotCharts.
 
 ### Data collection and use
 
-The activity worksheet contains data about workshop attendances for 2019 and is broken down by Skill Group (column A), Trimester (column B) and across Academic Groups and Special Interest Groups (columns C to H).
+The activity dataset is a spreadsheet that contains data about workshop attendances for 2019 and is broken down by Skill Group (column A), Trimester (column B) and across Academic Groups and Special Interest Groups (columns C to H).
 
-Data is usually collected as a whole dataset, but generally analysed and used in “chunks”, particularly when writing up your findings. 
+Data is usually collected as a whole dataset, but generally analysed and used in “chunks”, particularly when writing up your findings.
 
 Let’s say Section 1 of a document compares and discusses attendance fluctuation in each academic group attendance across trimesters, while Section 2 discusses what type of session content (i.e. skill group) was in demand across the various academic groups.  Each section of the document should contain graphs that represent the data for the specific topic only. 
 
