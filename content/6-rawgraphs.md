@@ -9,7 +9,7 @@ nav: true
 
 RAWGraphs [https://rawgraphs.io/](https://rawgraphs.io/) is an open source (free) online tool to create publication quality visualisations from complex tabular data.  The platform was developed at the [Density Design Research Lab](http://www.densitydesign.org) of the Politecnico di Milano.
 
-The RAWGraphs tool allows users to easily and quickly create data visualisations.  These visualisations can be exported and edited in an image editing tool (such as Adobe Photshop, or open source free tool GIMP), embedded in a webpage or imported into a document.  
+The RAWGraphs tool allows users to easily and quickly create data visualisations.  These visualisations can be exported and edited in an image editing tool, embedded in a webpage or imported into a document.  
 
 Features and chart options include:
 
@@ -22,7 +22,7 @@ Features and chart options include:
 {% include figure.html img="RawGraphsTypes.png" alt="RawGraphs chart types" caption="RawGraphs chart types" width="100%" %}
 Source: [https://app.rawgraphs.io/](https://app.rawgraphs.io/)
 
-RAWGraphs is an online tool so don’t use personal, confidential or sensitive data.  However, should you need to visualise sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
+RAWGraphs is an online tool so don’t upload personal, confidential or sensitive data.  However, if you are working with sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
 
 {% capture alert %}Cite the tool's developers when publishing a visualisation created using Voyant Tools: 
 
@@ -32,10 +32,12 @@ Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). *RAWGraphs: A 
 
 ## How to use RAWGraphs
 
-Watch this video, using RAWGraphs sample data, to learn how to create a Violin Plot.  Then practice creating visualistions by doing Activities 1 and 2 below.
+Watch the video below, to learn how to create a Violin Plot using RAWGraphs sample data.  Then practice creating visualistions by completing Activities 1 and 2 below.
+
+**Violin Plot demonstration video**
 
 Topics covered:
-- Upload a dataset to RAWGraphs.io (00:03)
+- Upload a dataset to RAWGraphs.io [00:03]
 - Preview and check the data  (00:30)
 - Choose the most appropriate chart (01:55)
 - Violin Plot description  (02:17)
