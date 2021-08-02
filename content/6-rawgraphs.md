@@ -5,21 +5,25 @@ nav: true
 
 # RAWGraphs.io
 
-(General Refine Expression Language)
-
 -----
 
-Transformations in OpenRefine enable manipulations of data in columns. These include:
+RAWGraphs [https://rawgraphs.io/](https://rawgraphs.io/) is an open source (free) online tool to create publication quality visualisations from complex tabular data.  The platform was developed at the [Density Design Research Lab](http://www.densitydesign.org) of the Politecnico di Milano.
 
-- Splitting data from a single column into multiple columns (e.g., splitting an address into multiple parts) to enable tidy data – one variable per column.
+The RAWGraphs tool allows users to easily and quickly create data visualisations.  These visualisations can be exported and edited in an image editing tool (such as Adobe Photshop, or open source free tool GIMP), embedded in a webpage or imported into a document.  
 
-- Standardising the format of data in a column without changing the values (e.g., removing punctuation or standardising a date format)
+Features and chart options include:
 
-- Extracting data from a longer text string (e.g., finding DOIs within a bibliographic citation)
+- Scatter Plots
+- Area Graphs
+- Alluvial Diagrams
+- Circular & Cluster Dendograms
+- Contour plots and more...
 
-It can be difficult to read, ingest and process data which has multiple values within the one cell.  OpenRefine has methods to split those values into multiple cells or columns. OpenRefine has several ways to do this. 
+RAWGraphs is an online tool so don’t use personal, confidential or sensitive data.  However, should you need to visualise sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
 
-First we will split data using the in-built programming capabilities of General Refine Expression Language (GREL) within OpenRefine. GREL expressions are a little like Excel formulae, although they tend to focus on text manipulations rather than numeric functions.
+{% capture alert %}Cite the tool's developers when publishing a visualisation created using Voyant Tools: 
+
+Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017).  RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter. New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585 {% endcapture %} {% include alert.md text=alert color="warning" %}
 
 {% capture text %}
 Look at the data in  `Suburb_PostCode`  column.  It has more than one value in each cell. The values include the *suburb name* and a *postcode* inside brackets (). This is difficult to process and analyse and needs splitting to make the data tidy. Before we can split the values into individual columns, we first need to remove the extra characters such as *brackets* and *leading (or trailing) whitespace*.
@@ -142,6 +146,6 @@ Let's edit the column headings to represent the data more accurately.
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/7-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/7-more.html">NEXT --></a>
 </p>
