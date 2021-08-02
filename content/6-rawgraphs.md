@@ -31,7 +31,7 @@ Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). *RAWGraphs: A 
 
 ## How to use RAWGraphs
 
-Watch this video, using RAWGraphs sample data, to learn how to create a Violin Plot.
+Watch this video, using RAWGraphs sample data, to learn how to create a Violin Plot.  Then practice creating visualistions by doing Activities 1 and 2 below.
 
 Topics covered:
 - Upload a dataset to RAWGraphs.io (00:03)
@@ -41,11 +41,7 @@ Topics covered:
 - Map dataset variable to chart dimensions (02:46)
 - Customise the chart (03:23)
 - Export the chart image file (05:28)
-
 <iframe src="https://player.vimeo.com/video/558349816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-Practice creating visualistions by doing Activities 1 and 2 below.
-
 ### Activity 1: Create an Alluvial diagram
 
 **About the data**
@@ -79,28 +75,21 @@ Topics covered:
 <iframe src="https://player.vimeo.com/video/560748075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {% capture text %}
+- Go to Griffith’s Research Data Storage Service [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/W7laRdfRXgp4504)
+- Download `2021_QLD_Supreme_Court_Trials_1850-1899_Subset4.csv`
+- Save file
+- Go to [https://rawgraphs.io/](https://rawgraphs.io/) and click `use it now`.
+- Select `Upload` > `Browse` > go to `Downloads folder` > click on dataset > `Open`
+- It might take a few seconds to upload, with 976 rows parsed.
 {% endcapture %} {% include card.md header="Step 1: upload the data" text=text %}
 
 {% capture text %}
-{% endcapture %} {% include card.md header="Activity - repeat transformation steps by using History" text=text %}
-
-
-
-Splitting multi-valued cells will enable faceting by text. This is also useful for splitting full names in first and last name columns and more.
+Alluvial diagrams represent flows to see correlations between categorical dimensions, visually linking to the number of elements sharing the same categories.
+- Click on Alluvial Chart box
+{% endcapture %} {% include card.md header="Step 2: select Alluvial chart" text=text %}
 
 {% capture text %}
-- Click down arrow at the top of the  `Suburb_PostCode`  column.
-- Choose  `Edit cells > Split multi-valued cells`
-- At the separator Expression box, check that the correct separator, i.e. a comma, is specified.
-- Click  `OK`.
-
-Note that the rows are still numbered sequentially and that there are now 55056 rows, which no longer reflects one row per accident record. These are compound data objects.
-
-- Click the  `Records`  option to change to  `Records`  mode and then go back to  `Rows`.
-
-Note how the numbering changes as you toggle – indicating that several rows are related to the same record. This method is useful for  `JSON`  and  `xml`  files which have compound data objects.
-
-It would be possible to use a text facet to see this data, but this is not the most efficient method.{% endcapture %} {% include card.md header="Activity - splitting cells" text=text %}
+{% endcapture %} {% include card.md header="Step 3: map the variables to the chart" text=text %}
 
 -----
 
