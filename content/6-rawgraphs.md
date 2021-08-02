@@ -187,14 +187,12 @@ In this activity you will visualise the most prevalent maximum daily temperature
 {% capture text %}
 A Contour plot shows the estimated density of point clouds, which is especially useful to avoid overplotting in large datasets.
 - Click on `Contour plot` box
-- Scroll down to `Step 3`
-{% endcapture %} {% include card.md header="Step 2: choose a Contour plot" text=text %}
+- Scroll down to `Step 3`{% endcapture %} {% include card.md header="Step 2: choose a Contour plot" text=text %}
 
 {% capture text %}
 The variables are listed in the green boxes.  Let’s create a chart to show if there are particular dates with a large proportion of maximum temperatures throughout the year 2019.
 - Drag and drop `Date` variable to `X Axis` box
-- Drag and drop `Max Temp` to `Y Axis` box
-{% endcapture %} {% include card.md header="Step 3: Map the variables to the chart" text=text %}
+- Drag and drop `Max Temp` to `Y Axis` box{% endcapture %} {% include card.md header="Step 3: Map the variables to the chart" text=text %}
 
 {% capture text %}
 Make changes to:
@@ -218,16 +216,14 @@ or
 Labels:
 - No need to show labels, but you can play with this to see the difference.
 
-It is now quite easy to see the maximum temperatures which were most prevalent at different times of the year, with some darker clusters in mid-January to early February, and from mid-April to early May.  You can turn off the data points and just see the clusters, however it then doesn’t show the individual temperatures.
-{% endcapture %} {% include card.md header="Step 4: Customise the chart" text=text %}
+It is now quite easy to see the maximum temperatures which were most prevalent at different times of the year, with some darker clusters in mid-January to early February, and from mid-April to early May.  You can turn off the data points and just see the clusters, however it then doesn’t show the individual temperatures.{% endcapture %} {% include card.md header="Step 4: Customise the chart" text=text %}
 
 {% capture text %}
 - Name the chart according to a file name convention required by the publisher or your data management protocols.
 - Change the file type according to publisher requirements, `.jpg` will provide the highest quality file from this tool.
 - Select download
 
-To make further changes to the chart, use a image editor tool such as those demonstrated in [Create a publication quality image](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html) activities. 
-{% endcapture %} {% include card.md header="Step 5. Export" text=text %}
+To make further changes to the chart, use a image editor tool such as those demonstrated in [Create a publication quality image](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html) activities.{% endcapture %} {% include card.md header="Step 5. Export" text=text %}
 
 -----
 
