@@ -28,6 +28,7 @@ RAWGraphs is an online tool so don’t use personal, confidential or sensitive d
 
 Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). *RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter.* New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585 {% endcapture %} {% include alert.md text=alert color="warning" %}
 
+-----
 
 ## How to use RAWGraphs
 
@@ -163,6 +164,9 @@ Lesson adapted from:
 
 "How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
 alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/) 
+<p>
+  
+</p>
 
 -----
 
