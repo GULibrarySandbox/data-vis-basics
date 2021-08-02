@@ -19,32 +19,67 @@ Features and chart options include:
 - Circular & Cluster Dendograms
 - Contour plots and more...
 
+{% include figure.html img="RawGraphsTypes.png" alt="RawGraphs chart types" caption="RawGraphs chart types" width="100%" %}![image](https://user-images.githubusercontent.com/51395844/127804546-7c56722d-976b-4911-b5bc-008ce8774792.png)
+Source: https://app.rawgraphs.io/ 
+
 RAWGraphs is an online tool so don’t use personal, confidential or sensitive data.  However, should you need to visualise sensitive data, you can run an instance of RAWGraphs locally on your machine with [git](http://git-scm.com/book/en/Getting-Started-Installing-Git) and [Bower](http://bower.io/#installing-bower) software.
 
 {% capture alert %}Cite the tool's developers when publishing a visualisation created using Voyant Tools: 
 
-Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017).  RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter. New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585 {% endcapture %} {% include alert.md text=alert color="warning" %}
+Mauri, M., Elli, T., Caviglia, G., Uboldi, G., & Azzi, M. (2017). *RAWGraphs: A Visualisation Platform to Create Open Outputs. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter.* New York, NY, USA: ACM. https://doi.org/10.1145/3125571.3125585 {% endcapture %} {% include alert.md text=alert color="warning" %}
+
+
+## How to use RAWGraphs
+
+Watch this video, using RAWGraphs sample data, to learn how to create a Violin Plot.
+
+Topics covered:
+- Upload a dataset to RAWGraphs.io (00:03)
+- Preview and check the data  (00:30)
+- Choose the most appropriate chart (01:55)
+- Violin Plot description  (02:17)
+- Map dataset variable to chart dimensions (02:46)
+- Customise the chart (03:23)
+- Export the chart image file (05:28)
+
+<iframe src="https://player.vimeo.com/video/558349816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Practice creating visualistions by doing Activities 1 and 2 below.
+
+### Activity 1: Create an Alluvial diagram
+
+**About the data
+
+The sample dataset to work with is from Griffith University's Prosecution Project, cited as:
+
+Finnane, Mark, 2019, "Queensland Supreme Court Trials 1850-1899",
+doi:10.26193/6YOCXO, ADA Dataverse, V1, UNF:6:cB3aNxfy6JBMKg8tHM/W1g==  [https://
+dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data?q=queensland](https://
+dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data?q=queensland)
+
+The original dataset presents 40 years of criminal trials from 1850-1899, their location, type of conviction, sentence, sex and other variables, with over 10,000 observations.
+
+Some variables have been aggregated to create categorical data, several variables and values have been removed and values cleaned for the purposes of training.  This data preparation was undertaken in [OpenRefine](https://openrefine.org/).
+
+The resulting sample dataset has 976 observations and eight variables including an ID,defendant's sex, offence, place of trial, trial judge’s name, verdict, trial year and sentence given.
+
+**Watch this video demonstrating the steps in Activity 1.
+
+Topics covered:
+- Step 1: upload the dataset to RAWGraphs.io (00:07)
+- Preview and check the data  (00:25)
+- Step 2: select an Alluvial diagram (00:38)
+- Step 3: map data to the variables  (00:50)
+- Preview the results (01:25)
+- Add one more variable (02:35)
+- Step 4: customise the chart (03:38)
+- Step 5: export the chart image file (05:09)
+- Extra steps (5:30)
+
+<iframe src="https://player.vimeo.com/video/560748075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {% capture text %}
-Look at the data in  `Suburb_PostCode`  column.  It has more than one value in each cell. The values include the *suburb name* and a *postcode* inside brackets (). This is difficult to process and analyse and needs splitting to make the data tidy. Before we can split the values into individual columns, we first need to remove the extra characters such as *brackets* and *leading (or trailing) whitespace*.
-
-Let's remove all the unnecessary characters by using the GREL command  `value.replace`.
-
-`Value.replace`  is the *command*. What needs to be added to make the *command* work are what are called *arguments* in programming speak. In this case, the arguments are the values of *what needs to be replaced*, and then *what it needs to be replaced with*. The argument is written inside brackets like this  `("value to replace","new value")`.
-
-- Click the down arrow at the top of the  `Suburb_PostCode`  column.
-- Select  `Edit Cells > Transform ...` . 
-
-This will open a window in which you can enter a *GREL expression*. An expression is a combination of the *command* you will be using, plus the *arguments* you will be using to modify the command, i.e. the values that will be changed.
-
-- In the Expression box, type  `value.replace("(", "")`  to remove all left brackets by replacing them with nothing.
-
-In this case, the second value is empty since we want to remove the bracket, i.e. replace the bracket with nothing. You do not need to add any spaces within the expression. If you do, and they appear inside the quote marks, they will be added or removed, depending on within which set of values they appear.
-
-The *Preview* screen will display on the left the cell value as it is before transformation, and on the right, what the value will be after the expression has run. This allows you to correct any errors in writing the expression, e.g., adding spaces where they are not needed, using unmatching quote marks. 
-- Click  `OK`.
-
-The  `Suburb_PostCode`  column should now contain no left brackets.{% endcapture %} {% include card.md header="Activity - transforming data using GREL" text=text %}
+{% endcapture %} {% include card.md header="Step 1: upload the data" text=text %}
 
 {% capture text %}
 Use the strategy above to remove the right-hand bracket (")") from the  `Suburb_PostCode`  column.
