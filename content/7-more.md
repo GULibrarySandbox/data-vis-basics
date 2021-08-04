@@ -39,6 +39,5 @@ Sinclair, S. and Rockwell, G. (2016). *Voyant Tools*. Web.[https://voyant-tools.
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/6-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/8-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/6-rawgraphs.html"><-- BACK</a>
 </p>
