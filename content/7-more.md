@@ -17,8 +17,8 @@ These are our recommendations:
 - **Leximancer** software for concept and network cloud visualisations: available to students and staff [here](https://www.griffith.edu.au/student-computing/available-software)
 
 ##### Want to learn to create visualisation using code? 
-- attend a Griffith eResearch Software Carpentry training for R or Python.  Register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu).
-- find out about eResearch support for coding at a Hacky Hour session [here] (https://www.griffith.edu.au/eresearch-services/hacky-hour)
+- attend **Griffith eResearch** Software Carpentry training for **R** or **Python**.  Register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu).
+- find out about eResearch support for coding at a **Hacky Hour** session [here] (https://www.griffith.edu.au/eresearch-services/hacky-hour)
 - [Contact us](https://intranet.secure.griffith.edu.au/library/forms/help) at Griffith University Library for more support or advice on data visualisation
 
 
@@ -26,14 +26,15 @@ These are our recommendations:
 
 ##### References
 
-RAWGraphs Team. (2020). How to make an alluvial diagram. Web. Accessed: July 14, 2020, from [https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/)
+Holtz, Y. and Healy, C. (n.d.). *from Data to Viz*. Web. [https://www.data-to-viz.com/](https://www.data-to-viz.com/)
 
-Mauri, Michele, et al. (2017). RAWGraphs: a visualisation platform to create open outputs, in Proceedings of the 12th biannual conference on Italian SIGCHI chapter. [https://dl.acm.org/doi/pdf/10.1145/3125571.312558](https://dl.acm.org/doi/pdf/10.1145/3125571.312558)
+Mauri, Michele, et al. (2017). R*AWGraphs: a visualisation platform to create open outputs*, in Proceedings of the 12th biannual conference on Italian SIGCHI chapter. [https://dl.acm.org/doi/pdf/10.1145/3125571.312558](https://dl.acm.org/doi/pdf/10.1145/3125571.312558)
 
-Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for  Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
+RAWGraphs Team. (2020). *How to make an alluvial diagram*. Web. Accessed: July 14, 2020, from [https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/)
 
-Sinclair, S. and Rockwell, G. (2016). Voyant Tools. Web.[https://voyant-tools.org/](https://voyant-tools.org/)
+Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). *Ten Simple Rules for  Better Figures*. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
+Sinclair, S. and Rockwell, G. (2016). *Voyant Tools*. Web.[https://voyant-tools.org/](https://voyant-tools.org/)
 
 -----
 
