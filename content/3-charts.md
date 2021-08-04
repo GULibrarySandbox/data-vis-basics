@@ -198,5 +198,5 @@ OR
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/2-tables.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/5-convert.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html">NEXT --></a>
 </p>
