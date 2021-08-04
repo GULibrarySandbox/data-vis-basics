@@ -182,7 +182,7 @@ alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram
 
 **About the data**
 
-The sample dataset in this tutorial features Brisbane’s daily maximum temperatures in 2019, and is from the Australian Bureau of Meteorology’s (BOM) Climate Data series: [http://www.bom.gov.au/climate/data/](http://www.bom.gov.au/climate/data/).
+The sample dataset in this tutorial features Brisbane’s daily maximum temperatures in 2019, and was prepared suing from the Australian Bureau of Meteorology’s (BOM) Climate Data Online: [http://www.bom.gov.au/climate/data/](http://www.bom.gov.au/climate/data/). © Copyright Commonwealth of Australia 2021, Bureau of Meteorology. Researchers wanting to use BOM data should read access agreement information available at: [http://www.bom.gov.au/climate/data-services/education.shtml](http://www.bom.gov.au/climate/data-services/education.shtml).
 
 You can choose a range of years from BOM data, in this instance one full year has been used. BOM has excellent visualisation tools for use on its website including here which shows the range of daily maximum temperatures quite clearly.
 
@@ -241,7 +241,7 @@ Labels:
 
 It is now quite easy to see the maximum temperatures which were most prevalent at different times of the year, with some darker clusters in mid-January to early February, and from mid-April to early May.  You can turn off the data points and just see the clusters, however it then doesn’t show the individual temperatures.{% endcapture %} {% include card.md header="Step 4: Customise the chart" text=text %}
 
-{% include figure.html img="2019_BOM_BrisMaxTemp_Fig1.jpg" alt="RAWGraphs Alluvial Chart of a Prosecution Project dataset" caption="RAWGraphs Alluvial Chart of a Prosecution Project dataset" width="100%" %}
+{% include figure.html img="2019_BOM_BrisMaxTemp_Fig1.jpg" alt="RAWGraphs Time Series Chart of Maximum temperatures in Brisbane 2019, using BOM data" caption="RAWGraphs Time Series Chart of Maximum temperatures in Brisbane 2019, using BOM data" width="100%" %}
 
 {% capture text %}
 - Name the chart according to a file name convention required by the publisher or your data management protocols.
