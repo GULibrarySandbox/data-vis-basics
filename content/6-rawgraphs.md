@@ -103,7 +103,7 @@ The variables are listed in the green boxes.  Firstly create a chart to identify
 {% capture text %}
 The black vertical lines are called bars or nodes and represent the values within the variables.
 
-The first step is `Offence`, with seven nodes, one for each type of Offence.  The size of the seven nodes (Offence types in this dataset) is proportional to the number of values within the node or in this case, the number of offences heard by type.
+The first step is `Offence`, with seven nodes, one for each type of offence.  The size of the seven nodes (Offence types in this dataset) is proportional to the number of values within the node or in this case, the number of offences heard by type.
 
 The second step is `Verdict`, and it’s composed of five nodes (or value options), representing the different Verdict types.  Again, the size of each node is proportional to the number of rows in the dataset containing that specific value.
 
@@ -112,27 +112,29 @@ The same logic applies to any additional steps.
 - Drag and drop `Sentence` into the `Steps dimension` box
 - Scroll down to preview to see thirteen nodes, categorising the types of `Sentence` ordered by the judge.
 
-The flows between nodes in the two steps represent the number of lines in the dataset sharing the same couple of values: for example, the largest flow is from the Larceny node in the Offence step and the Guilty node in the Verdict step, and the largest proportion of this group flows to 12-18 months hard labour node.
+The flows between nodes in the two steps represent the number of lines in the dataset sharing the same couple of values: for example, the largest flow is from the Larceny node in the Offence step and the Guilty node in the Verdict step, and the largest proportion of this group flows to 12-18 months Hard Labour node.
 
 We can see easily, by the flow of the nodes and the colours, the proportion of offences, the proportion of verdict types and sentence ranges, in a very simple visual for a dataset of almost 1000 observations.
 
 When publishing, the data should accompany the article to verify the visualisation.{% endcapture %} {% include card.md header="Preview the results" text=text %}
 
 {% capture text %}
-Customise the visualisation using the up/down arrows to make changes to:
+Customise the visualisation with colours, labels and the most appropriate size.  
 
-`Artboard`:
+Use the up/down arrows to make changes to:
+
+Artboard:
 - `Width`:  1000
 - `All margins`: 30
 
-`Chart`:
+Chart:
 - `Nodes width`: 5
 - `Padding`: 25
 - `Links opacity`: .5
 - `Sort nodes by`: size (descending)
 - `Flows alignment`: Center
 
-`Colours`:
+Colours:
 - Click on `colour schemes` to choose one of three default options
 or 
 - click on each of the `variables' colours` to see palettes, then click within the colour palette box to make changes
@@ -171,8 +173,12 @@ alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram
 </p>
 
 -----
+<p>
+</p>
 
 ### Activity 2: time series data visualisation
+<p>
+</p>
 
 **About the data**
 
