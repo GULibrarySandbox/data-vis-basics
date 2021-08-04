@@ -32,8 +32,7 @@ Read the fine print from ONE of these popular journal publishers:
 - [PLoS ONE](https://journals.plos.org/plosone/s/figures){% endcapture %} 
 {% include card.md header="Activity: Publisher requirements" text=text %}
 
-<p>
-  
+<p> 
 </p>
   
 ### Image resolution
@@ -45,7 +44,6 @@ Using Cut and Paste from Excel to Word results in a poor-quality image (72-96 pp
 There are some things you can do to improve the quality of images in your document.
 
 <p>
-  
 </p>
 
 ### Image editing software
@@ -60,7 +58,6 @@ Download and install one of these tools to suit your computer's operating system
 - *Preview* (Mac OS) 
 
 <p>
-  
 </p>
 
 
