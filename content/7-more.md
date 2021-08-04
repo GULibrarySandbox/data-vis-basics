@@ -4,45 +4,33 @@ nav: true
 ---
 # References and more
 
-When a table is imported into OpenRefine, all data is formatted as text. We saw earlier how we can sort column values as numbers, but this does not change the data type in a column from text to numbers. Rather, this interprets the values as numbers for the purposes of sorting but keeps the underlying data type as is.
+##### Want to explore further?
 
-We can, however, transform columns to other data types (e.g., number or date) using the  `Edit cells > Common transforms`  feature. Here we will experiment changing columns to numbers and see what additional capabilities that gives us.
+These are our recommendations:
+- University of Michigan easy to read guide on images, resolution, pixels and more [https://guides.lib.umich.edu/allaboutimages](https://guides.lib.umich.edu/allaboutimages)
+- Our world in data Research and data to make progress against the world’s largest problems [https://ourworldindata.org/](https://ourworldindata.org/)
+- Kilgourlab Graphics tutorials: [https://ourworldindata.org/](
+- Gephi network visualisation tool: [http://www.kilgourlab.com/graphics-exercise/](http://www.kilgourlab.com/graphics-exercise/)
+- Find external data to use, analyse and visualise at:  https://libraryguides.griffith.edu.au/finddata 
+- [ebooks](https://griffith-summon-serialssolutions-com.libraryproxy.griffith.edu.au/search?s.q=data+visualisation&search-type=all#!/search?ho=t&fvf=ContentType,Book%20%252F%20eBook,f&rf=PublicationDate,2015-07-14:2020-07-14&l=en-AU&q=data%20visualisation) on data visualisation available via Griffith University Library
+- Good information design for scientific figures presentation from Kelly Krause, Creative Director at Nature journal [https://youtu.be/Lb4uG4rIwPA](https://youtu.be/Lb4uG4rIwPA])
+- Leximancer software for concept and network cloud visualisations: available to students and staff [here](https://www.griffith.edu.au/student-computing/available-software)
 
-Be sure to close any facets you have enabled from the left panel before this step, so that we can be sure we are working on the complete dataset. You can close an existing facet by clicking the  `x`  in the upper left of that facet window.
+##### Want to learn to create visualisation using code? 
+- attend a Griffith eResearch Software Carpentry training for R or Python.  Register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu).
+- find out about eResearch support for coding at a Hacky Hour session [here] (https://www.griffith.edu.au/eresearch-services/hacky-hour)
+- [Contact us](https://intranet.secure.griffith.edu.au/library/forms/help) at Griffith University Library for more support or advice on data visualisation
 
-{% capture text %}
-To transform cells in the  `Crash_Hour`  column to numbers:
+##### References
 
-- Click the down arrow for the  `Crash_Hour` column
+RAWGraphs Team. (2020). How to make an alluvial diagram. Web. Accessed: July 14, 2020, from [https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/)
 
-- Select  `Edit cells > Common transforms ... ` and choose the option  `to number`
+Mauri, Michele, et al. (2017). RAWGraphs: a visualisation platform to create open outputs, in Proceedings of the 12th biannual conference on Italian SIGCHI chapter. [https://dl.acm.org/doi/pdf/10.1145/3125571.312558](https://dl.acm.org/doi/pdf/10.1145/3125571.312558)
 
-The  `Crash_Hour`  values change from left-justified to right-justified, and from black to green in colour.{% endcapture %} {% include card.md header="Activity - tranforming text to numbers" text=text %}
+Rougier, N.P., Droettboom, M., Bourne, P.E. (2014). Ten Simple Rules for  Better Figures. PLOS Computational Biology 10(9): e1003833. [https://doi.org/10.1371/journal.pcbi.1003833](https://doi.org/10.1371/journal.pcbi.1003833)
 
-Other common transformations include changing letter case, data formats and more. Take a look at the other options with `Edit cells>  Common transforms`.
+Sinclair, S. and Rockwell, G. (2016). Voyant Tools. Web.[https://voyant-tools.org/](https://voyant-tools.org/)
 
-#### Numeric facets
-
-Sometimes there are non-numeric values or blanks within a column which may represent errors in data entry. We can find these by using a  `Numeric`  facet.
-
-{% capture text %}
-- Go to the  `Postcode`  column which was transformed to numbers.
-- Edit a few cells, replacing the numbers with text, such as "abc", and make a few other cells blank. Change the `Data type` to `text` before applying.
-- Apply a numeric facet to the column you edited.
-
-Notice that there are several checkboxes in this facet,  `Numeric`,  `Non-numeric`,  `Blank`,  `Error`.
-
-Below these are counts of the number of cells in each category. You should see checks for  `Non-numeric`  and  `Blank`  if you changed or deleted some values.
-
-- experiment with checking or unchecking these boxes to select subsets of your data.
-- when finished exploring, close this facet by clicking the  `x`  in the upper left corner of its panel.
-
-Note that closing a facet will not undo the edits you have made to the cells in this column.
-
-- Use the  `Undo / Redo`  function to reverse these changes.{% endcapture %} {% include card.md header="Activity - numeric facet" text=text %}
-
-
-{% include button.md text="Watch this video to learn the steps" link="https://vimeo.com/412607607/08380e8150" color="info" %}
 
 -----
 
