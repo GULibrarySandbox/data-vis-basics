@@ -38,12 +38,12 @@ Watch the video below, to learn how to create a Violin Plot using RAWGraphs samp
 
 Topics covered:
 - Upload a dataset to RAWGraphs.io [00:03]
-- Preview and check the data  (00:30)
-- Choose the most appropriate chart (01:55)
-- Violin Plot description  (02:17)
-- Map dataset variable to chart dimensions (02:46)
-- Customise the chart (03:23)
-- Export the chart image file (05:28)
+- Preview and check the data  [00:30]
+- Choose the most appropriate chart [01:55]
+- Violin Plot description  [02:17]
+- Map dataset variable to chart dimensions [02:46]
+- Customise the chart [03:23]
+- Export the chart image file [05:28]
 <iframe src="https://player.vimeo.com/video/558349816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ### Activity 1: Create an Alluvial diagram
 
@@ -65,15 +65,15 @@ The resulting sample dataset has 976 observations and eight variables including 
 Watch this video demonstrating the steps in Activity 1, or scroll down to see the instructions for each step.
 
 Topics covered:
-- Step 1: upload the dataset to RAWGraphs.io (00:07)
-- Preview and check the data  (00:25)
-- Step 2: select an Alluvial diagram (00:38)
-- Step 3: map data to the variables  (00:50)
-- Preview the results (01:25)
-- Add one more variable (02:35)
-- Step 4: customise the chart (03:38)
-- Step 5: export the chart image file (05:09)
-- Extra steps (5:30)
+- Step 1: upload the dataset to RAWGraphs.io [00:07]
+- Preview and check the data  [00:25]
+- Step 2: select an Alluvial diagram [00:38]
+- Step 3: map data to the variables  [00:50]
+- Preview the results [01:25]
+- Add one more variable [02:35]
+- Step 4: customise the chart [03:38]
+- Step 5: export the chart image file [05:09]
+- Extra steps [5:30]
 <iframe src="https://player.vimeo.com/video/560748075" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 {% capture text %}
 - Go to Griffith’s Research Data Storage Service [here](https://research-storage.griffith.edu.au/owncloud/index.php/s/W7laRdfRXgp4504)
@@ -97,6 +97,8 @@ The variables are listed in the green boxes.  Firstly create a chart to identify
   - `Verdict`
 - Size dimension isn't used in this tutorial.
 {% endcapture %} {% include card.md header="Step 3: map the variables to the chart" text=text %}
+
+{% include figure.html img="2021_Offences_Fig_V1.jpg" alt="RAWGraphs Alluvial Chart of a Prosecution Project dataset" caption="RAWGraphs Alluvial Chart of a Prosecution Project dataset" width="100%" %}
 
 {% capture text %}
 The black vertical lines are called bars or nodes and represent the values within the variables.
@@ -160,8 +162,6 @@ Play further with the variables to explore the dataset.
 - Scroll back to `Step 3: Mapping`
 - Exchange the variables for `Trial Judge` as `Step 1` and `Trial Place` as `Step 2`, to explore which judges worked across different locations in Queensland.{% endcapture %} {% include card.md header="Extra" text=text %}
 
-{% include figure.html img="2021_Offences_Fig_V1.jpg" alt="RAWGraphs Alluvial Chart of a Prosecution Project dataset" caption="RAWGraphs Alluvial Chart of a Prosecution Project dataset" width="100%" %}
-
 Lesson adapted from:
 
 "How to make an alluvial diagram", by RAWGraphs Team. Licensed under CC BY-NC-SA4.0. Accessed: February 12, 2020, from [https://rawgraphs.io/learning/how-to-make-an-
@@ -185,9 +185,9 @@ In this activity you will visualise the most prevalent maximum daily temperature
 Watch this video demonstrating the steps in Activity 2, or scroll down to follow the instructions below.
 
 Topics covered:
-- Step 1: upload the dataset to RAWGraphs.io (0:07)
-- Preview and check the data (00:35)
-- Step 2: select a Contour Plot (00:46)
+- Step 1: upload the dataset to RAWGraphs.io [0:07]
+- Preview and check the data [00:35]
+- Step 2: select a Contour Plot [00:46]
 - Step 3: map data to the variables  [00:57]
 - Preview the results [01:28]
 - Step 4: customise the chart [01:34]
