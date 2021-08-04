@@ -44,6 +44,7 @@ In addition, manuscripts or journals require images with high resolution, nomina
 Using Cut and Paste from Excel to Word results in a poor-quality image (72-96 ppi), often with bad pixellation particularly when resizing the image.
 
 There are some things you can do to improve the quality of images in your document.
+
 <p>
   
 </p>
@@ -63,6 +64,7 @@ Download and install one of these tools to suit your computer's operating system
 - *GNU Image Manipulation Program (GIMP)* [https://www.gimp.org/](https://www.gimp.org/) : open source (free) (GNU/Linux, OS X, Windows and other operating systems)
 - *PhotoPad* [https://www.nchsoftware.com/photoeditor/](https://www.nchsoftware.com/photoeditor/) : free for non commercial users (Windows)
 - *Preview* (Mac OS) 
+
 <p>
   
 </p>
