@@ -41,7 +41,9 @@ Then check out the images below to identify which tool can create the chart type
 {% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
 {% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
 
-Ready to dive into using MS Excel for publication quality figures?  Click Next. 
+The Data to Viz team also provide a collection of really useful tips and caveats for using charts [here](https://www.data-to-viz.com/caveats.html).
+
+Ready to dive into using MS Excel for publication quality figures?  Click on Next below. 
 
 -----
 
