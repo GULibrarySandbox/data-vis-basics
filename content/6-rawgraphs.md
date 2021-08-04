@@ -182,7 +182,7 @@ alluvial-diagram/](https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram
 
 **About the data**
 
-The sample dataset in this tutorial features Brisbane’s daily maximum temperatures in 2019, and was prepared suing from the Australian Bureau of Meteorology’s (BOM) Climate Data Online: [http://www.bom.gov.au/climate/data/](http://www.bom.gov.au/climate/data/). © Copyright Commonwealth of Australia 2021, Bureau of Meteorology. Researchers wanting to use BOM data should read access agreement information available at: [http://www.bom.gov.au/climate/data-services/education.shtml](http://www.bom.gov.au/climate/data-services/education.shtml).
+The sample dataset in this tutorial features Brisbane’s daily maximum temperatures in 2019, and was prepared using from the Australian Bureau of Meteorology’s (BOM) Climate Data Online: [http://www.bom.gov.au/climate/data/](http://www.bom.gov.au/climate/data/). © Copyright Commonwealth of Australia 2021, Bureau of Meteorology. Researchers wanting to use BOM data should read access agreement information available at: [http://www.bom.gov.au/climate/data-services/education.shtml](http://www.bom.gov.au/climate/data-services/education.shtml).
 
 You can choose a range of years from BOM data, in this instance one full year has been used. BOM has excellent visualisation tools for use on its website including here which shows the range of daily maximum temperatures quite clearly.
 
