@@ -11,7 +11,7 @@ These are our recommendations:
 - [Our world in data](https://ourworldindata.org/) research and data to make progress against the world’s largest problems 
 - [Kilgourlab](http://www.kilgourlab.com/graphics-exercise/) graphics tutorial on making publication quality scientific graphics
 - [Gephi](https://gephi.org/) open source (free) network visualisation tool
-- [Find external data](https://libraryguides.griffith.edu.au/finddata) to use, analyse and visualise via Griffith University's guide.
+- [Find external data](https://libraryguides.griffith.edu.au/finddata) to use, analyse and visualise via Griffith University's guide
 - [ebooks](https://griffith-summon-serialssolutions-com.libraryproxy.griffith.edu.au/search?s.q=data+visualisation&search-type=all#!/search?ho=t&fvf=ContentType,Book%20%252F%20eBook,f&rf=PublicationDate,2015-07-14:2020-07-14&l=en-AU&q=data%20visualisation) on data visualisation available via Griffith University Library
 - [Good information design for scientific figures](https://youtu.be/Lb4uG4rIwPA]) presentation from Kelly Krause, Creative Director at Nature journal 
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) software for concept and network cloud visualisations
