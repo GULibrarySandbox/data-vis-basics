@@ -10,12 +10,12 @@ These are our recommendations:
 - [University of Michigan](https://guides.lib.umich.edu/allaboutimages) easy to read guide on images, resolution, pixels and more
 - [Our world in data](https://ourworldindata.org/)research and data to make progress against the world’s largest problems 
 - [Kilgourlab](http://www.kilgourlab.com/graphics-exercise/) Graphics tutorial on making publication quality scientific graphics
-- [Gephi](https://gephi.org/) open source (free) network visualisation tool: [https://gephi.org/]
+- [Gephi](https://gephi.org/) open source (free) network visualisation tool
 - [Find external data](https://libraryguides.griffith.edu.au/finddata)to use, analyse and visualise via Griffith University's guide.
 - [ebooks](https://griffith-summon-serialssolutions-com.libraryproxy.griffith.edu.au/search?s.q=data+visualisation&search-type=all#!/search?ho=t&fvf=ContentType,Book%20%252F%20eBook,f&rf=PublicationDate,2015-07-14:2020-07-14&l=en-AU&q=data%20visualisation) on data visualisation available via Griffith University Library
-- [Good information design for scientific figures](https://youtu.be/Lb4uG4rIwPA]) presentation from Kelly Krause, Creative Director at Nature journal [https://youtu.be/Lb4uG4rIwPA](https://youtu.be/Lb4uG4rIwPA])
+- [Good information design for scientific figures](https://youtu.be/Lb4uG4rIwPA]) presentation from Kelly Krause, Creative Director at Nature journal 
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) software for concept and network cloud visualisations: available to students and staff
-- 
+
 ##### Want to learn to create visualisation using code? 
 
 - attend `Griffith eResearch Software Carpentry training` for `R` or `Python`.  Register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu).
