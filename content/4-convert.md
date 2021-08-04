@@ -9,13 +9,13 @@ nav: true
 
 ### Image formats
 
-Some publishers require that you submit images from a select range of formats only. 
+Some publishers require that you submit images from a selected and limited range of formats. 
 
 For example, instructions from Wiley include to use standard image formats: 
 
 `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
 
-In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Vector` format wherever possible as Vector images are more flexible and resizable without loss. 
+In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as MSWord doesn't recognise `*.eps` and and Photoshop doesn't recognised `*.wmf`. 
 
 Make sure to refer to the journal’s style guide for preferred formats.
 
@@ -33,7 +33,9 @@ Read the fine print from ONE of these popular journal publishers:
 {% include card.md header="Activity: Publisher requirements" text=text %}
 
 -----
-
+<p>
+</p>
+  
 ### Image resolution
 
 In addition, manuscripts or journals require images with high resolution, nominally `300 ppi` (pixels per inch).
@@ -41,8 +43,12 @@ In addition, manuscripts or journals require images with high resolution, nomina
 Using Cut and Paste from Excel to Word results in a poor-quality image (72-96 ppi), often with bad pixellation particularly when resizing the image.
 
 There are some things you can do to improve the quality of images in your document.
+<p>
+</p>
 
 -----
+<p>
+</p>
 
 ### Image editing software
 
@@ -54,6 +60,9 @@ Download and install one of these tools to suit your computer's operating system
 - *GNU Image Manipulation Program (GIMP)* [https://www.gimp.org/](https://www.gimp.org/) : open source (free) (GNU/Linux, OS X, Windows and other operating systems)
 - *PhotoPad* [https://www.nchsoftware.com/photoeditor/](https://www.nchsoftware.com/photoeditor/) : free for non commercial users (Windows)
 - *Preview* (Mac OS) 
+<p>
+</p>
+
 
 {% capture text %}
 - Click the `Start` button on your computer.
