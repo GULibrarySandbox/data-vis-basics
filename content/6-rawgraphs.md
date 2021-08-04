@@ -241,6 +241,8 @@ Labels:
 
 It is now quite easy to see the maximum temperatures which were most prevalent at different times of the year, with some darker clusters in mid-January to early February, and from mid-April to early May.  You can turn off the data points and just see the clusters, however it then doesn’t show the individual temperatures.{% endcapture %} {% include card.md header="Step 4: Customise the chart" text=text %}
 
+{% include figure.html img="2019_BOM_BrisMaxTemp_Fig1.jpg" alt="RAWGraphs Alluvial Chart of a Prosecution Project dataset" caption="RAWGraphs Alluvial Chart of a Prosecution Project dataset" width="100%" %}
+
 {% capture text %}
 - Name the chart according to a file name convention required by the publisher or your data management protocols.
 - Change the file type according to publisher requirements, `.jpg` will provide the highest quality file from this tool.
