@@ -6,10 +6,6 @@ nav: true
 ---
 vimedoID:c2e3a52115
 ---
-{% capture text %}
-{% endcapture %}
-{% include card.md header="Publisher requirements" text=text %}
-
 
 {% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}  
 
@@ -33,10 +29,10 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 - Summary: a tool that provides a simple, textual overview of the current corpus
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
 
-{% include figure.html img="voyant_tools_list.jpg" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
+{% include figure.html img="VoyantTools.png" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
  
 
-{% capture alert %}Note: Cite the tool's developers when publishing a visualisation created using Voyant Tools:
+{% capture alert %}Cite the tool's developers when publishing a visualisation created using Voyant Tools:
 `Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org`
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
