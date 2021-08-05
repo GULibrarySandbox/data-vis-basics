@@ -107,9 +107,9 @@ The standard visualisations show the following in separate windows:
 {% capture text %}
 In this set of activities we will use URLs of six articles from [The Conversation](https://theconversation.com/au) series [Decoding the music masterpieces](https://theconversation.com/au/topics/decoding-the-music-masterpieces-37147), to explore the tools and change the visualisations. 
 
-Part 1 - Step 1 
+Step 1 
 
-- `copy` and `paste` each of The Conversation URL's below:
+- `copy` and `paste` each of The Conversation URLs below:
   - https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
   - https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
   - https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
@@ -117,21 +117,27 @@ Part 1 - Step 1
   - https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
   - https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
 
-
-In the lesson we uploaded URLs, PDFS and text to the tool, now try adding both text and a URL to the 'Add Texts' box
-does the tool read both elements? 
 Step 2
 
-Upload saved PDFs -  using the upload tab, upload multiple PDF documents 
-notice how the reader separates the individual articles in the reader by colour
-in document, click on a term, notice how the trends map and contexts box change
-find your key themes in the text and to track how these terms are used in the text and the contexts. 
+Let's change the visualisation of *The Conversation* articles' dataset.
+- Hover over the toolbar at the top of the Cirrus window and click on the small windows icon.
+- Select `corpus tools`
+- Select `MicroSearch` from the dropdown menu
+{% include figure.html img="VoyantConversationToolSelect.png" alt="Choose a different tool in Voyant" caption="Choose a different tool in Voyant" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
+- In the box below the window, type `piano` and hit return
 
-Part  2
+Results will show where the term piano is located across the text of each document. Each red dot is a use of the term piano.  You can play with this by removing the term piano and adding another term.
+{% include figure.html img="VoyantConversationMicroSearch.png" alt="Stream Graph example" caption="Stream Graph example" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
+- Hover over the toolbar again and click on the small windows icon
+- Select`Visualisation tools`
+- Select `Links` from the dropdown menu
 
-with your data set, change the visualisation; using the corpus tools menu change the visualisation to 'Steam graph'
-now export this using the export visualisation function, export the graph as an SNG, copy the visualisation and paste the image into a word doc
-finally, again using the export function, export the bibliographic reference.{% endcapture %}{% include card.md header="Activity: Need to change this...." text=text %}
+The results will show a `Collocates Graph` representing keywords and terms that occur in close proximity as a force directed network graph. Find out more about the Collocates Graph in Voyant's terrific guide [here](https://voyant-tools.org/docs/#!/guide/collocatesgraph).
+
+- Export this graph using the export visualisation function
+- export the graph as an SNG
+- copy the visualisation and paste the image into a word doc
+- again using the export function, export the bibliographic reference  NEED TO ADD THE STEPS.{% endcapture %}{% include card.md header="Activity: Explore a series of articles from The Conversation" text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
 
