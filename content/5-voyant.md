@@ -88,6 +88,8 @@ The interactive reader in the centre of the screen shows the original source mat
 
 {% include figure.html img="VoyantChangeTools.png" alt="How to change the analysis tool in Voyant" caption="How to change the analysis tool in Voyant" width="100%" %}  
 {% capture text %}
+{% include figure.html img="VoyantExportButton.png" alt="Export button" caption="Voyant's export button" width="100%" %}
+
 - Hover the mouse along the top bar of the section you wish to export, you will see three icons in the image appear 
 - Select the first icon, the square with the arrow, this will open a pop up window
 - the first option will give you the options to export HTML code, a bibliographic reference and a notebook;  the second option will give you a visualisation
