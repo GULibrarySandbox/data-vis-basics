@@ -127,7 +127,7 @@ Let's change the visualisation of *The Conversation* articles' dataset.
 - In the box below the window, type `piano` and hit return
 
 Results will show where the term piano is located across the text of each document. Each red dot is a use of the term piano.  You can play with this by removing the term piano and adding another term.
-{% include figure.html img="VoyantConversationMicroSearch.png" alt="Stream Graph example" caption="Stream Graph example" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
+{% include figure.html img="VoyantConversationMicroSearch.png" alt="Micro Search example" caption="Micro Search example" width="100%" %}
 - Hover over the toolbar again and click on the small windows icon
 - Select`Visualisation tools`
 - Select `Links` from the dropdown menu
@@ -137,7 +137,8 @@ The results will show a `Collocates Graph` representing keywords and terms that 
 - Export this graph using the export visualisation function
 - export the graph as an SNG
 - copy the visualisation and paste the image into a word doc
-- again using the export function, export the bibliographic reference  NEED TO ADD THE STEPS.{% endcapture %}{% include card.md header="Activity: Explore a series of articles from The Conversation" text=text %}
+- again using the export function, export the bibliographic reference 
+-  NEED TO ADD THE STEPS.{% endcapture %}{% include card.md header="Activity: Explore a series of articles from The Conversation" text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
 
