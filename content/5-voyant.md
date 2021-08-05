@@ -34,9 +34,9 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 
 ## How to use voyant tools
 
-Paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
+Paste the URLs or text you wish to analyse into the text box. You can also upload PDF, MS Word, .txt and other text files using the upload button. You can even analyse text from spreadsheets .xls, .csv, or JSON or XML files.
 
-Watch the following videos on the different methods to upload content.
+Watch the following videos on the different methods to upload content. Then choose a method in the activity below to upload some text.
 
 This video shows how to upload mulitple URLS to Voyant. 
 <iframe src="https://player.vimeo.com/video/563468503" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -45,42 +45,26 @@ This video shows how to copy and paste text into Voyant.
 <iframe src="https://player.vimeo.com/video/563467758" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {% capture text %}
-## Activity: upload and export data
+To upload text:
+- `copy` text from a document you wish to analyse
+- `paste` the text into the `Add Texts` window
+- click on `reveal`
 
-Step one: upload data
+To upload entire webpages:
+- `copy` a URL or the multiple URLs you wish to analyse, add as many as required
+- `paste` the URL/s into the `Add Texts` window
+- click on `reveal`
+
+To upload files from your computer:
+- click on the `upload` button,  your files window will open
+- Select file or files to anlayse 
+- Click `open`
+This will automatically open your selected files in Voyant.
+
+Note what happens if you chose mulitple file types?{% endcapture %}{% include card.md header="Activity: uploading different text formats" text=text %}
 
 Watch the Video, this will show you how to use Voyant tools, export your visualisation and cite your work
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
-
-
-
-please take on the following activities to help you get familiar with the voyant tool
-
-activity one - uploading different text types
-text analysis - as per video 2
-copy text from a document you wish to analyse
-paste the text into the 'Add Texts' window
-click on reveal.
-
-To analyse URLs:
-copy a URL or the multiple URLs you wish to analyse. 
-
-Paste the URL/s into the 'Add Texts' window. To add multiple URLs press enter for a new line. you can add in as many as required. 
-click on reveal.
-
-
-Activity  - Upload files from your computer
-To upload files:
-click on the upload button,  your files window will open
-Select file or files to anlayse 
-Click open
-this will automatically open your selected files in Voyant.
-note what happens if you chose mulitple file types? 
-
-upon completion you will be familiar with the different means to access Voyant analysis
-
-{% endcapture %}
-{% include card.md header="activities" text=text %}
 
 
 ## Analyse the Visualisations
