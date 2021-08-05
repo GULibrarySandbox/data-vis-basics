@@ -123,7 +123,7 @@ Let's change the visualisation of *The Conversation* articles' dataset.
 - Hover over the toolbar at the top of the Cirrus window and click on the small windows icon.
 - Select `corpus tools`
 - Select `MicroSearch` from the dropdown menu
-{% include figure.html img="VoyantConversationToolSelect.png" alt="Choose a different tool in Voyant" caption="Choose a different tool in Voyant" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
+{% include figure.html img="VoyantConversationToolSelect.png" alt="Choose a different tool in Voyant" caption="Choose a different tool in Voyant" width="100%" %}
 - In the box below the window, type `piano` and hit return
 
 Results will show where the term piano is located across the text of each document. Each red dot is a use of the term piano.  You can play with this by removing the term piano and adding another term.
