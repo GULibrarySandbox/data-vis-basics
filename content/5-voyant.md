@@ -124,7 +124,7 @@ Part  2
 
 with your data set, change the visualisation; using the corpus tools menu change the visualisation to 'Steam graph'
 now export this using the export visualisation function, export the graph as an SNG, copy the visualisation and paste the image into a word doc
-finally, again using the export function, export the bibliographic reference.{% endcapture %}{% include card.md header="Activity: Export and Cite your data" text=text %}
+finally, again using the export function, export the bibliographic reference.{% endcapture %}{% include card.md header="Activity: Need to change this...." text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
 
