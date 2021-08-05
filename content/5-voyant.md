@@ -7,7 +7,7 @@ nav: true
 
 -----
 
-[voyant-tools.org](voyant-tools.org) is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert mulitple URLs or copy and paste text into the search box. 
+[voyant-tools.org](voyant-tools.org) is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert mulitple URLs or copy and paste text into the search box. After analysis work, image files of visualisatios can be exported for further use.
 
 Voyant Tools is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.   It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.
 
@@ -96,13 +96,15 @@ The standard visualisations show the following in separate windows:
 - to copy a reference click the bibliographic reference button then click export
 - there are three reference options available, copy the style you need. 
 {% include figure.html img="VoyantExportReference.png" alt="Export Voyant reference" caption="Export a reference to Voyant" width="100%" %}
--  the second option will give you a visualisation
-{% include figure.html img="VoyantExportPNG.png" alt="Export an image from Voyant" caption="Export an image Voyant" width="100%" %}
-- select what you need and click export.{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
+- Select the second option for an image file
+{% include figure.html img="VoyantExportVis.png" alt="Select Export Visualisation" caption="Select Export Visualisation" width="100%" %}
+- Choose the `file type`, then click `export`, and `right click` on the `Thumbnail image`
+- Select `Save image as...`
+- name the image file
+- `Save`
+{% include figure.html img="VoyantExportPNG.png" alt="Export an image from Voyant" caption="Export an image Voyant" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
 
 {% capture text %}
-The key feature of Voyant is to be able to quickly create visual data, and then the capacity to choose your own visualisation and export the image for further use. 
-
 In this set of activities we will look at the different types of resources to upload and how to change the visualisations. 
 
 Part 1 - Step 1 
@@ -125,15 +127,15 @@ now export this using the export visualisation function, export the graph as an 
 finally, again using the export function, export the bibliographic reference.{% endcapture %}{% include card.md header="Activity: Export and Cite your data" text=text %}
 
 ## Voyant in practice- Articles citing Voyant Tools
-To see how reserachers are using Voyant in their studies take a look at the following articles;
 
-- Stephanie Posthumus & Stéfan Sinclair(2014) Reading environment(s): digital humanities meets eco-criticism, Green Letters,18:3,254-273,DOI: 10.1080/14688417.2014.966737  (access via Griffith Library here)
-- Rambsy, K. (2016). Text-Mining Short Fiction by Zora Neale Hurston and Richard Wright using Voyant Tools. CLA Journal, 59(3), 251-258. Retrieved June 16, 2020, from www.jstor.org/stable/44325917 (access via Griffith Library here)
+To see how reserachers are using Voyant in their studies take a look at the following articles:
 
+- Posthumus, S. & Sinclair, S.(2014). Reading environment(s): digital humanities meets eco-criticism, *Green Letters*,18(3),254-273. [https://doi.org/10.1080/14688417.2014.966737](https://doi.org/10.1080/14688417.2014.966737)
+- Rambsy, K. (2016). Text-Mining Short Fiction by Zora Neale Hurston and Richard Wright using Voyant Tools. *CLA Journal*, 59(3), 251-258. [www.jstor.org/stable/44325917](www.jstor.org/stable/44325917)
+
+-----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/data-vis-basics/content/6-rawgraphs.html">NEXT --></a>
 </p>
-  
-  
