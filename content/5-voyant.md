@@ -3,31 +3,24 @@ title: Voyant
 nav: true
 ---
 
----
-vimedoID:c2e3a52115
----
-
-{% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}  
-
 # Voyant Tools
 
 -----
 
-## voyant-tools.org
+[voyant-tools.org](voyant-tools.org) is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert mulitple URLs or copy and paste text into the search box. 
 
-Voyant is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert  mulitple URLs or copy and paste text into the search box. 
-
-Voyant Tools is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.   It is a scholarly project that is designed to facilitate reading and   interpretive practices for digital humanities students and scholars as well as for the general public.
+Voyant Tools is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.   It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.
 
 Do not use personal, confidential or sensitive data in Voyant Tools.
 
-## Features and tools include:
+## Features include:
 
 - Cirrus: a word cloud showing the most frequent terms
 - Reader: an efficient corpus reader that fetches segments of text as you scroll
 - Trends: a distribution graph showing terms across the corpus (or terms within a document)
 - Summary: a tool that provides a simple, textual overview of the current corpus
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
+- and [more](https://voyant-tools.org/docs/#!/guide/tools)...
 
 {% include figure.html img="VoyantTools.png" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
  
@@ -41,16 +34,15 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
 
 ## How to use voyant tools
 
-To use Voyant Tools, paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
-Watch the following videos: 
+Paste the URLs or text you wish to analyse into the text box. You can also upload files using the upload button. 
 
-this video shows how to upload mulitple URLS to Voyant 
-<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563468503' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+Watch the following videos on the different methods to upload content.
 
+This video shows how to upload mulitple URLS to Voyant. 
+<iframe src="https://player.vimeo.com/video/563468503" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-This video shows the upload of basic text into voyant
-<div class='embed-container'><iframe width="854" height="480" src='https://player.vimeo.com/video/563467758' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
+This video shows how to copy and paste text into Voyant.
+<iframe src="https://player.vimeo.com/video/563467758" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 {% capture text %}
 ## Activity: upload and export data
