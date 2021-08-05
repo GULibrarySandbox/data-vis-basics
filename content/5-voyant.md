@@ -105,11 +105,18 @@ The standard visualisations show the following in separate windows:
 {% include figure.html img="VoyantExportPNG.png" alt="Export an image from Voyant" caption="Export an image Voyant" width="100%" %}{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
 
 {% capture text %}
-In this set of activities we will look at the different types of resources to upload and how to change the visualisations. 
+In this set of activities we will use URLs of six articles from [The Conversation](https://theconversation.com/au) series [Decoding the music masterpieces](https://theconversation.com/au/topics/decoding-the-music-masterpieces-37147), to explore the tools and change the visualisations. 
 
 Part 1 - Step 1 
 
-- Upload a variety of documents to Voyant
+- `copy` and `paste` each of The Conversation URL's below:
+  - https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
+  - https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
+  - https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
+  - https://theconversation.com/decoding-the-music-masterpieces-schuberts-winterreise-81553
+  - https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
+  - https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
+
 
 In the lesson we uploaded URLs, PDFS and text to the tool, now try adding both text and a URL to the 'Add Texts' box
 does the tool read both elements? 
