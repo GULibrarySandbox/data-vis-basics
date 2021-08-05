@@ -13,15 +13,6 @@ Voyant Tools is an open-source project and the code is available through GitHub.
 
 Do not use personal, confidential or sensitive data in Voyant Tools.
 
-## Features include:
-
-- Cirrus: a word cloud showing the most frequent terms
-- Reader: an efficient corpus reader that fetches segments of text as you scroll
-- Trends: a distribution graph showing terms across the corpus (or terms within a document)
-- Summary: a tool that provides a simple, textual overview of the current corpus
-- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context
-- and [more](https://voyant-tools.org/docs/#!/guide/tools)...
-
 {% include figure.html img="VoyantTools.png" alt="Voyant tools list" caption="Voyant tools" width="100%" %}  
  
 
@@ -77,9 +68,13 @@ Watch the Video, this will show you how to use Voyant tools, export your visuali
 
 Once uploaded the text is shown in an analysis and visualisation screen. 
 
-The standard visualisations will show basic Cirrus clouds in the left-hand window and document terms count in the right-hand window. 
+The standard visualisations show the following in separate windows:
+- Cirrus: a word cloud showing the most frequent terms in the corpus (top left window)
+- Reader: a corpus reader that fetches segments of text as you scroll (center window)
+- Trends: a distribution graph showing terms across the corpus (or terms within a document) (top right window)
+- Summary: a tool that provides a simple, textual overview of the current corpus (bottom left window)
+- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context (bottom right window)
 
-The interactive reader in the centre of the screen shows the original source materials with individual terms in different colours.
 {% capture text %}
 - To explore individual terms, click on a term in the reader and see counts and usage of the term in the Contexts box.  
 - The summary box displays the number of documents being examined, the total word count, unique words, vocab density, average words per sentence and a list of most frequent words in the corpus.{% endcapture %}{% include card.md header="Activity - Explore the text" text=text %}
