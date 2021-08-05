@@ -17,6 +17,7 @@ Do not use personal, confidential or sensitive data in Voyant Tools.
  
 
 {% capture alert %}Cite the tool's developers when publishing a visualisation created using Voyant Tools:
+
 `Sinclair, S. & Rockwell, G. (2016). Voyant Tools. Web. http://voyant-tools.org`
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
@@ -72,7 +73,7 @@ The standard visualisations show the following in separate windows:
 - Cirrus: a word cloud showing the most frequent terms in the corpus (top left window)
 - Reader: a corpus reader that fetches segments of text as you scroll (center window)
 - Trends: a distribution graph showing terms across the corpus (or terms within a document) (top right window)
-- Summary: a tool that provides a simple, textual overview of the current corpus (bottom left window)
+- Summary: a tool that provides a simple, quantitative summary of the corpus (bottom left window)
 - Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context (bottom right window)
 
 {% capture text %}
