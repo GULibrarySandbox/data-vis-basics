@@ -81,26 +81,24 @@ The standard visualisations show the following in separate windows:
 - The summary box displays the number of documents being examined, the total word count, unique words, vocab density, average words per sentence and a list of most frequent words in the corpus.{% endcapture %}{% include card.md header="Activity - Explore the text" text=text %}
 
 {% capture text %}
+{% include figure.html img="VoyantChangeTools.png" alt="How to change the analysis tool in Voyant" caption="How to change the analysis tool in Voyant" width="100%" %}
 - Hover the mouse over the top of the analysis window section you wish to change  
 - click on the `window` button
 - Scroll down the menu to choose the visualisation you need, there are two parts to this, a tools menu and visualisation type
 - Click your desired option to select your visualisation{% endcapture %}{% include card.md header="Activity - Change the visualisation" text=text %}
 
-{% include figure.html img="VoyantChangeTools.png" alt="How to change the analysis tool in Voyant" caption="How to change the analysis tool in Voyant" width="100%" %}  
 {% capture text %}
 {% include figure.html img="VoyantExportButton.png" alt="Export button" caption="Voyant's export button" width="100%" %}
-
 - Hover the mouse along the top bar of the section you wish to export, you will see three icons in the image appear 
 - Select the first icon, the square with the arrow, this will open a pop up window
-- the first option will give you the options to export HTML code, a bibliographic reference and a notebook;  the second option will give you a visualisation
+{% include figure.html img="VoyantExportPopUp.png" alt="Export button" caption="Voyant's export options" width="100%" %}
+- the first option will give you the options to export HTML code, a bibliographic reference and a notebook
+- to copy a reference click the bibliographic reference button then click export
+- there are three reference options available, copy the style you need. 
+{% include figure.html img="VoyantExportReference.png" alt="Export Voyant reference" caption="Export a reference to Voyant" width="100%" %}
+-  the second option will give you a visualisation
+{% include figure.html img="VoyantExportPNG.png" alt="Export an image from Voyant" caption="Export an image Voyant" width="100%" %}
 - select what you need and click export.{% endcapture %}{% include card.md header="Activity - Export your findings" text=text %}
-
-## Cite your findings
-to cite Voyant visualisations, hover the mouse along the top bar of the section you wish to export, you will see three icons appear 
-select the first icon , it is a little square with an arrow , this will open a pop up menu
-the first option here will give you the options for HTML code, a bibliographic reference and a notebook
-click the bibliographic reference button then click export
-there are three reference options available, copy the style you need. 
 
 {% capture text %}
 The key feature of Voyant is to be able to quickly create visual data, and then the capacity to choose your own visualisation and export the image for further use. 
