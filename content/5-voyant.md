@@ -66,6 +66,10 @@ Note what happens if you chose mulitple file types?{% endcapture %}{% include ca
 Watch the Video, this will show you how to use Voyant tools, export your visualisation and cite your work
 <iframe width="560" height="315" src="https://player.vimeo.com/video/563076024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="voyant_URL_upload_tailed.mp4"></iframe>
 
+-----
+<p>
+ 
+ </p>
 
 ## Analyse and export visualisations
 
