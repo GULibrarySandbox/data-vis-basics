@@ -52,7 +52,7 @@ Topics covered:
 The sample dataset to work with is from Griffith University's Prosecution Project, cited as:
 
 Finnane, Mark, 2019, "Queensland Supreme Court Trials 1850-1899",
-doi:10.26193/6YOCXO, ADA Dataverse, V1, UNF:6:cB3aNxfy6JBMKg8tHM/W1g==  [https://
+doi:10.26193/6YOCXO, ADA Dataverse, V1, UNF:6:cB3aNxfy6JBMKg8tHM/W1g==[https://
 dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data?q=queensland](https://
 dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data?q=queensland)
 
