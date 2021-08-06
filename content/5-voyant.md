@@ -7,9 +7,9 @@ nav: true
 
 -----
 
-[voyant-tools.org](voyant-tools.org) is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert mulitple URLs or copy and paste text into the search box. After analysis work, image files of visualisatios can be exported for further use.
+[voyant-tools.org](voyant-tools.org) is a plug and play tool for simple text analysis and visualisation.   Voyant Tools will read and analyse a variety of documents types.  You can upload single or multiple PDFs, insert mulitple URLs or copy and paste text into the search box. After analysis work, image files of visualisations can be exported for further use.
 
-Voyant Tools is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.   It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.
+Voyant Tools is a scholarly project designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public. It is an open-source project and the code is available through GitHub.  The code is under a GPL3 license and the content is under a Creative Commons By Attribution license.  
 
 Do not use personal, confidential or sensitive data in Voyant Tools.
 
