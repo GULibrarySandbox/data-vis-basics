@@ -107,7 +107,7 @@ The standard visualisations show the following in separate windows:
 {% capture text %}
 In this set of activities we will use URLs of six articles from [The Conversation](https://theconversation.com/au) series [Decoding the music masterpieces](https://theconversation.com/au/topics/decoding-the-music-masterpieces-37147), to explore the tools and change the visualisations. 
 
-Step 1 
+Step 1 - Upload
 
 - `copy` and `paste` each of The Conversation URLs below, on a separate line, into the `Add texts` box.
  - https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
@@ -117,7 +117,7 @@ Step 1
  - https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
  - https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
 
-Step 2
+Step 2 - Explore and visualise
 
 Let's change the visualisation of *The Conversation* articles' dataset.
 - Hover over the toolbar at the top of the Cirrus window and click on the small windows icon.
@@ -129,16 +129,29 @@ Let's change the visualisation of *The Conversation* articles' dataset.
 Results will show where the term piano is located across the text of each document. Each red dot is a use of the term piano.  You can play with this by removing the term piano and adding another term.
 {% include figure.html img="VoyantConversationMicroSearch.png" alt="Micro Search example" caption="Micro Search example" width="100%" %}
 - Hover over the toolbar again and click on the small windows icon
-- Select`Visualisation tools`
+- Select `Visualisation tools`
 - Select `Links` from the dropdown menu
 
 The results will show a `Collocates Graph` representing keywords and terms that occur in close proximity as a force directed network graph. Find out more about the Collocates Graph in Voyant's terrific guide [here](https://voyant-tools.org/docs/#!/guide/collocatesgraph).
 {% include figure.html img="VoyantConversationCollocates.png" alt="Collocates graph example" caption="Collocates graph example" width="100%" %}
-- Export this graph using the export visualisation function
-- export the graph as an SNG
-- copy the visualisation and paste the image into a word doc
-- again using the export function, export the bibliographic reference 
--  NEED TO ADD THE STEPS.{% endcapture %}{% include card.md header="Activity: Explore a series of articles from The Conversation" text=text %}
+
+Step 3 - Export
+- Hover the mouse along the top bar of the `Collocates Graph`, you will see three icons in the image appear 
+- Select the first icon, the square with the arrow, this will open a pop up window
+{% include figure.html img="VoyantExportPopUp.png" alt="Export button" caption="Voyant's export options" width="100%" %}
+- the first option will give you the options to export HTML code, a bibliographic reference and a notebook
+- to copy a reference click the bibliographic reference button then click `export`
+- there are three reference options available, copy the style you need. 
+{% include figure.html img="VoyantExportReference.png" alt="Export Voyant reference" caption="Export a reference to Voyant" width="100%" %}
+- Select the second option `Export visualisation` for an image file
+{% include figure.html img="VoyantExportVis.png" alt="Select Export Visualisation" caption="Select Export Visualisation" width="100%" %}
+- Choose `SNG` file type, then click `export`, and `right click` on the `Thumbnail image`
+- Select `Save image as...`
+- name the image file
+- `Save`
+{% include figure.html img="VoyantExportPNG.png" alt="Export an image from Voyant" caption="Export an image Voyant" width="100%" %}{% endcapture %}{% include card.md header="Activity: Explore a series of articles from The Conversation" text=text %}
+
+-----
 
 ## Voyant in practice- Articles citing Voyant Tools
 
