@@ -110,19 +110,12 @@ In this set of activities we will use URLs of six articles from [The Conversatio
 Step 1 
 
 - `copy` and `paste` each of The Conversation URLs below, on a separate line, into the `Add texts` box.
-- 
-https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
-
-https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
-
-https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
-
-https://theconversation.com/decoding-the-music-masterpieces-schuberts-winterreise-81553
-
-https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
-
-https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
-
+ - https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
+ - https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
+ - https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
+ - https://theconversation.com/decoding-the-music-masterpieces-schuberts-winterreise-81553
+ - https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
+ - https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
 
 Step 2
 
