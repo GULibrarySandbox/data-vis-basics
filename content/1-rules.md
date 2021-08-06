@@ -6,6 +6,8 @@ nav: true
 
 -----
 
+Consider the following points when planning a figure for publication.
+
 1. **Know your audience**: a figure should be tailored to your audience and will likely be presented differently to groups including peers, students or the general public.
 2. **Identify your message** before developing the figure. A figure is a quick way to introduce facts, or a result too complex to explain only with words.
 3. **Adapt the figure to the support medium**: the reader of a journal article has time & the ability to zoom on a figure vs a conference attendee has limited time & the presentation is at a distance.
