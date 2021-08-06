@@ -153,7 +153,7 @@ Step 3 - Export
 
 -----
 
-## Voyant in practice- Articles citing Voyant Tools
+## Voyant in practice - Articles citing Voyant Tools
 
 To see how reserachers are using Voyant in their studies take a look at the following articles:
 
