@@ -70,11 +70,11 @@ Watch the Video, this will show you how to use Voyant tools, export your visuali
 Once uploaded the text is shown in an analysis and visualisation screen. 
 
 The standard visualisations show the following in separate windows:
-- Cirrus: a word cloud showing the most frequent terms in the corpus (top left window)
-- Reader: a corpus reader that fetches segments of text as you scroll (center window)
-- Trends: a distribution graph showing terms across the corpus (or terms within a document) (top right window)
-- Summary: a tool that provides a simple, quantitative summary of the corpus (bottom left window)
-- Contexts: a concordance that shows each occurrence of a keyword with a bit of surrounding context (bottom right window)
+- [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus): a word cloud showing the most frequent terms in the corpus (top left window)
+- [Reader](https://voyant-tools.org/docs/#!/guide/reader): a corpus reader that fetches segments of text as you scroll (center window)
+- [Trends](https://voyant-tools.org/docs/#!/guide/trends): visualization that represents the frequencies of terms across documents in a corpus or across segments in a document.(top right window)
+- [Summary](https://voyant-tools.org/docs/#!/guide/summary): a tool that provides a simple, quantitative summary of the corpus (bottom left window)
+- [Contexts](https://voyant-tools.org/docs/#!/guide/contexts): a concordance that shows each occurrence of a keyword with a bit of surrounding context (bottom right window)
 
 {% capture text %}
 - To explore individual terms, click on a term in the reader and see counts and usage of the term in the Contexts box.  
@@ -109,13 +109,20 @@ In this set of activities we will use URLs of six articles from [The Conversatio
 
 Step 1 
 
-- `copy` and `paste` each of The Conversation URLs below:
-  - https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
-  - https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
-  - https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
-  - https://theconversation.com/decoding-the-music-masterpieces-schuberts-winterreise-81553
-  - https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
-  - https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
+- `copy` and `paste` each of The Conversation URLs below, on a separate line, into the `Add texts` box.
+- 
+https://theconversation.com/decoding-the-music-masterpieces-liszts-consolation-in-d-flat-serene-sweetness-and-melancholy-159702
+
+https://theconversation.com/decoding-the-music-masterpieces-liszts-piano-sonata-in-b-minor-74243
+
+https://theconversation.com/decoding-the-music-masterpieces-bachs-the-art-of-fugue-73522
+
+https://theconversation.com/decoding-the-music-masterpieces-schuberts-winterreise-81553
+
+https://theconversation.com/decoding-the-music-masterpieces-bachs-six-solo-cello-suites-83797
+
+https://theconversation.com/decoding-the-music-masterpieces-rossinis-opera-otello-104760
+
 
 Step 2
 
@@ -133,7 +140,7 @@ Results will show where the term piano is located across the text of each docume
 - Select `Links` from the dropdown menu
 
 The results will show a `Collocates Graph` representing keywords and terms that occur in close proximity as a force directed network graph. Find out more about the Collocates Graph in Voyant's terrific guide [here](https://voyant-tools.org/docs/#!/guide/collocatesgraph).
-
+{% include figure.html img="VoyantConversationCollocates.png" alt="Collocates graph example" caption="Collocates graph example" width="100%" %}
 - Export this graph using the export visualisation function
 - export the graph as an SNG
 - copy the visualisation and paste the image into a word doc
