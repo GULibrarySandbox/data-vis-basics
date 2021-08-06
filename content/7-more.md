@@ -15,13 +15,12 @@ These are our recommendations:
 - [ebooks](https://griffith-summon-serialssolutions-com.libraryproxy.griffith.edu.au/search?s.q=data+visualisation&search-type=all#!/search?ho=t&fvf=ContentType,Book%20%252F%20eBook,f&rf=PublicationDate,2015-07-14:2020-07-14&l=en-AU&q=data%20visualisation) on data visualisation available via Griffith University Library
 - [Good information design for scientific figures](https://youtu.be/Lb4uG4rIwPA]) presentation from Kelly Krause, Creative Director at Nature journal 
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) software for concept and network cloud visualisations
+- [Contact us](https://intranet.secure.griffith.edu.au/library/forms/help) at Griffith University Library for more support or advice on data visualisation
 
 ##### Want to learn to create visualisation using code? 
 
 - attend Griffith eResearch Software Carpentry training for `R` or `Python`.  Register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYgli2x3zWW9Nt79Pc1vnhxZUMURYSENZV1MyT1pKTFlTTEFON1FYWDIyVSQlQCN0PWcu).
 - find out about eResearch support for coding at [Hacky Hour](https://www.griffith.edu.au/eresearch-services/hacky-hour)
-- [Contact us](https://intranet.secure.griffith.edu.au/library/forms/help) at Griffith University Library for more support or advice on data visualisation
-
 
 -----
 
