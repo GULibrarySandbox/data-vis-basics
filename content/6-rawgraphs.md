@@ -270,6 +270,13 @@ RAWGraphs has great online tutorials and videos for all chart types.  For online
 
 -----
 
+##### Was this tutorial helpful? Let us know.
+
+{% include button.md text="Complete this quick survey" link= "https://prodsurvey.rcs.griffith.edu.au/prodls200/index.php/589544?FeedbackSource=OpenRefineAdvancedGitHubpages&Discipline=Research&Client=&newtest=Y" color="info" %}
+
+
+-----
+
 <p align="center">
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/data-vis-basics/content/7-more.html">NEXT --></a>
