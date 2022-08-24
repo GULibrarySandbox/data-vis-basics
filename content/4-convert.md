@@ -9,13 +9,11 @@ nav: true
 
 ### Image formats
 
-Some publishers require that you submit images from a selected and limited range of formats. 
+Most publishers require that you submit images from a selected and limited range of formats. 
 
 For example, instructions from Wiley include to use standard image formats: 
 
 `BMP`, `JPG`, `JPEG`, `TIF`, `WMF`, or `EPS`.
-
-In this example, the first four are `Raster` formats, while the last two are `Vector` formats. When saving an image you should choose a `Raster` format wherever possible as MSWord doesn't recognise `*.eps` and and Photoshop doesn't recognised `*.wmf`. 
 
 Make sure to refer to the journal’s style guide for preferred formats.
 
